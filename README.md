@@ -44,3 +44,5 @@ For the English edition of Acta Imarchiae, including translations and verified d
 All documents are traceable, ratified, and aligned with the original Latin and Russian editions.  
 Custodia and editorial integrity are preserved across languages.
 
+↩️ [Reditus ad Paginam Prīncipalem](https://acta.imarch.sbs)
+
