@@ -30,3 +30,12 @@ Documents can be:
 
 Questions, comments, or revision suggestions may be directed to the Documentation Office:  
 📧 `acts@imarchia.org`
+
+🌐 Versio Latina (Prīnceps)  
+Haec pagina est editio Latina Actuum Imarchiae — scena prīncipalis, lingua originaria, et fundamentum translationum.
+
+👉 🔗 [Versio Latina — Acta Institutionalia](./README.md)
+
+Omnia documenta sunt trāctābilia, ratificāta, et cum editionibus Anglicā et Russicā congruentia.  
+Custodia et integritas editorialis per linguās conservantur.
+
