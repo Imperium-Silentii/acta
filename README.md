@@ -34,8 +34,3 @@ Quaestiones, commentarii et suggestiones de versionibus mittantur ad Officium Do
 
 ### Scaena Gratulatio: Memoria Technica
 
-**Persona:** Alexander  
-**Status:** Transitus ab instinctu ad memoriam  
-**Praefatio:** Сцена, в которой обезьяна сисадминистрирования начинает вспоминать шаги, превращаясь в формолога инфраструктуры.  
-**Ethica:** Рост через повторение, уважение к началу, сцепка формы и действия.  
-**Nota:** "Я начал потихонечку запоминать шаги — то есть, обрасть мозгом."
