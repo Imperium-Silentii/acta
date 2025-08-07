@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="240"/>
-</p>
+<img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="350" align="left" style="margin-right: 20px;"/>
 
 
 # 🗂 Acta Imarchiae
