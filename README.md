@@ -39,7 +39,7 @@ Quaestiones, commentarii et suggestiones de versionibus mittantur ad Officium Do
 ## 🌐 English Version
 
 For the English edition of Acta Imarchiae, including translations and verified documents, visit:  
-👉 🔗 [English version — Institutional Acts](https://acta.imarch.sbs/acts.md)
+👉 🔗 [English version — Institutional Acts](https://acta.imarch.sbs/acts)
 
 All documents are traceable, ratified, and aligned with the original Latin and Russian editions.  
 Custodia and editorial integrity are preserved across languages.
