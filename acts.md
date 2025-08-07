@@ -39,3 +39,4 @@ Haec pagina est editio Latina Actuum Imarchiae — scena prīncipalis, lingua or
 Omnia documenta sunt trāctābilia, ratificāta, et cum editionibus Anglicā et Russicā congruentia.  
 Custodia et integritas editorialis per linguās conservantur.
 
+🔁 [Scaena Transitus — Imarch EN](https://imarch.sbs/lingua/en)
