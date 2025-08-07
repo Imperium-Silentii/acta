@@ -1,3 +1,5 @@
+<img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="350"/>
+
 # 🗂 Acts of Imarchia
 
 **Acts** are official documents outlining the philosophical, legal, and institutional foundations of Imarchia.
