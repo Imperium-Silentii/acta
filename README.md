@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="240"/>
+</p>
+
+
 # 🗂 Acta Imarchiae
 
 **Acta** sunt documenta officialia quae fundamenta philosophica, iuridica, ac institutionalia Imarchiae definiunt.
