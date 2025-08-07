@@ -34,3 +34,13 @@ Quaestiones, commentarii et suggestiones de versionibus mittantur ad Officium Do
 
 ### Scaena Gratulatio: Memoria Technica
 
+---
+
+## 🌐 English Version
+
+For the English edition of Acta Imarchiae, including translations and verified documents, visit:  
+👉 [Acta Imarchiae – English Version](https://github.com/Imperium-Silentii/acta-en)
+
+All documents are traceable, ratified, and aligned with the original Latin and Russian editions.  
+Custodia and editorial integrity are preserved across languages.
+
