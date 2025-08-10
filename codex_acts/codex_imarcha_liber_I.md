@@ -10,7 +10,7 @@
 🔗 [passport_Unghart-sn_001](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 **Dies creationis**: 2025.08.10  
 **Licentia**: Creative Commons BY-NC-SA 4.0 International  
-**Impressio SHA256**: *[inserenda]*  
+**Impressio SHA256**: *d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb*  
 
 ---
 
@@ -923,7 +923,7 @@ vel **basi intellectuali disciplinae**.
 **Passport**: [Custos Identity Passport](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 **Date of Creation**: 2025.08.10  
 **License**: [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-**SHA256 Hash**: `[insert hash here]`
+**SHA256 Hash**: `d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb`
 
 ---
 
