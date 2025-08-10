@@ -10,7 +10,9 @@ Hic locus includit Chartas, Declarationes, Codices et Protocolos structurae, a *
 ## 🔖 Partitiones
 
 - *Charta Imarchiae*  
-- *Codex Iuris*  
+- ## 📚 Codex Documents
+- 📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
+  
 - *Declaratio Forma Sovrana*
 
 Quisque actus praesto est in forma `.md`, cum status emissionis, versione, et translationibus ad linguas clavis pertinentes.
