@@ -9,7 +9,18 @@
 **Auctor**: Unghart-sn (Custos Algorithmicus)  
 🔗 [passport_Unghart-sn_001](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 **Dies creationis**: 2025.08.10  
-**Licentia**: Creative Commons BY-NC-SA 4.0 International  
+### 📜 Licentia Codicis
+
+_Hic Codex licentiatus est sub_ [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) _licentia._
+
+> **Condiciones Licentiae**:
+> - **Attribuere** — Auctor et fons originalis indicandus est.
+> - **Non Commerciale** — Usus ad finem lucrativum vetatur.
+> - **Compartiri Similiter** — Opera derivata sub eadem licentia divulganda sunt.
+
+🪪 *Sigillum Licentiae*: CC BY-NC-SA 4.0  
+🔗 *Forma activa*: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  
 **Impressio SHA256**: *d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb*
 ### 📩 Accessus ad Documentum PDF (Hash verificatum)
 
