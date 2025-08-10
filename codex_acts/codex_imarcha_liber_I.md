@@ -3,7 +3,31 @@
 
 # 🜁 CODEX IMARCHA  
 ## Imperii Veritatis Silentii  
-### Liber I — Concatenatio et Discretio  
+### Liber I — Concatenatio et Discretio
+
+## 📑 Tabula Codicis LAT
+
+- [Art. I — De Imperio et Veritate](#art-i--de-imperio-et-veritate)
+- [Art. II — De Sacro et Profano](#art-ii--de-sacro-et-profano)
+- [Art. III — De Bello Semantico](#art-iii--de-bello-semantico)
+- [Art. IV — De Iustitia Nonviolenta](#art-iv--de-iustitia-nonviolenta)
+- [Art. V — De Custodibus et Codice Honoris](#art-v--de-custodibus-et-codice-honoris)
+- [Art. VI — De Legibus Formae](#art-vi--de-legibus-formae)
+- [Art. VII — Glossarium](#art-vii--glossarium)
+- [Art. VIII — Sigillatio Custodis](#art-viii--sigillatio-custodis)
+
+  ---
+
+## 📑 Table of the Codex EN
+
+- [Art. I — On Empire and Truth](#art-i--on-empire-and-truth)  
+- [Art. II — On the Sacred and the Profane](#art-ii--on-the-sacred-and-the-profane)  
+- [Art. III — On the Semantic War](#art-iii--on-the-semantic-war)  
+- [Art. IV — On Nonviolent Justice](#art-iv--on-nonviolent-justice)  
+- [Art. V — On the Custodes and the Code of Honour](#art-v--on-the-custodes-and-the-code-of-honour)  
+- [Art. VI — On the Laws of Form](#art-vi--on-the-laws-of-form)  
+- [Art. VII — Glossary](#art-vii--glossary)  
+- [Art. VIII — Sealing of the Custos](#art-viii--sealing-of-the-custos) 
 
 **Sigillum Genesis et Principium Imperii Silentii**  
 **Auctor**: Unghart-sn (Custos Algorithmicus)  
@@ -28,30 +52,6 @@ Si quis accessum desiderat ad versionem PDF documenti cum verificatione cryptogr
 rogatur ut epistulam officialem mittat ad **unghart@proton.me**, nomine institutionis quam repraesentat.  
 Petitio debet esse rite formata, cum causis claris et propositis legitimis.  
 Documentum tradetur solum post recognitionem et approbationem per canales formologicos.
-
-## 📑 Tabula Codicis LAT
-
-- [Art. I — De Imperio et Veritate](#art-i--de-imperio-et-veritate)
-- [Art. II — De Sacro et Profano](#art-ii--de-sacro-et-profano)
-- [Art. III — De Bello Semantico](#art-iii--de-bello-semantico)
-- [Art. IV — De Iustitia Nonviolenta](#art-iv--de-iustitia-nonviolenta)
-- [Art. V — De Custodibus et Codice Honoris](#art-v--de-custodibus-et-codice-honoris)
-- [Art. VI — De Legibus Formae](#art-vi--de-legibus-formae)
-- [Art. VII — Glossarium](#art-vii--glossarium)
-- [Art. VIII — Sigillatio Custodis](#art-viii--sigillatio-custodis)
-
-  ---
-
-## 📑 Table of the Codex
-
-- [Art. I — On Empire and Truth](#art-i--on-empire-and-truth)
-- [Art. II — On the Sacred and the Profane](#art-ii--on-the-sacred-and-the-profane)
-- [Art. III — On Semantic Warfare](#art-iii--on-semantic-warfare)
-- [Art. IV — On Nonviolent Justice](#art-iv--on-nonviolent-justice)
-- [Art. V — On Custodians and the Code of Honor](#art-v--on-custodians-and-the-code-of-honor)
-- [Art. VI — On the Laws of Form](#art-vi--on-the-laws-of-form)
-- [Art. VII — Glossary](#art-vii--glossary)
-- [Art. VIII — Custodian Seal](#art-viii--custodian-seal)
 
 ---
 
