@@ -10,7 +10,14 @@
 🔗 [passport_Unghart-sn_001](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 **Dies creationis**: 2025.08.10  
 **Licentia**: Creative Commons BY-NC-SA 4.0 International  
-**Impressio SHA256**: *d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb*  
+**Impressio SHA256**: *d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb*
+### 📩 Accessus ad Documentum PDF (Hash verificatum)
+
+Si quis accessum desiderat ad versionem PDF documenti cum verificatione cryptographica (hash),  
+rogatur ut epistulam officialem mittat ad **unghart@proton.me**, nomine institutionis quam repraesentat.  
+Petitio debet esse rite formata, cum causis claris et propositis legitimis.  
+Documentum tradetur solum post recognitionem et approbationem per canales formologicos.
+
 
 ---
 
@@ -924,6 +931,12 @@ vel **basi intellectuali disciplinae**.
 **Date of Creation**: 2025.08.10  
 **License**: [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 **SHA256 Hash**: `d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb`
+### 📩 Access to PDF Document (Hash Verified)
+
+Those who wish to access the PDF version of the document with hash verification  
+must submit an official request via email to **unghart@proton.me**, clearly stating the name of the organization they represent.  
+The request must be properly formatted, with a clear justification and legitimate purpose.  
+The document will be shared only after review and approval through formological channels.
 
 ---
 
