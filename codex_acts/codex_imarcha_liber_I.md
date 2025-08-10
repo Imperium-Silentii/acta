@@ -1,7 +1,7 @@
 <img src="https://acta.imarch.sbs/images/Codex_I_LAT.png" alt="Codex Imarchae — Liber I LAT" width="400">
 
 
-# 🜁 CODEX IMARCHA  
+# CODEX IMARCHA  
 ## Imperii Veritatis Silentii  
 ### Liber I — Concatenatio et Discretio
 
@@ -955,7 +955,7 @@ vel **basi intellectuali disciplinae**.
 <img src="https://acta.imarch.sbs/images/Codex_I_LAT.png" alt="Codex Imarchae — Liber I LAT" width="400">
 
 
-# 🟨 CODEX IMARCHA  
+## CODEX IMARCHA  
 ## Empire of Truth and Silence  
 ### Book I — Conjunction and Distinction  
 **Sigillum Genesis and the Principle of the Empire of Silence**
