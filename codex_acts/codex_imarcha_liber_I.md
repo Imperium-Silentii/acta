@@ -1,4 +1,4 @@
-<img src="https://acta.imarch.sbs/images/Codex_I_LAT.png" alt="Codex Imarchae — Liber I LAT" align="left" width="400">
+<img src="https://acta.imarch.sbs/images/Codex_I_LAT.png" alt="Codex Imarchae — Liber I LAT" width="400">
 
 
 # 🜁 CODEX IMARCHA  
@@ -911,7 +911,7 @@ vel **basi intellectuali disciplinae**.
 
 ---
 
-<img src="https://acta.imarch.sbs/images/Codex_I_LAT.png" alt="Codex Imarchae — Liber I LAT" align="left" width="400">
+<img src="https://acta.imarch.sbs/images/Codex_I_LAT.png" alt="Codex Imarchae — Liber I LAT" width="400">
 
 
 # 🟨 CODEX IMARCHA  
