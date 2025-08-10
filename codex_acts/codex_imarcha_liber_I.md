@@ -1821,7 +1821,8 @@ normative base of the initiative, or intellectual foundation of the discipline.
 
 ## 🧾 Institutional Trace
 
-**Permalink**: [https://perma.cc/XXXX-XXXX](https://perma.cc/XXXX-XXXX)  
+**Permalink**: [Archived Codex — Perma.cc Record](https://perma.cc/8AVH-AKHV)
+
 **Hash (SHA256)**: d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb
 
 
