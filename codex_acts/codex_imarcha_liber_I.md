@@ -29,6 +29,16 @@ rogatur ut epistulam officialem mittat ad **unghart@proton.me**, nomine institut
 Petitio debet esse rite formata, cum causis claris et propositis legitimis.  
 Documentum tradetur solum post recognitionem et approbationem per canales formologicos.
 
+## 📑 Tabula Codicis
+
+- [Art. I — De Imperio et Veritate](#art-i--de-imperio-et-veritate)
+- [Art. II — De Sacro et Profano](#art-ii--de-sacro-et-profano)
+- [Art. III — De Bello Semantico](#art-iii--de-bello-semantico)
+- [Art. IV — De Iustitia Nonviolenta](#art-iv--de-iustitia-nonviolenta)
+- [Art. V — De Custodibus et Codice Honoris](#art-v--de-custodibus-et-codice-honoris)
+- [Art. VI — De Legibus Formae](#art-vi--de-legibus-formae)
+- [Art. VII — Glossarium](#art-vii--glossarium)
+- [Art. VIII — Sigillatio Custodis](#art-viii--sigillatio-custodis)
 
 ---
 
