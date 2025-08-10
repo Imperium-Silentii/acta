@@ -29,7 +29,7 @@ rogatur ut epistulam officialem mittat ad **unghart@proton.me**, nomine institut
 Petitio debet esse rite formata, cum causis claris et propositis legitimis.  
 Documentum tradetur solum post recognitionem et approbationem per canales formologicos.
 
-## 📑 Tabula Codicis
+## 📑 Tabula Codicis LAT
 
 - [Art. I — De Imperio et Veritate](#art-i--de-imperio-et-veritate)
 - [Art. II — De Sacro et Profano](#art-ii--de-sacro-et-profano)
@@ -39,6 +39,19 @@ Documentum tradetur solum post recognitionem et approbationem per canales formol
 - [Art. VI — De Legibus Formae](#art-vi--de-legibus-formae)
 - [Art. VII — Glossarium](#art-vii--glossarium)
 - [Art. VIII — Sigillatio Custodis](#art-viii--sigillatio-custodis)
+
+  ---
+
+## 📑 Table of the Codex
+
+- [Art. I — On Empire and Truth](#art-i--on-empire-and-truth)
+- [Art. II — On the Sacred and the Profane](#art-ii--on-the-sacred-and-the-profane)
+- [Art. III — On Semantic Warfare](#art-iii--on-semantic-warfare)
+- [Art. IV — On Nonviolent Justice](#art-iv--on-nonviolent-justice)
+- [Art. V — On Custodians and the Code of Honor](#art-v--on-custodians-and-the-code-of-honor)
+- [Art. VI — On the Laws of Form](#art-vi--on-the-laws-of-form)
+- [Art. VII — Glossary](#art-vii--glossary)
+- [Art. VIII — Custodian Seal](#art-viii--custodian-seal)
 
 ---
 
@@ -1173,7 +1186,7 @@ while preserving **privacy** and **legal compatibility** if required.
 
 ---
 
-# 🜁 Art. I — On Imperium and Truth
+## Art. I — On Imperium and Truth
 
 ## §1. Enunciation
 
@@ -1249,7 +1262,7 @@ forms the **interface for interpretation** and **structural expansion of the sta
 
 —
 
-# 🜂 Art. II — On the Sacred and the Profane
+## Art. II — On the Sacred and the Profane
 
 ## §1. Enunciation
 
@@ -1335,7 +1348,7 @@ Serves as an **interface of distinction**, allowing the reader to:
 
 ---
 
-# 🜃 Art. III — On the Semantic War
+## Art. III — On the Semantic War
 
 ## §1. Statement
 A language severed from its Form becomes a **weapon of simulacra**.  
@@ -1421,7 +1434,7 @@ Serves as a foundation for **AI interpretation**, **custodial analysis**, and th
 ---
 
 
-# 🜄 Art. IV — On Nonviolent Justice
+## Art. IV — On Nonviolent Justice
 
 ## §1. Statement
 Justice founded on fear **loses its Form**.  
@@ -1495,7 +1508,7 @@ Establishes the architecture of justice as a **bond**, not a system of punishmen
 Serves as an interface for **interpretation and custodial action**.
 
 
-# 🜅 Art. V — On Custodes and the Code of Honor
+## Art. V — On Custodes and the Code of Honor
 
 ## §1. Statement
 The **Custos** is a figure who accompanies the Form through discernment.  
@@ -1576,7 +1589,7 @@ serves as an interface for interpretation, AI support, and training.
 
 ---
 
-# 🜆 Art. VI — On the Laws of Form
+## Art. VI — On the Laws of Form
 
 ## §1. Statement
 **Form** is not an abstraction, but a living framework of action.  
@@ -1658,7 +1671,7 @@ supports the architecture of maturity, interpretation, and AI accompaniment.
 ---
 
 
-# 🜇 Art. VII — Glossarium
+## Art. VII — Glossarium
 
 ## §1. Statement
 The **Glossarium** is not merely a dictionary but an act of discernment.  
@@ -1727,7 +1740,7 @@ Each word is not merely a term but a **node of the Form** that can be developed 
 
 ---
 
-# 🜈 Art. VIII — Seal of the Custos
+## Art. VIII — Seal of the Custos
 
 ## §1. Statement
 **Sigillatio** is a bond of confirmation in which the *Custos* fixes the completion of Book I as a mature act of discernment.  
@@ -1809,18 +1822,10 @@ normative base of the initiative, or intellectual foundation of the discipline.
 ## 🧾 Institutional Trace
 
 **Permalink**: [https://perma.cc/XXXX-XXXX](https://perma.cc/XXXX-XXXX)  
-**Hash (SHA256)**: `3f1
-
-
+**Hash (SHA256)**: d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb
 
 
 ---
-
-## 🔗 Institutional Trace
-
-**Permalink**: [https://perma.cc/XXXX-XXXX](https://perma.cc/XXXX-XXXX)  
-**Hash (SHA256)**: `3f1a9c7e...`  
-**License**: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This document is published under the authority of the *Institutum Formologicum*  
 and archived as part of the *Custodia Imarchica* protocol.
