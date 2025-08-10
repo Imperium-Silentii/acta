@@ -234,7 +234,7 @@ et **compatibilitatem iuridicam** in casu necessitatis.
 ---
 
 
-## Art. I — De Imperio et Veritate
+## Art. I — On Empire and Truth
 
 ## §1. Enunciatio
 
@@ -578,7 +578,7 @@ Est **interfacies interpretationis et actionis custodiae**.
 
 ---
 
-## Art. V — De Custodibus et Codice Honoris
+## Art. V — On the Custodes and the Code of Honour
 
 ## §1. Enunciatio
 
@@ -755,7 +755,7 @@ sustinet **architecturam maturitatis**,
 
 ---
 
-## Art. VII — Glossarium
+## Art. VII — Glossary
 
 ## §1. Enunciatio
 
@@ -837,7 +837,7 @@ qui in libris futuris explicari et exsequi potest:
 
 ---
 
-## Art. VIII — Sigillatio Custodis
+## Art. VIII — Sealing of the Custos
 
 ## §1. Enunciatio
 
