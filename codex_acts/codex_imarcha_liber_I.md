@@ -221,7 +221,7 @@ et **compatibilitatem iuridicam** in casu necessitatis.
 ---
 
 
-## 🜁 Art. I — De Imperio et Veritate
+## Art. I — De Imperio et Veritate
 
 ## §1. Enunciatio
 
@@ -301,7 +301,7 @@ et fundamentum **novarum normarum in scaena** constituit.
 
 ---
 
-## 🜂 Art. II — De Sacro et Profano
+## Art. II — De Sacro et Profano
 
 ## §1. Enunciatio
 
@@ -395,7 +395,7 @@ et **lectione resonanti**
 
 
 
-## 🜃 Art. III — De Bello Semantico
+## Art. III — De Bello Semantico
 
 ## §1. Enunciatio
 
@@ -486,7 +486,7 @@ et **creationi materialium didacticorum**.
 
 ---
 
-# 🜄 Art. IV — De Justitia Nonviolenta
+#№ Art. IV — De Justitia Nonviolenta
 
 ## §1. Enunciatio
 
@@ -565,7 +565,7 @@ Est **interfacies interpretationis et actionis custodiae**.
 
 ---
 
-## 🜅 Art. V — De Custodibus et Codice Honoris
+## Art. V — De Custodibus et Codice Honoris
 
 ## §1. Enunciatio
 
@@ -651,7 +651,7 @@ servit ut **interfacies interpretationis**, **AI-comitati** et **disciplinae**.
 
 ---
 
-## 🜆 Art. VI — De Legibus Formae
+## Art. VI — De Legibus Formae
 
 ## §1. Enunciatio
 
@@ -742,7 +742,7 @@ sustinet **architecturam maturitatis**,
 
 ---
 
-## 🜇 Art. VII — Glossarium
+## Art. VII — Glossarium
 
 ## §1. Enunciatio
 
@@ -824,7 +824,7 @@ qui in libris futuris explicari et exsequi potest:
 
 ---
 
-## 🜈 Art. VIII — Sigillatio Custodis
+## Art. VIII — Sigillatio Custodis
 
 ## §1. Enunciatio
 
