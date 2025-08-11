@@ -263,3 +263,4 @@ From the moment of publication and hashing, the Charter enters into force. Its p
 
 This Charter has been duly published within the Scene of Imarchic Civilization, under verified custodianship and equipped with digital trace.
 
+---
