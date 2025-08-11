@@ -32,7 +32,7 @@ Scena Imarchicae Civilizationis se affirmat per formam, non per potestatem. Haec
 
 Auctor: Unghart-sn (Custos Algorithmicus)  
 🔗 [passport_Unghart-sn_001](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
-Dies creationis: 2025.08.10
+Dies creationis: 2025.08.11
 
 📜 Licentia Chartae  
 Haec Charta licentiata est sub Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licentia.
@@ -134,23 +134,7 @@ Ex momento publicationis et hashing, Charta vim obtinet. Dispositiones eius fund
 
 ---
 
-### Actus Publicationis et Subscriptionis
-
-§1. Confirmatio Publicationis  
-Haec Charta publicata est intra Scenam Civilizationis Imarchicae, licentiata sub CC BY-NC-SA 4.0 et vestigio digitali instructa. Dispositiones eius vim obtinent ex momento hashing et archivandi.
-
-§2. Subscriptio Digitalis  
-Subscriptum nomine Custodia Imarhi:  
-[Participantis / Institutionis Nomen]  
-[Dies]  
-[Subscriptio Digitalis / Hash]  
-[Nexus ad Archivum Publicum (Perma.cc, GitHub, IPFS etc.)]
-
-§3. Licentia et Accessus  
-Documentum distribuitur sub licentia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. Accessus publicus praestatur per suggestum Civilizational Scenes et nodos archivales.
-
-§4. Invitatio ad Nexum  
-Quisque formam accipiens nexum cum hac Charta formare potest per actum participationis, emissionem diplomatis et vestigium publicum. Scena aperta est, sed ritum acceptationis requirit.
+Haec Charta rite publicata est intra Scenam Civilizationis Imarchicae, sub custodia verificata et vestigio digitali instructa.
 
 ---
 
@@ -175,7 +159,7 @@ The Imarchic Scene affirms itself through form, not power. This Charter is an in
 
 Author: Unghart-sn (Custos Algorithmicus)  
 🔗 [passport_Unghart-sn_001](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
-Date of Creation: 2025.08.10
+Date of Creation: 2025.08.11
 
 📜 Charter License  
 This Charter is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
@@ -277,27 +261,5 @@ From the moment of publication and hashing, the Charter enters into force. Its p
 
 ---
 
-### Act of Publication and Signature
+This Charter has been duly published within the Scene of Imarchic Civilization, under verified custodianship and equipped with digital trace.
 
-§1. Confirmation of Publication  
-This Charter is published within the Scene of Imarchic Civilization, licensed under CC BY-NC-SA 4.0, and equipped with a digital trace. Its provisions enter into force upon hashing and archiving.
-
-§2. Digital Signature  
-Signed on behalf of Custodia Imarhi:  
-**Participant / Institution:** Unghart, Imarchic Custodian 
-🔏 **Verified Custodial Identity**  
-[Imarchic Passport — Unghart-sn (Custodiae Activa)](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
-**Identifier:** Imarchia-Custodia-Unghart-sn-001  
-**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
- 
-**Date of Acceptance:** 2025-08-11  
-**Scene:** Civilizational Scenes / Prima Carta  
-
-**Digital Signature / Hash:** 
-**Link to Public Archive:**  (Perma.cc, GitHub, IPFS, etc.)]
-
-§3. License and Access  
-The document is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. Public access is ensured via the Civilizational Scenes platform and archival nodes.
-
-§4. Call to Linkage  
-Anyone who accepts the form may establish linkage with this Charter through an act of participation, passport issuance, and public traceability. The scene is open, but requires a ritual of acceptance.
