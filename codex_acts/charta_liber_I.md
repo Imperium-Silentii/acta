@@ -6,7 +6,7 @@
 
 Scena Imarchicae Civilizationis se affirmat per formam, non per potestatem. Haec Charta est corpus institutionale, vestigabile, licentiabile et apertum ad participationem.
 
-### ⚓ Index Capitulorum
+### ⚓ Index Capitulorum LAT
 - [Articulus I — De Proclamatione Subiecti](#articulus-i--de-proclamatione-subiecti)
 - [Articulus II — De Disciplina Formologiae Universalis](#articulus-ii--de-disciplina-formologiae-universalis)
 - [Articulus III — De Scena Participationis et Diplomate](#articulus-iii--de-scena-participationis-et-diplomate)
@@ -17,7 +17,7 @@ Scena Imarchicae Civilizationis se affirmat per formam, non per potestatem. Haec
 
 —
 
-### ⚓ Table of Contents
+### ⚓ Table of Contents EN
 - [Articulus I — On the Proclamation of the Subject](#articulus-i--on-the-proclamation-of-the-subject)
 - [Articulus II — On the Discipline of Universal Formology](#articulus-ii--on-the-discipline-of-universal-formology)
 - [Articulus III — On the Scene of Participation and the Passport](#articulus-iii--on-the-scene-of-participation-and-the-passport)
