@@ -12,7 +12,7 @@ This section includes Charters, Declarations, Codes, and structural protocols ra
 📜 [Charta Imarchica — Liber I](https://acta.imarch.sbs/codex_acts/charta_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
  
 - ## 📚 Codex Documents II  
-📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
+📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
  
 - *Declaration of Sovereign Form*
 
