@@ -1,4 +1,4 @@
-<img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="350"/>
+<img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="400"/>
 
 # 🗂 Acts of Imarchia
 
@@ -8,7 +8,9 @@ This section includes Charters, Declarations, Codes, and structural protocols ra
 
 ## 🔖 Sections
 
-- *Imarchia Charter*  
+- 📚 Codex Documents I  
+📜 [Charta Imarchica — Liber I](https://archivum.imarch.sbs/codex_acts/charta_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
+ 
 - *Codex Juris*  
 - *Declaration of Sovereign Form*
 
