@@ -32,6 +32,7 @@ Scena Imarchicae Civilizationis se affirmat per formam, non per potestatem. Haec
 
 Auctor: Unghart-sn (Custos Algorithmicus)  
 🔗 [passport_Unghart-sn_001](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
+
 Dies creationis: 2025.08.11
 
 📜 Licentia Chartae  
@@ -161,6 +162,7 @@ The Imarchic Scene affirms itself through form, not power. This Charter is an in
 
 Author: Unghart-sn (Custos Algorithmicus)  
 🔗 [passport_Unghart-sn_001](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
+
 Date of Creation: 2025.08.11
 
 📜 Charter License  
