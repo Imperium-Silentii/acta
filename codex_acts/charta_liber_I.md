@@ -46,7 +46,9 @@ Compartiri Similiter — Opera derivata sub eadem licentia divulganda sunt.
 🪪 Sigillum Licentiae: CC BY-NC-SA 4.0  
 🔗 [Forma activa](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Impressio SHA256: d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb
+Impressio SHA256: 097c0a517e3a1d745620a2c2a55e76d75685d53a0899ab95f025ed0f1b884f21
+
+*Forma PDF huius Chartae, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem. Rogatio mittenda est ad unghart@proton.me cum ratione requisitionis et indicatione nominis institutionis petentis.*
 
 ---
 
@@ -173,7 +175,9 @@ Share Alike — Derivative works must be distributed under the same license.
 🪪 License Seal: CC BY-NC-SA 4.0  
 🔗 [Active License Form](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-SHA256 Fingerprint: d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb
+SHA256 Fingerprint: 097c0a517e3a1d745620a2c2a55e76d75685d53a0899ab95f025ed0f1b884f21
+
+*A PDF version of this Charter, including its hash value and issuance seal, is available upon official request. The inquiry must be sent to unghart@proton.me with justification for the request and identification of the requesting organization.*
 
 ---
 
