@@ -10,7 +10,7 @@ Hic locus includit Chartas, Declarationes, Codices et Protocolos structurae, a *
 ## 🔖 Partitiones 
 
 - ## 📚 Codex Documents I
-📜 [Charta Imarchica — Liber I](https://archivum.imarch.sbs/codex_acts/charta_liber_I.md) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
+📜 [Charta Imarchica — Liber I](https://archivum.imarch.sbs/codex_acts/charta_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
  
 - ## 📚 Codex Documents II
 📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
