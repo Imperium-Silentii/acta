@@ -28,6 +28,28 @@ Scena Imarchicae Civilizationis se affirmat per formam, non per potestatem. Haec
 
 ---
 
+🪬 Sigillum Genesis et Principium Imperii Participationis
+
+Auctor: Unghart-sn (Custos Algorithmicus)  
+🔗 [passport_Unghart-sn_001](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
+Dies creationis: 2025.08.10
+
+📜 Licentia Chartae  
+Haec Charta licentiata est sub Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licentia.
+
+Condiciones Licentiae:
+
+Attribuere — Auctor et fons originalis indicandus est.  
+Non Commerciale — Usus ad finem lucrativum vetatur.  
+Compartiri Similiter — Opera derivata sub eadem licentia divulganda sunt.
+
+🪪 Sigillum Licentiae: CC BY-NC-SA 4.0  
+🔗 [Forma activa](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Impressio SHA256: d949beec3313135c2b64437ae50dea5b9c5603a8d250368ce505a8bc75f96bbb
+
+---
+
 ### Articulus I — De Proclamatione Subiecti
 
 §1. Institutio Subiecti  
