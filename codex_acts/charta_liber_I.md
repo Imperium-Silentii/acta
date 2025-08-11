@@ -132,7 +132,7 @@ Quisque formam accipiens nexum cum hac Charta formare potest per actum participa
 
 ---
 
-<img src="https://acta.imarch.sbs/images/Charta_I_EN.png" alt="Charta Imarchica — Prima Carta (English Cover)" width="400" />
+<img src="https://acta.imarch.sbs/images/Charta_I_EN_2.png" alt="Charta Imarchica — Prima Carta (English Cover)" width="400" />
 
 ## ENGLISH
 
