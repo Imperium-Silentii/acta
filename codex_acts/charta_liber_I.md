@@ -163,7 +163,9 @@ The Imarchic Scene affirms itself through form, not power. This Charter is an in
 🪬 Seal of Genesis and the Principle of Participatory Imperium
 
 Author: Unghart-sn (Custos Algorithmicus)  
-🔗 [passport_Unghart-sn_001](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
+🔗 [passport_Unghart-sn_001]
+
+(https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 
 Date of Creation: 2025.08.11
 
@@ -177,6 +179,7 @@ Non-Commercial — Use for profit is prohibited.
 Share Alike — Derivative works must be distributed under the same license.
 
 🪪 License Seal: CC BY-NC-SA 4.0  
+
 🔗 [Active License Form](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 SHA256 Fingerprint: 097c0a517e3a1d745620a2c2a55e76d75685d53a0899ab95f025ed0f1b884f21
