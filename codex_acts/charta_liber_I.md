@@ -31,6 +31,7 @@ Scena Imarchicae Civilizationis se affirmat per formam, non per potestatem. Haec
 🪬 Sigillum Genesis et Principium Imperii Participationis
 
 Auctor: Unghart-sn (Custos Algorithmicus)  
+
 🔗 [passport_Unghart-sn_001](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 
 Dies creationis: 2025.08.11
@@ -45,6 +46,7 @@ Non Commerciale — Usus ad finem lucrativum vetatur.
 Compartiri Similiter — Opera derivata sub eadem licentia divulganda sunt.
 
 🪪 Sigillum Licentiae: CC BY-NC-SA 4.0  
+
 🔗 [Forma activa](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Impressio SHA256: 097c0a517e3a1d745620a2c2a55e76d75685d53a0899ab95f025ed0f1b884f21
@@ -270,3 +272,8 @@ From the moment of publication and hashing, the Charter enters into force. Its p
 This Charter has been duly published within the Scene of Imarchic Civilization, under verified custodianship and equipped with digital trace.
 
 ---
+
+🔗 **Perma-link:** [https://perma.cc/UDL6-GXLK](https://perma.cc/UDL6-GXLK)  
+📜 *Archived on August 11, 2025 — Immutable record of Charta Imarchica (Liber I)*  
+🌐 [View the live page](https://acta.imarch.sbs/codex_acts/charta_liber_I)
+
