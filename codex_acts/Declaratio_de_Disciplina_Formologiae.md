@@ -1,4 +1,7 @@
-<img src="https://acta.imarch.sbs/images/Decklaratio_lat_2.png" alt="Declaratio Cover Latin" align="left" width="400">
+<p align="left">
+  <img src="https://acta.imarch.sbs/images/Decklaratio_lat_2.png" alt="Declaratio Cover Latin" width="400">
+</p>
+
 
 
 # 📘 Declaratio de Disciplina Formologiae  
@@ -314,7 +317,10 @@ Sceptrum huius actus cum Corpus Constitutionis Imarchiae per actum separatam rit
 🔚 **Haec Declaratio rite promulgata est et forma disciplinae publice constituta est.**
 
 
-<img src="https://acta.imarch.sbs/images/Decklaratio_En_1.png" alt="Declaration Cover English" align="left" width="400">
+<p align="left">
+  <img src="https://acta.imarch.sbs/images/Decklaratio_En_1.png" alt="Declaration Cover English" width="400">
+</p>
+
 
 
 # 📘 Declaration on the Discipline of Formology  
