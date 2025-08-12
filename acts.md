@@ -8,13 +8,17 @@ This section includes Charters, Declarations, Codes, and structural protocols ra
 
 ## 🔖 Sections
 
-- ## 📚 Codex Documents I  
-📜 [Charta Imarchica — Liber I](https://acta.imarch.sbs/codex_acts/charta_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
- 
-- ## 📚 Codex Documents II  
-📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
- 
-- *Declaration of Sovereign Form*
+## 📚 Codex Documents I  
+📜 [Charta Imarchica — Liber I](https://acta.imarch.sbs/codex_acts/charta_liber_I)  
+Foundational distinctions and resonant architecture of the Empire of Truth and Silence.  
+
+## 📚 Codex Documents II  
+📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I)  
+Architectura distinctionum: grammatica resonans corporis civilis.
+
+## 📚 Codex Documents III  
+📜 [Declaratio de Disciplina Formologiae](https://acta.imarch.sbs/codex_acts/Declaratio_de_Disciplina_Formologiae)
+Ethics of form: inner discipline and ritual citizenship.
 
 Each act is available in `.md` format and accompanied by publication status, version control, and key language translations.
 
