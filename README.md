@@ -10,13 +10,13 @@ Hic locus includit Chartas, Declarationes, Codices et Protocolos structurae, a *
 ## 🔖 Partitiones 
 
 - ## 📚 Codex Documents I
-📜 [Charta Imarchica — Liber I](https://acta.imarch.sbs/codex_acts/charta_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
+📜 [Charta Imarchica — Liber I](https://acta.imarch.sbs/codex_acts/charta_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and SilenceConstitutio originis et silentii: actus fundationis Imperii Imarchiae (Constitution of Origin and Silence: Founding Act of the Empire of Imarchia).
  
 - ## 📚 Codex Documents II
-📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
+📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I) — Architectura distinctionum: grammatica resonans corporis civilis (Architecture of Distinctions: Resonant Grammar of the Civil Body)
   
 - ## 📚 Codex Documents III
-📜 [Declaratio de Disciplina Formologiae](https://acta.imarch.sbs/codex_acts/Declaratio_de_Disciplina_Formologiae) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence. 
+📜 [Declaratio de Disciplina Formologiae](https://acta.imarch.sbs/codex_acts/Declaratio_de_Disciplina_Formologiae) — Ethica formae: disciplina interior et civitas ritualis (Ethics of Form: Inner Discipline and Ritual Citizenship)
 
 Quisque actus praesto est in forma `.md`, cum status emissionis, versione, et translationibus ad linguas clavis pertinentes.
 
