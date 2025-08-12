@@ -15,7 +15,8 @@ Hic locus includit Chartas, Declarationes, Codices et Protocolos structurae, a *
 - ## 📚 Codex Documents II
 📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
   
-- *Declaratio Forma Sovrana*
+- ## 📚 Codex Documents III
+📜 [Declaratio de Disciplina Formologiae](https://acta.imarch.sbs/codex_acts/Declaratio_de_Disciplina_Formologiae) — Foundational distinctions and resonant architecture of the Empire of Truth and Silence. 
 
 Quisque actus praesto est in forma `.md`, cum status emissionis, versione, et translationibus ad linguas clavis pertinentes.
 
