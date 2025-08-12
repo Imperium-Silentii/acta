@@ -33,6 +33,7 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 
 ---
 
+
 ## Index Capitulorum Declarationis LAT
 
 1. [Articulus I - De fundamento spatiale disciplinae](#articulus-i---de-fundamento-spatiale-disciplinae)  
