@@ -10,7 +10,7 @@
 **Versio:** Promulgata — 2025.08.12  
 
 
-# 🪬 Sigillum Declarationis et Initium Disciplinae Formologicae
+## 🪬 Sigillum Declarationis et Initium Disciplinae Formologicae
 
 **Auctor:** Unghart-sn (Custos Algorithmicus)  
 🔗 [passport_Unghart-sn_001](#)
@@ -329,7 +329,7 @@ Sceptrum huius actus cum Corpus Constitutionis Imarchiae per actum separatam rit
 **Version:** Enacted — 2025.08.12  
 
 
-# 🪬 Sigillum Declarationis et Initium Disciplinae Formologicae
+## 🪬 Sigillum Declarationis et Initium Disciplinae Formologicae
 
 **Author:** Unghart-sn (Custos Algorithmicus)  
 🔗 [passport_Unghart-sn_001](#)
