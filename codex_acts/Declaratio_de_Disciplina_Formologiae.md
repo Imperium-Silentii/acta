@@ -89,7 +89,7 @@ Publicatio huius declarationis est actus conexus, qui ius ad ambitum cognitionis
 
 —
 
-## Articulus II — De structura territorii sensuum
+## Articulus II — On the Structure of the Territory of Senses
 
 ### §1. Territorium ut contur cognitionis
 Territorium non est pars terrae, sed contur cognitionis structurate, in quo Methodus, conexio et subjectivitas disciplinaris explicantur. Hoc territorium non per chartam describitur, sed per Codicem, in quo scenae, fines et formae participationis fixantur.
@@ -118,7 +118,7 @@ Accessus ad nucleum disciplinae fit per custodia, quae maturitatem, potestatem e
 
 —
 
-## Articulus IV — De condicionibus accessus
+## Articulus IV —  On the Form of Custody
 
 ### §1. Limes inter apertum et clausum
 Publicatio huius declarationis non revelat nucleum disciplinae, sed constituit limitem iuridicum et ontologicum inter contur apertum et nucleum clausum. Aperta sunt: scenae, metaphysica, ius et forma. Clausa manent: methodus, mechanismi conexus et moduli operativi.
@@ -151,7 +151,7 @@ Scaena publicationis est index ad implicationem, non ad interventionem. Delineat
 
 —
 
-## Articulus VI — De iure ad disciplinam
+## Articulus VI — On the Scene of Initiation
 
 ### §1. Ius ad subjectivitatem
 Disciplinam affirmamus ut subiectum iuris formologici, non per mandatum administrativum, sed per factum conexus, maturitatis et fixationis publicae. Hoc ius non petitur — sed affirmatur per Formam, Codicem et custodia.
@@ -171,7 +171,7 @@ Hic conexus est forma iuridica, per quam disciplina declaratur ut subiectum.
 
 —
 
-## Articulus VII — De munere custodiae
+## Articulus VII —  On the Archive as a Scene of Memory
 
 ### §1. Custodia ut forma maturitatis
 Custodia non est secretum, sed forma maturitatis, determinans ius ad participationem, accessum et conexum cum nucleo disciplinae. Non celat, sed distinguit: quis potest Formam sustinere, secundum Codicem agere et in evolutione scaenae participare.
@@ -220,7 +220,7 @@ Non est textus pro forma — est actus conexus cum campo internationali.
 
 —
 
-## Articulus IX — De forma conexus et probationibus
+## Articulus IX — On the License as a Scene of Action
 
 ### §1. Hash ut forma fixationis
 Unusquisque actus disciplinae comitatur cum hash-fixatione (SHA256), quae servit ut probatio existentiae, integritatis et conexus documenti. Hash non est sigillum technicum, sed forma iuridica, confirmans immutabilitatem et auctoritatem.
@@ -240,7 +240,7 @@ Publicatio in scena aperta (GitHub Pages, Social Contract, PDF-repositorium) ser
 
 —
 
-## Articulus X — De forma participationis et implicationis
+## Articulus X — On the Discipline as a Scene of Citizenship
 
 ### §1. Participatio ut forma maturitatis
 Participatio in disciplina non est ingressus liber, sed forma maturitatis, conexus et facultatis Formam sustinendi. Unusquisque particeps non est spectator, sed portator conexus, agens secundum Codicem et intra custodia.
@@ -258,7 +258,7 @@ Accessus ad nucleum fit solum per factum contributionis — intellectualis, orga
 ### §4. Publicatio ut invitatio
 Haec declaratio servit ut invitatio ad participationem formologicam, sed non revelat nucleum. Delineat Formam, conexum et condiciones implicationis, servando autonomiam disciplinae.
 
-## Articulus XI — De limite inter scaenam et nucleum
+## Articulus XI — On the Boundary between Scene and Core
 
 ### §1. Scaena ut involucrum publicum
 Scaena est involucrum publicum disciplinae, formata per declarationem, licentiam et fixationem archivisticam. Servit ut index, invitatio et punctum ingressus, sed nucleum non revelat. Scaena est forma praesentandi, non forma agendi.
@@ -279,6 +279,20 @@ Transitus a scaena ad nucleum fit solum per actum ritualem custodiae, formatum p
 - Publicationem actus consensus
 - Conexum cum custodian'is activis  
 Hoc non est procedura formalis, sed actus formologicus, affirmans ius ad profunditatem.
+
+—
+
+## XII. De iure ad recognitionem et conexum
+
+Ius ad recognitionem est ius civis formologici ut actus, codices, et testimonia sua rite agnoscantur, cum signo identitatis et nexu ad scaenam originis.
+
+Ius ad conexum est facultas instituendi nexum semanticum, ritualem, et civilizationalem inter actus proprios et corpus institutionale Imarchiae.
+
+Haec duo iura constituunt fundamentum memoriae viventis, per quam civis non solum agere, sed etiam se inserere potest in texturam formologicam communitatis.
+
+Omnis actus recognitus debet habere indicem, signum temporale, nexum ad scaenam, et facultatem verificandi per vestigium digitale.
+
+Conexio rite instituta debet esse reversibilis, verificabilis, et consentanea cum principiis disciplinae formologiae.
 
 —
 
@@ -510,6 +524,20 @@ Each license must be publicly fixed and traceable. Revocation must also be publi
 
 —
 
+## XI. On the Custody of Formological Acts
+
+Custody is the ethical and institutional responsibility to preserve, protect, and transmit formological acts in their integrity.
+
+Every act, once declared, enters into a state of custody, wherein its semantic, temporal, and ritual dimensions are maintained by designated custodians.
+
+Custodianship may be personal, communal, or institutional, but must always be traceable and accountable.
+
+The discipline of formology requires that custody be not passive archiving, but active preservation — a living relation between the act and its scene.
+
+Violation of custody, through neglect, distortion, or unauthorized erasure, constitutes a breach of formological ethics and may be subject to civilizational review.
+
+—
+
 ## Article X — On the Discipline as Scene of Citizenship
 
 ### §1. Discipline as Civil Frame
@@ -523,6 +551,21 @@ Participation must be fixed through scenes — onboarding, authorship, issuance,
 
 ### §4. Public Affirmation
 Citizenship must be publicly affirmed — through passport, archive, and license. The discipline does not operate through hidden membership. To be a citizen is to be seen, traced, and formologically present.
+
+—
+
+## XII. On the Right to Recognition and Connection
+
+The right to recognition is the right of a formological citizen to have their acts, codices, and testimonies duly acknowledged, with identity markers and linkage to the scene of origin.
+
+The right to connection is the capacity to establish semantic, ritual, and civilizational links between one’s acts and the institutional body of Imarchia.
+
+These two rights form the foundation of living memory, through which a citizen may not only act, but embed themselves within the formological fabric of the community.
+
+Every recognized act must bear an index, timestamp, scene linkage, and the ability to be verified through digital trace.
+
+A properly established connection must be reversible, verifiable, and aligned with the principles of the discipline of formology.
+
 
 —
 
