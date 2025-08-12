@@ -23,9 +23,10 @@ Architectura distinctionum: grammatica resonans corporis civilis.
 
 Ethics of form: inner discipline and ritual citizenship.
 
+---
+
 Each act is available in `.md` format and accompanied by publication status, version control, and key language translations.
 
----
 
 ## 🧭 Usage
 
