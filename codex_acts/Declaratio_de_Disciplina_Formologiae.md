@@ -68,6 +68,7 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 12. [Article XII - On the Right to Recognition and Connection](#article-xii---on-the-right-to-recognition-and-connection)  
 13. [Article XIII - On the Conclusion of the Declaration and Its Status](#article-xiii---on-the-conclusion-of-the-declaration-and-its-status)  
 
+
 ---
 
 
