@@ -26,6 +26,8 @@ Ethica formae: disciplina interior et civitas ritualis.
 
 Quisque actus praesto est in forma `.md`, cum status emissionis, versione, et translationibus ad linguas clavis pertinentes.
 
+---
+
 ## 🧭 Usus
 
 Documenta possunt:
