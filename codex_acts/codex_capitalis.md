@@ -206,18 +206,6 @@ Requests must be sent to **unghart@proton.me**, including the rationale and inst
 ---
 
 <!-- Sigillum Anchorum -->
-<h2 id="appendix---structura-iuridica">Appendix — Structura Iuridica</h2>
-
-§1. Imarch per architecturam hybridam operatur:  
- • LTD UK — scena fixationis internationalis  
- • Custodia — vinculum internum auctoritatis et participationis  
- • Repraesentatio externa — munus technicum sine iure proprietatis  
-
-§2. Omnia acta iuridica sunt formae consensus, non dominationis.
-
----
-
-<!-- Sigillum Anchorum -->
 <h2 id="chapter-i---economic-foundations">Chapter I — Economic Foundations</h2>
 
 §1. The economic scene of Imarch is neither a market, nor a corporation, nor a profit system.  
