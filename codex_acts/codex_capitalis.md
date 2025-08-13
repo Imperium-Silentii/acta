@@ -1,4 +1,6 @@
-![Codex Capitalis — Versio Latina](https://acta.imarch.sbs/images/Codex_CapitalisI_LAT.png)
+<p align="left">
+  <img src="https://acta.imarch.sbs/images/Codex_CapitalisI_LAT.png" alt="Codex Capitalis — Versio Latina" width="400">
+</p>
 
 
 # Codex Capitalis  
@@ -142,7 +144,10 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 §9. Sustentatio est ingressus, non transactio.
 
 
-![Codex Capitalis — English Version](https://acta.imarch.sbs/images/Codex_CapitalisI_EN.png)
+<p align="left">
+  <img src="https://acta.imarch.sbs/images/Codex_CapitalisI_EN.png" alt="Codex Capitalis — English Version" width="400">
+</p>
+
 
 ---
 
