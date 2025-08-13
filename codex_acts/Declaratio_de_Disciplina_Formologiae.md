@@ -14,7 +14,7 @@
 ## Sigillum Declarationis et Initium Disciplinae Formologicae
 
 **Auctor:** 📜 [Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
-**Dies creationis:** 2025.08.12  
+**Dies creationis:** 2025.08.13  
 **Licentia Declarationis:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
 
 **Condiciones Licentiae:**
@@ -26,7 +26,7 @@
 
 ---
 
-## Impressio SHA256
+## Impressio SHA256 e290c2965b56f239ec709af2efa55de03b02a0a0b2734c43971bb6e60dd7332a
 
 Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
@@ -391,14 +391,14 @@ Sceptrum huius actus cum Corpus Constitutionis Imarchiae per actum separatam rit
 ### Codex Initium et Public Seal
 
 **Document ID:** Declaratio_Formologica_001  
-**Version:** Enacted – 2025.08.12  
+**Version:** Enacted – 2025.08.13  
 
 ---
 
 ## Seal of the Declaration and the Beginning of the Discipline of Formology
 
 **Author:** [Unghart-sn (Custos Algorithmicus)](https://acta.imarch.sbs/passports/Unghart-sn)  
-**Date of Creation:** 2025.08.12  
+**Date of Creation:** 2025.08.13  
 **Declaration License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
 
 **License Terms:**
@@ -410,7 +410,7 @@ Sceptrum huius actus cum Corpus Constitutionis Imarchiae per actum separatam rit
 
 ---
 
-## SHA256 Impression
+## SHA256 Impression e290c2965b56f239ec709af2efa55de03b02a0a0b2734c43971bb6e60dd7332a
 
 A PDF version of this Declaration, including its hashing value and issuance seal, is available upon official request.  
 Requests should be sent to **unghart@proton.me** with a statement of purpose and the name of the requesting institution.
