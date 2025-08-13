@@ -33,6 +33,9 @@ e290c2965b56f239ec709af2efa55de03b02a0a0b2734c43971bb6e60dd7332a
 Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
 
+> 🏛️ **Coniunctio Archivaria**  
+> Haec Declaratio rite et publice per [Perma.cc](https://perma.cc/2L3M-AYKB) est archivata, firmitatem iuridicam, tempus fixum, et facultatem citationis praestans.
+
 ---
 
 
@@ -418,6 +421,9 @@ e290c2965b56f239ec709af2efa55de03b02a0a0b2734c43971bb6e60dd7332a
 
 A PDF version of this Declaration, including its hashing value and issuance seal, is available upon official request.  
 Requests should be sent to **unghart@proton.me** with a statement of purpose and the name of the requesting institution.
+
+> 🏛️ **Archival Connection**  
+> This Declaration has been permanently archived via [Perma.cc](https://perma.cc/2L3M-AYKB), ensuring juridical firmness, timestamp, and citation capability.
 
 ---
 
