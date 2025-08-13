@@ -158,6 +158,8 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
   <img src="https://acta.imarch.sbs/images/Codex_CapitalisI_EN.png" alt="Codex Capitalis — English Version" width="400">
 </p>
 
+## Codex Capitalis 
+Codex of Imarchian Economy The economic form as a scene of participation, not as a calculus of profit.
 
 ---
 
