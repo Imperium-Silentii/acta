@@ -196,7 +196,9 @@ Hic conexus est forma iuridica, per quam disciplina declaratur ut subiectum.
 
 ---
 
+<a name="articulus-vii---de-diplomate-ut-forma-identitatis"></a>  
 ## Articulus VII - De diplomate ut forma identitatis
+
 
 ### §1. Diploma ut forma ritualis
 Diploma non est documentum, sed scaena.  
