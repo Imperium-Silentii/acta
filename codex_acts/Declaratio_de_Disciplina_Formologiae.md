@@ -60,7 +60,7 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 4.  [Article IV - On the Form of Custody](#article-iv---on-the-form-of-custody)  
 5.  [Article V - On the Codex as Living Law](#article-v---on-the-codex-as-living-law)  
 6.  [Article VI - On the Scene of Initiation](#article-vi---on-the-scene-of-initiation)  
-7.  [Article VII - On the Diploma as a Form of Identity](#article-vii---on-the-diploma-as-a-form-of-identity)  
+7.  [Article VII - On the Passport as Scene of Identity](#article-vii---on-the-passport-as-scene-of-identity)  
 8.  [Article VIII - On the Archive as a Scene of Memory](#article-viii---on-the-archive-as-a-scene-of-memory)
 9.  [Article IX - On the License as a Scene of Action](#article-ix---on-the-license-as-a-scene-of-action)
 10. [Article X - On the Discipline as a Scene of Citizenship](#article-x---on-the-discipline-as-a-scene-of-citizenship)  
@@ -196,9 +196,7 @@ Hic conexus est forma iuridica, per quam disciplina declaratur ut subiectum.
 
 ---
 
-<a name="articulus-vii---de-diplomate-ut-forma-identitatis"></a>  
-## Articulus VII - De diplomate ut forma identitatis
-
+<h2 id="article-vii---on-the-passport-as-scene-of-identity">Article VII - On the Passport as Scene of Identity</h2>
 
 ### §1. Diploma ut forma ritualis
 Diploma non est documentum, sed scaena.  
