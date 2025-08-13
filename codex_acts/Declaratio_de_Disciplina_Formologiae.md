@@ -649,6 +649,10 @@ To be a citizen is to be seen, traced, and formologically present.
 
 ---
 
+<!-- Sigillum Anchorum -->
+<h2 id="article-xi---on-the-boundary-between-scene-and-core">Article XI - On the Boundary between Scene and Core</h2>
+
+
 ### §1. Scene as Public Envelope
 The scene is the public envelope of the discipline, shaped through declaration, license, and archival fixation.  
 It serves as index, invitation, and point of entry, but does not reveal the core.  
