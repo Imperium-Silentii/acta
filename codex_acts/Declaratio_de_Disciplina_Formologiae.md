@@ -214,7 +214,32 @@ Emissio non est administrativae, sed constitutionalis.
 Affirmat ius ad agendum, loquendum et participandum intra disciplinam.
 
 ### §4. Fixatio publica
-Unusquisque diploma debet esse publice fixatum – per hash,
+
+Unusquisque diploma debet esse publice fixatum – per hash, sigillum emissionis, et numerum formae verificabilem.  
+Fixatio non est solum technica, sed ritualis: forma emissionis debet esse recognoscibilis in archivo civitatis.  
+Diploma sine fixatione non habet statum publicum — est documentum privatum, non actus civitatis.  
+Forma fixata operatur ut pars corporis identitatis, et simul invitatio ad responsionem civium.
+
+**Nota:** Fixatio includit indicem emissionis, licentiam usus, et vestigium participationis.
+
+---
+
+## Articulus VIII - De archivo ut scaena memoriae
+
+**Archivum** non est solum locus recondendi, sed scaena activa memoriae formologicae.  
+In eo, actus, diplomata, sigilla, et testimonia identitatis civium Imarchiae custodiuntur forma verificabili et rituali.  
+Memoria non est passiva — est forma participationis.  
+Quisque documentum in archivo est vestigium actionis, et simul invitatio ad responsionem.
+
+**Praecepta archivistica:**
+- Documenta debent habere sigillum emissionis et valorem hashing.
+- Accessus publicus permittitur sub condicionibus licentiae declarationis.
+- Archivum operatur ut corpus testimoniale in scaena civitatis.
+
+**Nota:** Archivum est pars corporis Imarchiae — non est separatum, sed integratum in forma civitatis ritualis.
+
+---
+
 ## Articulus IX - De licentia ut scaena actionis
 
 ### §1. Hash ut forma fixationis
