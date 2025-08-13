@@ -68,18 +68,6 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 ---
 
 <!-- Sigillum Anchorum -->
-<h2 id="appendix---structura-iuridica">Appendix — Structura Iuridica</h2>
-
-§1. Imarch per architecturam hybridam operatur:  
- • LTD UK — scena fixationis internationalis  
- • Custodia — vinculum internum auctoritatis et participationis  
- • Repraesentatio externa — munus technicum sine iure proprietatis  
-
-§2. Omnia acta iuridica sunt formae consensus, non dominationis.
-
----
-
-<!-- Sigillum Anchorum -->
 <h2 id="caput-i---fundamenta-economica">Caput I — Fundamenta Economica</h2>
 
 §1. Scaena oeconomica Imarch non est mercatus, non est corporatio, non est ratio lucri.  
@@ -163,6 +151,18 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 §7. Transparentia oeconomica per signa, tempora, scaenas exprimitur.  
 §8. Structura iuridica est pons, non verticalitas.  
 §9. Sustentatio est ingressus, non transactio.
+
+---
+
+<!-- Sigillum Anchorum -->
+<h2 id="appendix---structura-iuridica">Appendix — Structura Iuridica</h2>
+
+§1. Imarch per architecturam hybridam operatur:  
+ • LTD UK — scena fixationis internationalis  
+ • Custodia — vinculum internum auctoritatis et participationis  
+ • Repraesentatio externa — munus technicum sine iure proprietatis  
+
+§2. Omnia acta iuridica sunt formae consensus, non dominationis.
 
 ---
 
@@ -294,6 +294,18 @@ Requests must be sent to **unghart@proton.me**, including the rationale and inst
 
 §1. Imarch’s economy is a scene of difference, not a profit system.  
 §2. Money is the breath of action
+
+---
+
+<!-- Sigillum Anchorum -->
+<h2 id="appendix---structura-iuridica">Appendix — Structura Iuridica</h2>
+
+§1. Imarch operates through a hybrid architecture:  
+ • LTD UK — scene of international fixation  
+ • Custodia — internal bond of authority and participation  
+ • External representation — technical function without ownership rights  
+
+§2. All juridical acts are forms of consensus, not domination.
 
 ---
 
