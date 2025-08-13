@@ -54,8 +54,6 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 
 ## Index of Chapters of the Declaration EN
 
-## Index of Chapters of the Declaration EN
-
 1. [Article I - On the Spatial Foundation of the Discipline](#article-i---on-the-spatial-foundation-of-the-discipline)  
 2. [Article II - On the Structure of the Territory of Senses](#article-ii---on-the-structure-of-the-territory-of-senses)  
 3. [Article III - On the Jurisdiction of the Discipline](#article-iii---on-the-jurisdiction-of-the-discipline)  
