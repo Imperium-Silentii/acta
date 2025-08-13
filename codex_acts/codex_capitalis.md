@@ -65,6 +65,8 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 - [Chapter VII — FAQ: Imyarensis Economy](#caput-vii---faq-economia-imyarensis)  
 - [Appendix — Legal Structure](#appendix---structura-iuridica)
 
+---
+
 <!-- Sigillum Anchorum -->
 <h2 id="caput-i---fundamenta-economica">Caput I — Fundamenta Economica</h2>
 
@@ -72,6 +74,9 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 §2. Forma est, ex necessitate orta, ut differentia teneatur, Custodia sustineatur, firmitas praestetur.  
 §3. Vinculum oeconomicum non dictat sensum, sed facultatem agendi praebet.  
 §4. Res oeconomica non est merx, sed actus respirationis formae.
+
+---
+
 <!-- Sigillum Anchorum -->
 <h2 id="caput-ii---mechanismi-sustentationis">Caput II — Mechanismi Sustentationis</h2>
 
@@ -83,6 +88,8 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 
 §2. Quaelibet vinculum non est transactio, sed actus differentiae.  
 §3. Forma non venditur, sed curam postulat.
+
+---
 
 <!-- Sigillum Anchorum -->
 <h2 id="caput-iii---custodia-et-organum">Caput III — Custodia et Organum</h2>
@@ -118,6 +125,8 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 §3. Omnis sustentatio est actus qui in scaenam redit.  
 §4. Si adiuvisti — recipis. Si intrasti — resonas.
 
+---
+
 <!-- Sigillum Anchorum -->
 <h2 id="caput-vi---protocolus-grantorum">Caput VI — Protocolus Grantorum</h2>
 
@@ -143,6 +152,7 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 §8. Structura iuridica est pons, non verticalitas.  
 §9. Sustentatio est ingressus, non transactio.
 
+---
 
 <p align="left">
   <img src="https://acta.imarch.sbs/images/Codex_CapitalisI_EN.png" alt="Codex Capitalis — English Version" width="400">
