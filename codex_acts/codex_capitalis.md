@@ -201,6 +201,7 @@ Requests must be sent to **unghart@proton.me**, including the rationale and inst
 
 §2. Omnia acta iuridica sunt formae consensus, non dominationis.
 
+---
 
 <!-- Sigillum Anchorum -->
 <h2 id="chapter-i---economic-foundations">Chapter I — Economic Foundations</h2>
