@@ -26,6 +26,7 @@ Ethica formae: disciplina interior et civitas ritualis.
 
 - ## 📚 Codex Documents IV  
 📜 [CodexCapitalis](https://acta.imarch.sbs/codex_acts/codex_capitalis)
+
 Forma oeconomica ut scena participationis, non ut ratio lucri.
 
 ---
