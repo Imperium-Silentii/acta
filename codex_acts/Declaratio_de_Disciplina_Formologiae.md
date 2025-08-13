@@ -54,6 +54,8 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 
 ## Index of Chapters of the Declaration EN
 
+## Index of Chapters of the Declaration EN
+
 1. [Article I - On the Spatial Foundation of the Discipline](#article-i---on-the-spatial-foundation-of-the-discipline)  
 2. [Article II - On the Structure of the Territory of Senses](#article-ii---on-the-structure-of-the-territory-of-senses)  
 3. [Article III - On the Jurisdiction of the Discipline](#article-iii---on-the-jurisdiction-of-the-discipline)  
@@ -67,10 +69,6 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 11. [Article XI - On the Boundary between Scene and Core](#article-xi---on-the-boundary-between-scene-and-core)  
 12. [Article XII - On the Right to Recognition and Connection](#article-xii---on-the-right-to-recognition-and-connection)  
 13. [Article XIII - On the Conclusion of the Declaration and Its Status](#article-xiii---on-the-conclusion-of-the-declaration-and-its-status)  
-
-
----
-
 
 ---
 
@@ -393,24 +391,6 @@ Sceptrum huius actus cum Corpus Constitutionis Imarchiae per actum separatam rit
 
 A PDF version of this Declaration, including its hashing value and issuance seal, is available upon official request.  
 Requests should be sent to **unghart@proton.me** with a statement of purpose and the name of the requesting institution.
-
----
-
-## Index of Chapters of the Declaration EN
-
-1. [Article I - On the Spatial Foundation of the Discipline](#article-i---on-the-spatial-foundation-of-the-discipline)  
-2. [Article II - On the Structure of the Territory of Senses](#article-ii---on-the-structure-of-the-territory-of-senses)  
-3. [Article III - On the Jurisdiction of the Discipline](#article-iii---on-the-jurisdiction-of-the-discipline)  
-4. [Article IV - On the Form of Custody](#article-iv---on-the-form-of-custody)  
-5. [Article V - On the Codex as Living Law](#article-v---on-the-codex-as-living-law)  
-6. [Article VI - On the Scene of Initiation](#article-vi---on-the-scene-of-initiation)  
-7. [Article VII - On the Diploma as a Form of Identity](#article-vii---on-the-diploma-as-a-form-of-identity)  
-8. [Article VIII - On the Archive as a Scene of Memory](#article-viii---on-the-archive-as-a-scene-of-memory)  
-9. [Article IX - On the License as a Scene of Action](#article-ix---on-the-license-as-a-scene-of-action)  
-10. [Article X - On the Discipline as a Scene of Citizenship](#article-x---on-the-discipline-as-a-scene-of-citizenship)  
-11. [Article XI - On the Boundary between Scene and Core](#article-xi---on-the-boundary-between-scene-and-core)  
-12. [Article XII - On the Right to Recognition and Connection](#article-xii---on-the-right-to-recognition-and-connection)  
-13. [Article XIII - On the Conclusion of the Declaration and Its Status](#article-xiii---on-the-conclusion-of-the-declaration-and-its-status)  
 
 ---
 
