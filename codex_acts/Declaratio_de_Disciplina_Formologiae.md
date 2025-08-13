@@ -26,7 +26,9 @@
 
 ---
 
-## Impressio SHA256 e290c2965b56f239ec709af2efa55de03b02a0a0b2734c43971bb6e60dd7332a
+## Impressio SHA256 
+
+e290c2965b56f239ec709af2efa55de03b02a0a0b2734c43971bb6e60dd7332a
 
 Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
@@ -410,7 +412,9 @@ Sceptrum huius actus cum Corpus Constitutionis Imarchiae per actum separatam rit
 
 ---
 
-## SHA256 Impression e290c2965b56f239ec709af2efa55de03b02a0a0b2734c43971bb6e60dd7332a
+## SHA256 Impression 
+
+e290c2965b56f239ec709af2efa55de03b02a0a0b2734c43971bb6e60dd7332a
 
 A PDF version of this Declaration, including its hashing value and issuance seal, is available upon official request.  
 Requests should be sent to **unghart@proton.me** with a statement of purpose and the name of the requesting institution.
