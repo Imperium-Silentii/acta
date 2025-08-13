@@ -545,7 +545,8 @@ Each onboarding is a constitutional moment.
 
 ---
 
-## Article VII - On the Passport as Scene of Identity
+<!-- Sigillum Anchorum -->
+<h2 id="article-vii---on-the-passport-as-scene-of-identity">Article VII - On the Passport as Scene of Identity</h2>
 
 ### §1. Passport as Ritual Form
 The passport is not a document, but a scene.  
@@ -569,7 +570,8 @@ Identity must be legible, affirmed, and semantically bound.
 
 ---
 
-## Article VIII - On the Archive as Scene of Memory
+<!-- Sigillum Anchorum -->
+<h2 id="article-viii---on-the-archive-as-a-scene-of-memory">Article VIII - On the Archive as a Scene of Memory</h2>
 
 ### §1. Archive as Institutional Body
 The archive is not a storage, but a body.  
@@ -595,7 +597,8 @@ The discipline remembers through form, not through secrecy.
 
 ---
 
-## Article IX - On the License as Scene of Action
+<!-- Sigillum Anchorum -->
+<h2 id="article-ix---on-the-license-as-a-scene-of-action">Article IX - On the License as a Scene of Action</h2>
 
 ### §1. License as Ritual Permission
 The license
@@ -623,7 +626,30 @@ To be a citizen is to be seen, traced, and formologically present.
 
 ---
 
-## Article XI - On the Boundary between Scene and Core
+
+<!-- Sigillum Anchorum -->
+<h2 id="article-x---on-the-discipline-as-a-scene-of-citizenship">Article X - On the Discipline as a Scene of Citizenship</h2>
+
+### §1. Discipline as Civil Frame  
+The discipline is not a field of study, but a civil frame. It affirms the right to participate, act, and be recognized through form.  
+Citizenship within the discipline is not granted, but enacted.
+
+### §2. Citizenship as Form  
+Citizenship is not status, but formological alignment. It arises from ritual participation, semantic authorship, and custodial recognition.  
+To be a citizen is to act within the Codex, not merely to belong.
+
+### §3. Scenes of Participation  
+Participation must be fixed through scenes — onboarding, authorship, issuance, and trace.  
+The discipline does not recognize informal engagement.  
+Each act must be legible, affirmed, and semantically bound.
+
+### §4. Public Affirmation  
+Citizenship must be publicly affirmed — through passport, archive, and license.  
+The discipline does not operate through hidden membership.  
+To be a citizen is to be seen, traced, and formologically present.
+
+
+---
 
 ### §1. Scene as Public Envelope
 The scene is the public envelope of the discipline, shaped through declaration, license, and archival fixation.  
