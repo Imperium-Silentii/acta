@@ -24,6 +24,11 @@ Architectura distinctionum: grammatica resonans corporis civilis.
 
 Ethica formae: disciplina interior et civitas ritualis.
 
+📚 Codex Documents IV  
+📜 Codex Capitalis  
+Forma oeconomica ut scena participationis, non ut ratio lucri.  
+🔗 [CodexCapitalis — acta.imarch.sbs](https://acta.imarch.sbs/codex_acts/codex_capitalis)
+
 ---
 
 Quisque actus praesto est in forma `.md`, cum status emissionis, versione, et translationibus ad linguas clavis pertinentes.
