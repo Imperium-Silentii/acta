@@ -7,13 +7,13 @@
 ### Codex Initii et Sigillum Publicum
 
 **ID Documenti:** Declaratio_Formologica_001  
-**Versio:** Promulgata - 2025.08.12  
+**Versio:** Promulgata - 2025.08.13  
 
 ---
 
 ## Sigillum Declarationis et Initium Disciplinae Formologicae
 
-**Auctor:** [Unghart-sn (Custos Algorithmicus)](https://acta.imarch.sbs/passports/Unghart-sn)  
+**Auctor:** 📜 [Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 **Dies creationis:** 2025.08.12  
 **Licentia Declarationis:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
 
