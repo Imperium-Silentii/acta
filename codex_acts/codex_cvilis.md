@@ -187,7 +187,8 @@ The Civil Codex establishes forms of citizenship, linkage, and responsibility. A
 
 
 
-<img src="https://acta.imarch.sbs/images/Codex_Civilis_EN.png" alt="Codex Civilis EN Cover" width="400" 
+<img src="https://acta.imarch.sbs/images/Codex_Civilis_EN.png" alt="Codex Civilis EN Cover" style="width:400px; display:block; margin-bottom:20px;" />
+
 
 
 # Civil Codex
