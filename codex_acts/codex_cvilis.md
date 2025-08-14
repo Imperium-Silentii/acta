@@ -37,7 +37,9 @@ Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, pra
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
 
 > 🏛️ **Coniunctio Archivaria**  
-> 
+
+[Perma.cc](https://perma.cc/5KSR-LKQD)
+
 > Haec Declaratio rite et publice perest archivata, firmitatem iuridicam, tempus fixum, et facultatem citationis praestans.
 
 ---
@@ -179,7 +181,7 @@ Requests should be sent to **unghart@proton.me** with a statement of purpose and
 
 > 🏛️ **Archival Linkage**  
 
-> 
+[Perma.cc](https://perma.cc/5KSR-LKQD)
 
 > This Declaration has been formally and publicly archived, ensuring legal integrity, fixed timestamp, and citational authority.
 
