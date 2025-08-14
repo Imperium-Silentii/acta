@@ -25,6 +25,18 @@ Ethics of form: inner discipline and ritual citizenship.
 
 ---
 
+## 📚 Codex Documents IV  
+📜 [Codex Capitalis](https://acta.imarch.sbs/codex_acts/codex_capitalis)  
+The economic form as a scene of participation, not a calculus of profit.
+
+---
+
+## 📚 Codex Documents V  
+📜 [Codex Civilis](https://acta.imarch.sbs/codex_acts/codex_cvilis)  
+The civic form as a vestigial act, not a static condition.
+
+---
+
 Each act is available in `.md` format and accompanied by publication status, version control, and key language translations.
 
 ---
