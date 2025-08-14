@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://acta.imarch.sbs/images/Codex_Civilis_LA.png" alt="Codex Civilis LA Cover" width="400" />
-</p>
+<img src="https://acta.imarch.sbs/images/Codex_Civilis_LA.png" alt="Codex Civilis LA Cover" style="width:400px; display:block; margin-bottom:20px;" />
+
 
 
 # Codex Civilis
