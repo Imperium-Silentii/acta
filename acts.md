@@ -16,7 +16,7 @@ This Codex affirms citizenship not through norms, but through the form of conjun
 
 ---
 
-## Scene I. Preface {#preface}
+## Scene I. Preface 
 
 *Composition is not a sum. Codices are not fragments, but elements of a formological body.*
 
