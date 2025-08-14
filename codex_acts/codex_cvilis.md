@@ -37,7 +37,7 @@ Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, pra
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
 
 > 🏛️ **Coniunctio Archivaria**  
-> [https://perma.cc/AAW6-ECQ4](https://perma.cc/AAW6-ECQ4)  
+> 
 > Haec Declaratio rite et publice perest archivata, firmitatem iuridicam, tempus fixum, et facultatem citationis praestans.
 
 ---
@@ -219,13 +219,15 @@ A declaration that enacts citizenship as a traceable form of ethical participati
 
 ## SHA256 Fingerprint
 
-`fd51890b8f9b5e2d1a62085c5df7a75119ecf3d2f27f7a2e6cf498dd348719af`
+
 
 A PDF version of this Declaration, including its hash value and issuance seal, is available upon official request.  
 Requests should be sent to **unghart@proton.me** with a statement of purpose and the name of the requesting institution.
 
 > 🏛️ **Archival Linkage**  
-> [https://perma.cc/AAW6-ECQ4](https://perma.cc/AAW6-ECQ4)  
+
+> 
+
 > This Declaration has been formally and publicly archived, ensuring legal integrity, fixed timestamp, and citational authority.
 
 ---
