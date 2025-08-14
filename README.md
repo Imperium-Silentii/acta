@@ -7,6 +7,23 @@
 
 Hic locus includit Chartas, Declarationes, Codices et Protocolos structurae, a *Formologica Officio Praxis* approbatos.
 
+
+## 📘 Codex Coniunctionis
+
+Codex Coniunctionis est Constitutio coniunctionis sex codicum Imarchiae, quae eos ut corpus formologicum unum confirmat.
+
+Non regulas describit, sed actum coniunctionis format — ut compositionem sensus, in qua quisque codex non singulariter, sed ut pars ritus integralis resonat.
+
+Hic Codex civitatem non per normas, sed per formam coniunctionis confirmat, ubi quisque documentum fit elementum corporis vivi Imarchiae.
+
+### Scaena I. Praefatio
+
+*Compositio non est summa. Codices non sunt fragmenta, sed elementa corporis formologici.*
+
+Sex Codices Constitutionis Imarchiae — Charta Imarchica, Codex Imarchae, Declaratio Formologiae, Codex Capitalis, Codex Civilis, Codex Participationis Integralis — non sunt regulae separatae, sed structurae inter se conexae. Haec scaena coniunctionem eorum non ut finem, sed ut actum formologicum confirmat.
+
+### Scaena II. Tabula Coniunctionis
+
 ## 🔖 Partitiones 
 
 - ## 📚 Codex Documents I
