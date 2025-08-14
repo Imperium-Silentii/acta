@@ -44,7 +44,7 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 
 
 
-## 🔗 Anchor Navigation
+## 📜 Tabula Capitulorum
 - [I. Praefatio / Preface](#i-praefatio--preface)
 - [II. Definitiones / Definitions](#ii-definitiones--definitions)
 - [III. Formae Civium / Forms of Citizenship](#iii-formae-civium--forms-of-citizenship)
@@ -55,7 +55,7 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 
 —
 
-## 🔗 Anchor Navigation
+## 📜 Table of Contents
 - [I. Preface](#i-preface)
 - [II. Definitions](#ii-definitions)
 - [III. Forms of Citizenship](#iii-forms-of-citizenship)
