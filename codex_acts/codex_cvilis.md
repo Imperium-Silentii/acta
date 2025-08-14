@@ -1,4 +1,5 @@
-<img src="https://acta.imarch.sbs/images/Codex_Civilis_LA.png" alt="Codex Civilis LA Cover" style="width:400px; display:block; margin-bottom:20px;" />
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/images/Codex_Civilis_LAT.png?raw=true" alt="Codex Civilis LAT Cover" style="width:400px; display:block; margin-bottom:20px;" />
+
 
 
 
