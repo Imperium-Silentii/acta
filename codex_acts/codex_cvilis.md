@@ -76,7 +76,7 @@ The Civil Codex establishes forms of citizenship, linkage, and responsibility. A
 
 ---
 
-## II. DEFINITIONES / DEFINITIONS
+## II. DEFINITIONES
 
 **LATINE**  
 - *Civis* — Subiectum rite agnitum, forma scenica in Imarchia.  
@@ -85,100 +85,53 @@ The Civil Codex establishes forms of citizenship, linkage, and responsibility. A
 - *Forma* — Expressio unica identitatis civilis, in diplomate fixa.  
 - *Nexus digitalis* — Vestigia technica: hash, QR, permalink, subscriptio.
 
-**ENGLISH**  
-- *Citizen* — A recognized subject with scenic status in Imarchia.  
-- *Scene* — A formal institutional space where the citizen acts or is acknowledged.  
-- *Recognition ritual* — A formal procedure: signing, linkage, archiving.  
-- *Form* — A unique expression of civic identity, fixed in the passport.  
-- *Digital trace* — Technical markers: hash, QR, permalink, signature.
-
 ---
 
-## III. FORMAE CIVIUM / FORMS OF CITIZENSHIP
+## III. FORMAE CIVIUM
 
-**LATINE**  
 - *Civitas primaria* — Per ritum initiatum, cum diplomate et nexu Codicis.  
 - *Civitas transitoria* — Temporalis nexus in programmatibus vel scaenis publicis.  
 - *Civitas archivata* — Status post actum, cum facultate restitutionis.  
 - *Civitas multiplex* — Participatio simultanea in scaenis pluribus, cum forma servata.
 
-**ENGLISH**  
-- *Primary citizenship* — Gained through initiation, with passport and Codex linkage.  
-- *Transitional citizenship* — Temporary linkage via partner programs or public scenes.  
-- *Archived citizenship* — Status retained after active participation, with restoration option.  
-- *Multiple citizenship* — Simultaneous participation in multiple scenes, with ritual form.
-
 ---
 
-## IV. IURA CIVIUM / RIGHTS OF CITIZENS
+## IV. IURA CIVIUM
 
-**LATINE**  
 - Participatio in scaenis publicis et suffragiis  
 - Accessus ad archivum, codices, educationem, programmata  
 - Facultas novas scaenas et codices instituendi  
 - Ius ad nexum permanentem et vestigium publicum  
 - Ius ad recessum temporarium et restitutionem formae
-
-**ENGLISH**  
-- Participation in public scenes and votes  
-- Access to archives, codices, education, and programs  
-- Ability to initiate new scenes and codices  
-- Right to permanent linkage and public trace  
-- Right to temporary withdrawal and restoration of form
-
 ---
 
-## V. OFFICIA CIVIUM / DUTIES OF CITIZENS
+## V. OFFICIA CIVIUM 
 
-**LATINE**  
 - Observantia formarum ritualium et actorum  
 - Custodia memoriae digitalis et transparentiae  
 - Renovatio status civilis et diplomatis  
 - Reverentia ad naturam multilingualem et multiformalem  
 - Responsabilitas pro actibus sub forma
 
-**ENGLISH**  
-- Observance of ritual forms and institutional acts  
-- Maintenance of digital memory and transparency  
-- Timely renewal of civic status and passport  
-- Respect for multilingual and multiformal nature of Imarchia  
-- Responsibility for actions performed under one’s form
-
 ---
 
-## VI. RITUALES / RITUALS
+## VI. RITUALES
 
-**LATINE**  
 - *Initiatio* — Subscriptio Codicis, creatio diplomatis, nexus Codicis Iuris  
 - *Renovatio* — Confirmatio formae et subscriptio digitalis  
 - *Archivatio* — Finis actus cum vestigio servato  
 - *Transitus* — Mutatio formae vel scaenae cum novo ritu  
 - *Nexus* — Confirmatio publica per QR, permalink, hash
 
-**ENGLISH**  
-- *Initiation* — Signing the Codex, creating passport, linking to Codex Iuris  
-- *Renewal* — Periodic confirmation of form and digital signature  
-- *Archiving* — Ending active participation with trace preserved  
-- *Transition* — Changing form or scene with new ritual  
-- *Linkage* — Public confirmation via QR, permalink, hash
-
 ---
 
-## VII. NEXUS DIGITALIS / DIGITAL TRACE
+## VII. NEXUS DIGITALIS 
 
-**LATINE**  
 - *Hash documenti* — SHA256 ad integritatem  
 - *Permalink* — Nexus archivarius pro verificatione  
 - *QR signum* — Forma visualis ad diplomatem vel Codicem  
 - *Subscriptio publica* — Nomen formae, dies, scaena, confirmatio  
 - *Archivatio* — Registratio in codicibus vel scaenis
-
-**ENGLISH**  
-- *Document hash* — SHA256 or similar for integrity  
-- *Permalink* — Archival link for verification  
-- *QR marker* — Visual form leading to passport or Codex  
-- *Public signature* — Form name, date, scene, confirmed  
-- *Archival record* — Registration in codices or scenes
 
 ---
 
