@@ -1,4 +1,6 @@
-<img src="https://acta.imarch.sbs/images/Codex_Civilis_LAT.png" alt="Codex Civilis LAT Cover" width="400" align="left" style="margin-right:20px;" />
+<p align="center">
+  <img src="https://acta.imarch.sbs/images/Codex_Civilis_LA.png" alt="Codex Civilis LA Cover" width="400" />
+</p>
 
 
 # Codex Civilis
@@ -185,7 +187,9 @@ The Civil Codex establishes forms of citizenship, linkage, and responsibility. A
 
 
 
-<img src="https://acta.imarch.sbs/images/Codex_Civilis_EN.png" alt="Codex Civilis EN Cover" width="400" align="left" style="margin-right:20px;" />
+<p align="center">
+  <img src="https://acta.imarch.sbs/images/Codex_Civilis_EN.png" alt="Codex Civilis EN Cover" width="400" />
+</p>
 
 
 # Civil Codex
