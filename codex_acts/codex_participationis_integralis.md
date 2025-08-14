@@ -1,4 +1,5 @@
-<img src="https://acta.imarch.sbs/mages/Codex_Integralis_LAT.png" alt="Codex Integralis LAT" style="width:400px; display:block; margin-left:0; margin-bottom:1em;" />
+<img src="/mages/Codex_Integralis_LAT.png" alt="Codex Integralis LAT" style="width:400px; display:block; margin-left:0;" />
+
 
 # 📘 Codex Participationis Integralis  
 _Actus fundatorius de formis civitatis, ritibus transitús et vestigio archivali_
