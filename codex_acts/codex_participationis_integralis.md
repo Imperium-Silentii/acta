@@ -44,6 +44,7 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 - [Custodia et Vestigium](#custodia-et-vestigium)
 - [Appendices](#appendices)
 
+
 ---
 
 ## 📑 Table of Scenes
@@ -56,7 +57,7 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 ---
 
 
-## I. Formae Participationis
+## I. Formae Participationis {#formae-participationis}
 
 ### 1. Scaena Civilitatis et Significatio eius {#scaena-civilitatis}
 Civis non ut usor, sed ut actor ethicus in scaena ingreditur. Participatio est actus agnitionis, non simplicis accessus.
@@ -72,7 +73,7 @@ Civis status habere potest: observator, civis, custos, curator. Transitus inter 
 
 ---
 
-## II. Ritus et Transitus
+## II. Ritus et Transitus {#ritus-et-transitus}
 
 ### 1. Actus Agnitionis {#actus-agnitionis}
 Ritus formalis quo civis status accipit. Actus digitalis cum subscriptione, hash, et inscriptione publica formari potest.
@@ -88,7 +89,7 @@ Status intermedii: candidatus, custos temporalis, hospes. Formantur cum limitati
 
 ---
 
-## III. Custodia et Vestigium
+## III. Custodia et Vestigium {#custodia-et-vestigium}
 
 ### 1. Protocola Archivistica {#protocola-archivistica}
 Omnis actus participationis, transitús vel exitús in archivo inscribitur. Publicum vel privatum esse potest, sed verificabile manet.
@@ -104,7 +105,7 @@ Actus per subscriptionem archivisticam clauditur: data, hash, nexus. Haec est sc
 
 ---
 
-## 📎 Appendices (ad expansionem)
+## 📎 Appendices (ad expansionem) {#appendices}
 
 - **Appendix A**: Formae ingressus, petitiones, scaenae agnitionis  
 - **Appendix B**: Exempla actuum ritualium et transitús  
