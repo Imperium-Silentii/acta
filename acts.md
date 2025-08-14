@@ -6,21 +6,22 @@
 
 This section includes Charters, Declarations, Codes, and structural protocols ratified by the *Formologica Office of Praxis*.
 
-## 📘 Codex Coniunctionis
+## 📘 Codex Coniunctionis {#codex-coniunctionis}
 
-Codex Coniunctionis est Constitutio coniunctionis sex codicum Imarchiae, quae eos ut corpus formologicum unum confirmat.
+Codex Coniunctionis is the Constitution of the conjunction of the six Codices of Imarchia, affirming them as a single formological body.
 
-Non regulas describit, sed actum coniunctionis format — ut compositionem sensus, in qua quisque codex non singulariter, sed ut pars ritus integralis resonat.
+It does not describe rules, but shapes the act of conjunction — as a composition of meaning, in which each Codex resonates not individually, but as part of an integral ritual.
 
-Hic Codex civitatem non per normas, sed per formam coniunctionis confirmat, ubi quisque documentum fit elementum corporis vivi Imarchiae.
+This Codex affirms citizenship not through norms, but through the form of conjunction, where each document becomes an element of the living body of Imarchia.
 
-### Scaena I. Praefatio
+---
 
-*Compositio non est summa. Codices non sunt fragmenta, sed elementa corporis formologici.*
+## Scene I. Preface {#preface}
 
-Sex Codices Constitutionis Imarchiae — Charta Imarchica, Codex Imarchae, Declaratio Formologiae, Codex Capitalis, Codex Civilis, Codex Participationis Integralis — non sunt regulae separatae, sed structurae inter se conexae. Haec scaena coniunctionem eorum non ut finem, sed ut actum formologicum confirmat.
+*Composition is not a sum. Codices are not fragments, but elements of a formological body.*
 
-### Scaena II. Tabula Coniunctionis
+The six Codices of the Constitution of Imarchia — Charta Imarchica, Codex Imarchae, Declaratio Formologiae, Codex Capitalis, Codex Civilis, Codex Participationis Integralis — are not separate rules, but interlinked structures. This scene affirms their conjunction not as a conclusion, but as a formological act.
+
 
 ## 🔖 Sections
 
