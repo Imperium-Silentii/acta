@@ -31,7 +31,7 @@ Declaratio quae civitatem ut formam ethicae participationis vestigialem efficit.
 
 ## Impressio SHA256
 
-
+169850317ee0bf386ba958ebe1c78b792de7a34fa4b329e6176c8a2b79e9061e
 
 Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
@@ -172,7 +172,7 @@ A declaration that enacts citizenship as a traceable form of ethical participati
 
 ## SHA256 Fingerprint
 
-
+169850317ee0bf386ba958ebe1c78b792de7a34fa4b329e6176c8a2b79e9061e
 
 A PDF version of this Declaration, including its hash value and issuance seal, is available upon official request.  
 Requests should be sent to **unghart@proton.me** with a statement of purpose and the name of the requesting institution.
