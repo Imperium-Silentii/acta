@@ -33,7 +33,15 @@ Forma oeconomica ut scena participationis, non ut ratio lucri.
 
 - ## 📚 Codex Documents V  
 📜 [Codex Civilis](https://acta.imarch.sbs/codex_acts/codex_cvilis)  
+
 Forma civitatis ut actus vestigialis, non ut status inertis.
+
+---
+
+## 📚 Codex Documents VI  
+📜 [Codex Participationis Integralis](https://acta.imarch.sbs/codex_acts/codex_participationis_integralis)
+
+Forma participationis ut actus civitatis, non ut accessus anonymus.
 
 ---
 
