@@ -31,6 +31,7 @@ Forma oeconomica ut scena participationis, non ut ratio lucri.
 
 ## Impressio SHA256 
 
+fd51890b8f9b5e2d1a62085c5df7a75119ecf3d2f27f7a2e6cf498dd348719af
 
 Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
@@ -196,6 +197,8 @@ Codex of Imarchian Economy The economic form as a scene of participation, not as
 ---
 
 ## SHA256 Imprint
+
+fd51890b8f9b5e2d1a62085c5df7a75119ecf3d2f27f7a2e6cf498dd348719af
 
 A PDF version of this Declaration, including its hash value and issuance seal, is available upon official request.  
 Requests must be sent to **unghart@proton.me**, including the rationale and institutional name of the requesting party.
