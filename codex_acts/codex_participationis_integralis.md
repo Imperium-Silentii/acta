@@ -1,4 +1,5 @@
-<img src="/mages/Codex_Integralis_LAT.png" alt="Codex Integralis LAT" style="width:400px; display:block; margin-left:0;" />
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/images/Codex_Integralis_LAT.png?raw=true" alt="Codex Integralis LAT" style="width:400px; display:block; margin-left:0; margin-bottom:1em;" />
+
 
 
 # 📘 Codex Participationis Integralis  
