@@ -47,13 +47,13 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 
 
 ## 📜 Tabula Capitulorum
-- [I. Praefatio / Preface](#i-praefatio--preface)
-- [II. Definitiones / Definitions](#ii-definitiones--definitions)
-- [III. Formae Civium / Forms of Citizenship](#iii-formae-civium--forms-of-citizenship)
-- [IV. Iura Civium / Rights of Citizens](#iv-iura-civium--rights-of-citizens)
-- [V. Officia Civium / Duties of Citizens](#v-officia-civium--duties-of-citizens)
-- [VI. Rituales / Rituals](#vi-rituales--rituals)
-- [VII. Nexus Digitalis / Digital Trace](#vii-nexus-digitalis--digital-trace)
+- [I. Praefatio](#i-praefatio)
+- [II. Definitiones](#ii-definitiones)
+- [III. Formae Civium](#iii-formae-civium)
+- [IV. Iura Civium](#iv-iura-civium)
+- [V. Officia Civium](#v-officia-civium)
+- [VI. Rituales](#vi-rituales)
+- [VII. Nexus Digitalis](#vii-nexus-digitalis)
 
 —
 
@@ -68,7 +68,7 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 
 ---
 
-## I. PRAEFATIO / PREFACE
+## I. PRAEFATIO
 
 **LATINE**  
 Codex Civilis formas civitatis, nexūs et responsabilitatis instituit. Cives non status sunt, sed actus. Haec scena fundamentum est memoriae formalis et participationis ethicae.
