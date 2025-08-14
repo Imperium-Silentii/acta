@@ -31,6 +31,12 @@ Forma oeconomica ut scena participationis, non ut ratio lucri.
 
 ---
 
+## 📚 Codex Documents V  
+📜 [Codex Civilis](https://acta.imarch.sbs/codex_acts/codex_cvilis)  
+Forma civitatis ut actus vestigialis, non ut status inertis.
+
+---
+
 Quisque actus praesto est in forma `.md`, cum status emissionis, versione, et translationibus ad linguas clavis pertinentes.
 
 ---
