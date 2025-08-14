@@ -183,7 +183,8 @@ The Civil Codex establishes forms of citizenship, linkage, and responsibility. A
 ---
 
 **Civitas est actus. Forma est vestigium. Scaena est memoria.**
-—
+
+---
 
 
 
