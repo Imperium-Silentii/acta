@@ -34,10 +34,8 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 > 🏛️ **Coniunctio Archivaria**  
  
 > Haec Declaratio rite et publice perest archivata, firmitatem iuridicam, tempus fixum, et facultatem citationis praestans.
+
 ---
-
-
-
 
 ## 📑 Index Scaenarum
 
@@ -45,6 +43,17 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 - [Ritus et Transitus](#ritus-et-transitus)
 - [Custodia et Vestigium](#custodia-et-vestigium)
 - [Appendices](#appendices)
+
+---
+
+## 📑 Table of Scenes
+
+- [Forms of Participation](#forms-of-participation)
+- [Rites and Transitions](#rites-and-transitions)
+- [Custody and Trace](#custody-and-trace)
+- [Appendices](#appendices)
+
+---
 
 
 ## I. Formae Participationis
@@ -108,6 +117,10 @@ Actus per subscriptionem archivisticam clauditur: data, hash, nexus. Haec est sc
 📅 Data publicationis: 14 Augusti 2025  
 🔒 Subscriptio hash: `to-be-inserted-upon-finalization`
 
+---
+
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/images/Codex_Integralis_EN.png?raw=true" alt="Codex Integralis EN" style="width:400px; display:block; margin-left:0; margin-bottom:1em;" />
+
 
 # 📘 Codex Participationis Integralis  
 _Foundational act on forms of citizenship, rites of transition, and archival trace_
@@ -144,16 +157,6 @@ Requests should be sent to **unghart@proton.me** with a justification and the na
 
 
 > This Declaration is formally and publicly archived, ensuring legal integrity, fixed timestamp, and citation capability.
----
-
-
-
-## 📑 Table of Scenes
-
-- [Forms of Participation](#forms-of-participation)
-- [Rites and Transitions](#rites-and-transitions)
-- [Custody and Trace](#custody-and-trace)
-- [Appendices](#appendices)
 
 ---
 
