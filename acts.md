@@ -37,6 +37,13 @@ The civic form as a vestigial act, not a static condition.
 
 ---
 
+## 📚 Codex Documents VI  
+📜 [Codex Participationis Integralis](https://acta.imarch.sbs/codex_acts/codex_participationis_integralis)
+
+Participation as an act of citizenship, not as anonymous access.
+
+---
+
 Each act is available in `.md` format and accompanied by publication status, version control, and key language translations.
 
 ---
