@@ -9,15 +9,15 @@ Forma oeconomica ut scena participationis, non ut ratio lucri.
 
 ---
 
-**ID Documenti:** CodexCapitalis: Imarch: 2025-08-13
-**Versio:** Promulgata - 2025.08.13  
+**ID Documenti:** CodexCapitalis: Imarch: 2025-08-14
+**Versio:** Promulgata - 2025.08.14  
 
 ---
 
 ## Sigillum Capitalis et Initium Ordinis Distributionis Formologicae
 
 **Auctor:** 📜 [Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
-**Dies creationis:** 2025.08.13  
+**Dies creationis:** 2025.08.14 
 **Licentia Declarationis:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
 
 **Condiciones Licentiae:**
@@ -175,15 +175,15 @@ Codex of Imarchian Economy The economic form as a scene of participation, not as
 
 ---
 
-**Document ID:** CodexCapitalis: Imarch: 2025-08-13  
-**Version:** Promulgated – 2025.08.13  
+**Document ID:** CodexCapitalis: Imarch: 2025-08-14  
+**Version:** Promulgated – 2025.08.14  
 
 ---
 
 ## Seal of Capital and Inauguration of the Formological Order of Distribution
 
 **Author:** 📜 [Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
-**Date of Creation:** 2025.08.13  
+**Date of Creation:** 2025.08.14  
 **Declaration License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
 
 **License Terms:**  
