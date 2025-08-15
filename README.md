@@ -146,9 +146,9 @@ Activitas civilis fundatur in accipienda voluntaria et verificatione intellectus
 
 Processus familiaritatis cum Constitutione institui potest ut questus gradatim evolutus, cuius exitu civis unum ex statibus sequentibus obtinet:
 
-- 🔹 Plena cognitio Constitutionis et omnium sex codicum  
-- 🔸 Cognitio formalis unius vel plurium codicum, cum recognitione necessitatis ulterius studii  
-- 🔹 Participatio in cyclo repetitionis tertii codicis in anno tertio
+-  Plena cognitio Constitutionis et omnium sex codicum  
+-  Cognitio formalis unius vel plurium codicum, cum recognitione necessitatis ulterius studii  
+-  Participatio in cyclo repetitionis tertii codicis in anno tertio
 
 ---
 
@@ -290,9 +290,9 @@ Civic activity is based on voluntary acceptance and verified understanding of th
 
 The process of familiarization with the Constitution may be instituted as a gradually developed quest, resulting in one of the following statuses:
 
-- 🔹 Full knowledge of the Constitution and all six codices  
-- 🔸 Formal knowledge of one or more codices, with recognition of the need for further study  
-- 🔹 Participation in the third codex repetition cycle in the third year
+-  Full knowledge of the Constitution and all six codices  
+-  Formal knowledge of one or more codices, with recognition of the need for further study  
+-  Participation in the third codex repetition cycle in the third year
 
 ---
 
