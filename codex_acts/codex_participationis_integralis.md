@@ -59,48 +59,48 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 
 ## I. Formae Participationis {#formae-participationis}
 
-### 1. Scaena Civilitatis et Significatio eius {#scaena-civilitatis}
+### §1. Scaena Civilitatis et Significatio eius {#scaena-civilitatis}
 Civis non ut usor, sed ut actor ethicus in scaena ingreditur. Participatio est actus agnitionis, non simplicis accessus.
 
-### 2. Condiciones Ingressus et Agnitio {#condiciones-ingressus}
+### §2. Condiciones Ingressus et Agnitio {#condiciones-ingressus}
 Ingressus fit per formas rituales: petitiones, confirmationes, scaenas agnitionis. Civis codices cognoscere et publice recipere debet.
 
-### 3. Principia Ethica Participationis {#principia-ethica}
+### §3. Principia Ethica Participationis {#principia-ethica}
 Observantia scaenae, claritas actuum, ritus servandi, lucri recusatio. Participatio anonymum esse non potest si scaenas alias tangit.
 
-### 4. Status, Roli et Transitus {#status-et-transitus}
+### §4. Status, Roli et Transitus {#status-et-transitus}
 Civis status habere potest: observator, civis, custos, curator. Transitus inter status per scaenas publicas rite formatur.
 
 ---
 
 ## II. Ritus et Transitus {#ritus-et-transitus}
 
-### 1. Actus Agnitionis {#actus-agnitionis}
+### §1. Actus Agnitionis {#actus-agnitionis}
 Ritus formalis quo civis status accipit. Actus digitalis cum subscriptione, hash, et inscriptione publica formari potest.
 
-### 2. Scaena Transitus Status {#transitus-status}
+### §2. Scaena Transitus Status {#transitus-status}
 Transitus status (e.g. civis → curator) scaenam requirit: competentiae probatio, consensus custodum, et inscriptio archivistica.
 
-### 3. Formae Exitús Rituales {#formae-exitus}
+### §3. Formae Exitús Rituales {#formae-exitus}
 Exitus est actus: voluntarius, coactus, vel transitorius. Semper inscribitur et subscriptione archivistica comitatur.
 
-### 4. Status Transitorii et Formatió {#status-transitorii}
+### §4. Status Transitorii et Formatió {#status-transitorii}
 Status intermedii: candidatus, custos temporalis, hospes. Formantur cum limitationibus et terminis in appendicibus definitis.
 
 ---
 
 ## III. Custodia et Vestigium {#custodia-et-vestigium}
 
-### 1. Protocola Archivistica {#protocola-archivistica}
+### §1. Protocola Archivistica {#protocola-archivistica}
 Omnis actus participationis, transitús vel exitús in archivo inscribitur. Publicum vel privatum esse potest, sed verificabile manet.
 
-### 2. Nexus Permanentes et Codices QR {#nexus-permanentes}
+### §2. Nexus Permanentes et Codices QR {#nexus-permanentes}
 Documentum, scaena vel actus nexum permanentem et codicem QR accipit. Vestigium et verificatio per hoc fiunt.
 
-### 3. Hash et Confirmatio Authenticitatis {#hash-authenticitas}
+### §3. Hash et Confirmatio Authenticitatis {#hash-authenticitas}
 Documenta per hash signantur et in registro aperto publicantur. Substitutio excluditur, integritas conservatur.
 
-### 4. Subscriptio Archivistica et Scaena Vestigii {#subscriptio-vestigii}
+### §4. Subscriptio Archivistica et Scaena Vestigii {#subscriptio-vestigii}
 Actus per subscriptionem archivisticam clauditur: data, hash, nexus. Haec est scaena vestigii — actus rite exsecutus et inscriptus.
 
 ---
@@ -163,16 +163,16 @@ Requests should be sent to **unghart@proton.me** with a justification and the na
 
 ## I. Forms of Participation {#forms-of-participation}
 
-### Scene of Citizenship and Its Meaning
+### §1. Scene of Citizenship and Its Meaning
 The citizen enters not as a user, but as an ethical actor. Participation is an act of recognition, not mere access.
 
-### Conditions of Entry and Recognition
+### §2. Conditions of Entry and Recognition
 Entry occurs through ritual forms: petitions, confirmations, scenes of recognition. The citizen must publicly acknowledge and accept the codices.
 
-### Ethical Principles of Participation
+### §3. Ethical Principles of Participation
 Scene observance, clarity of acts, ritual preservation, rejection of profit. Participation cannot be anonymous if it touches other scenes.
 
-### Statuses, Roles, and Transitions
+### §4. Statuses, Roles, and Transitions
 A citizen may hold statuses: observer, citizen, custodian, curator. Transitions between statuses are formed through public scenes.
 
 ---
@@ -182,29 +182,29 @@ A citizen may hold statuses: observer, citizen, custodian, curator. Transitions 
 ### Act of Recognition
 A formal rite by which the citizen receives status. May be digital, with signature, hash, and public inscription.
 
-### Scene of Status Transition
+### §1. Scene of Status Transition
 Transition of status (e.g. citizen → curator) requires a scene: competency proof, custodian consensus, and archival inscription.
 
-### Ritual Forms of Exit
+### §2. Ritual Forms of Exit
 Exit is an act: voluntary, forced, or transitional. Always inscribed and accompanied by archival signature.
 
-### Transitory Statuses and Formation
+### §3. Transitory Statuses and Formation
 Intermediate statuses: candidate, temporary custodian, guest. Formed with limitations and terms defined in appendices.
 
 ---
 
 ## III. Custody and Trace {#custody-and-trace}
 
-### Archival Protocols
+### §1. Archival Protocols
 Every act of participation, transition, or exit is inscribed in the archive. May be public or private, but remains verifiable.
 
-### Permanent Links and QR Codes
+### §2. Permanent Links and QR Codes
 Documents, scenes, or acts receive permanent links and QR codes. Trace and verification occur through these.
 
-### Hash and Authenticity Confirmation
+### §3. Hash and Authenticity Confirmation
 Documents are signed via hash and published in an open registry. Substitution is excluded, integrity preserved.
 
-### Archival Signature and Scene of Trace
+### §4. Archival Signature and Scene of Trace
 An act is closed through archival signature: date, hash, link. This is the scene of trace — a rite executed and inscribed.
 
 ---
