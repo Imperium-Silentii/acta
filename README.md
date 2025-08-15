@@ -1,100 +1,165 @@
 <img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="400"/>
 
 
-# 🗂 Acta Imarchiae
+## 📑 Summarium Capitulorum
 
-**Acta** sunt documenta officialia quae fundamenta philosophica, iuridica, ac institutionalia Imarchiae definiunt.
+## 📜 Declaratio Coniunctionis Sex Codicum {#declaratio-coniunctionis}
 
-Hic locus includit Chartas, Declarationes, Codices et Protocolos structurae, a *Formologica Officio Praxis* approbatos.
+### Codex Initii et Sigillum Publicum {#codex-initii}
 
-
-## 📘 Codex Coniunctionis
-
-Codex Coniunctionis est Constitutio coniunctionis sex codicum Imarchiae, quae eos ut corpus formologicum unum confirmat.
-
-Non regulas describit, sed actum coniunctionis format — ut compositionem sensus, in qua quisque codex non singulariter, sed ut pars ritus integralis resonat.
-
-Hic Codex civitatem non per normas, sed per formam coniunctionis confirmat, ubi quisque documentum fit elementum corporis vivi Imarchiae.
-
-### Scaena I. Praefatio
-
-*Compositio non est summa. Codices non sunt fragmenta, sed elementa corporis formologici.*
-
-Sex Codices Constitutionis Imarchiae — Charta Imarchica, Codex Imarchae, Declaratio Formologiae, Codex Capitalis, Codex Civilis, Codex Participationis Integralis — non sunt regulae separatae, sed structurae inter se conexae. Haec scaena coniunctionem eorum non ut finem, sed ut actum formologicum confirmat.
-
-### Scaena II. Tabula Coniunctionis
-
-## 🔖 Partitiones 
-
-- ## 📚 Codex Documents I
-📜 [Charta Imarchica — Liber I](https://acta.imarch.sbs/codex_acts/charta_liber_I) 
-
-Constitutio originis et silentii: actus fundationis Imperii Imarchiae.
- 
-- ## 📚 Codex Documents II
-📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I)
-
-Architectura distinctionum: grammatica resonans corporis civilis.
-  
-- ## 📚 Codex Documents III
-📜 [Declaratio de Disciplina Formologiae](https://acta.imarch.sbs/codex_acts/Declaratio_de_Disciplina_Formologiae) 
-
-Ethica formae: disciplina interior et civitas ritualis.
-
-- ## 📚 Codex Documents IV  
-📜 [Codex Capitalis](https://acta.imarch.sbs/codex_acts/codex_capitalis)
-
-Forma oeconomica ut scena participationis, non ut ratio lucri.
+**ID Documenti:** Declaratio_Coniunctionis_006  
+**Versio:** Promulgata — 2025.08.15  
 
 ---
 
-- ## 📚 Codex Documents V  
+## 🏛️ Sigillum Declarationis et Initium Structurae Formologicae {#sigillum-declarationis}
+
+**Auctor:** 📜 [Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
+**Dies creationis:** 2025.08.15  
+**Licentia Declarationis:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
+
+**Condiciones Licentiae:**
+- **Attribuere** — Auctor et fons originalis indicandus est  
+- **Non Commerciale** — Usus ad finem lucrativum vetatur  
+- **Compartiri Similiter** — Opera derivata sub eadem licentia divulganda sunt  
+
+**Sigillum Licentiae:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+## 🔐 Impressio SHA256 {#impressio-sha256}
+
+
+
+Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
+Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
+
+> 🏛️ **Coniunctio Archivaria**  
+> Haec Declaratio rite et publice per …. est archivata, firmitatem iuridicam, tempus fixum, et facultatem citationis praestans.
+
+
+
+- [📜 Declaratio Coniunctionis Sex Codicum](#declaratio-coniunctionis)  
+- [1️⃣ Actus Confirmationis](#actus-confirmationis)  
+- [2️⃣ Compositio Matricis](#compositio-matricis)  
+- [3️⃣ Fundamentum Iuridico-Philosophicum](#fundamentum-iuridico-philosophicum)  
+- [4️⃣ Campus Interpretationis Individualis](#campus-interpretationis)  
+- [5️⃣ Activitas Civilis](#activitas-civilis)  
+- [6️⃣ Questus Familiaritatis](#questus-familiaritatis)  
+- [7️⃣ Commentatio Scaenographica](#commentatio-scaenographica)  
+- [🧭 Usus Documenti](#usus-documenti)
+
+## 📜 Declaratio Coniunctionis Sex Codicum {#declaratio-coniunctionis}
+
+---
+
+## 1️⃣ Actus Confirmationis {#actus-confirmationis}
+
+Hoc actu confirmatur coniunctio sex codicum fundamentalium Imarchiae in unam structuram formologicam — universalem matricem digito-graphicam sex-elementalem.
+
+Coniunctio non fit ut summa fragmentorum, sed ut actus formologicus completationis, in quo quisque codex fit elementum corporis integralis Imarchiae.
+
+---
+
+## 2️⃣ Compositio Matricis {#compositio-matricis}
+
+Elementa Matricis:
+
+## 📚 Codex Documents I  
+📜 [Charta Imarchica — Liber I](https://acta.imarch.sbs/codex_acts/charta_liber_I)  
+
+Foundational distinctions and resonant architecture of the Empire of Truth and Silence.
+
+---
+
+## 📚 Codex Documents II  
+📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I)  
+
+Architectura distinctionum: grammatica resonans corporis civilis.
+
+---
+
+## 📚 Codex Documents III  
+📜 [Declaratio de Disciplina Formologiae](https://acta.imarch.sbs/codex_acts/Declaratio_de_Disciplina_Formologiae)
+
+Ethics of form: inner discipline and ritual citizenship.
+
+---
+
+## 📚 Codex Documents IV  
+📜 [Codex Capitalis](https://acta.imarch.sbs/codex_acts/codex_capitalis)  
+
+The economic form as a scene of participation, not a calculus of profit.
+
+---
+
+## 📚 Codex Documents V  
 📜 [Codex Civilis](https://acta.imarch.sbs/codex_acts/codex_cvilis)  
 
-Forma civitatis ut actus vestigialis, non ut status inertis.
+The civic form as a vestigial act, not a static condition.
 
 ---
 
 ## 📚 Codex Documents VI  
 📜 [Codex Participationis Integralis](https://acta.imarch.sbs/codex_acts/codex_participationis_integralis)
 
-Forma participationis ut actus civitatis, non ut accessus anonymus.
+Participation as an act of citizenship, not as anonymous access.
 
 ---
 
-Quisque actus praesto est in forma `.md`, cum status emissionis, versione, et translationibus ad linguas clavis pertinentes.
+
+Haec sunt structurae indivisibiles, coniunctae secundum principia compatibilitatis formologicae, resonantiae et compositionis institutionalem.
 
 ---
 
-## 🧭 Usus
+## 3️⃣ Fundamentum Iuridico-Philosophicum {#fundamentum-iuridico-philosophicum}
 
-Documenta possunt:
-- citari,
-- pertractari,
-- innecti ad nexūs verificationis, onboarding, iudicium internum, et publicationes academicas.
+Quisque codex suam formam unicam servat, sed in Matrice corpus unum constituunt, quod tam iuridice quam philosophice Imarchiam confirmat.
 
-## 📎 Status Editionis
-
-- **Ratified** — officialiter confirmatus  
-- **Translated** — in linguis selectis praesto est
-
-## 📬 Contactus
-
-Quaestiones, commentarii et suggestiones de versionibus mittantur ad Officium Documentorum:  
-📧 
-
-### Scaena Gratulatio: Memoria Technica
+Matricis Codicum est Constitutio viva Imarchiae, in qua civis singulus campum interpretationis individualem format secundum gradum competentiae personalis.
 
 ---
 
-## 🌐 English Version
+## 4️⃣ Campus Interpretationis Individualis {#campus-interpretationis}
 
-For the English edition of Acta Imarchiae, including translations and verified documents, visit:  
-👉 🔗 [English version — Institutional Acts](https://acta.imarch.sbs/acts)
+Interpretationes possunt formalizari ad actiones in iudicio arbitrali iustificandas, cum propositionibus interpretativis in conferentiam verificationis apertam prolatis.
 
-All documents are traceable, ratified, and aligned with the original Latin and Russian editions.  
-Custodia and editorial integrity are preserved across languages.
+Scopus talium conferentiarum est extensio, profundatio et concretizatio propositionum fundamentalium.
 
-🏛️ [Scaena Prīnceps — Imarchia](https://imarch.sbs/)
+---
+
+## 5️⃣ Activitas Civilis {#activitas-civilis}
+
+Codices fundamentales sunt quasi notae musicae, ad participationem personalem destinatae.
+
+Activitas civilis fundatur in accipienda voluntaria et verificatione intellectus contentorum Codicum Constitutionis Imarchiae.
+
+---
+
+## 6️⃣ Questus Familiaritatis {#questus-familiaritatis}
+
+Processus familiaritatis cum Constitutione institui potest ut questus gradatim evolutus, cuius exitu civis unum ex statibus sequentibus obtinet:
+
+- 🔹 Plena cognitio Constitutionis et omnium sex codicum  
+- 🔸 Cognitio formalis unius vel plurium codicum, cum recognitione necessitatis ulterius studii  
+- 🔹 Participatio in cyclo repetitionis tertii codicis in anno tertio
+
+---
+
+## 7️⃣ Commentatio Scaenographica {#commentatio-scaenographica}
+
+Documentum subicitur commentationi scaenographicae a civibus Imarchiae, in ritu participationis institutionalem.
+
+---
+
+## 🧭 Usus Documenti {#usus-documenti}
+
+Documentum potest:
+
+- 📌 citari  
+- 🛠️ tractari  
+- 🔗 conecti cum nodis verificationis, onboarding, recognitionis internae et publicationibus academicis
+
+
 
 
