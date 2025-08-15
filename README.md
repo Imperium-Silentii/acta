@@ -65,37 +65,38 @@ Coniunctio non fit ut summa fragmentorum, sed ut actus formologicus completation
 
 Elementa Matricis:
 
-<h2 id="codex-documents-i">📚 Codex Documents I</h2>  
+## 📚 Codex Documents I  
 📜 [Charta Imarchica — Liber I](https://acta.imarch.sbs/codex_acts/charta_liber_I)  
 
 Foundational distinctions and resonant architecture of the Empire of Truth and Silence.  
 
-<h2 id="codex-documents-ii">📚 Codex Documents II</h2>  
+## 📚 Codex Documents II  
 📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I)  
 
 Architectura distinctionum: grammatica resonans corporis civilis.
 
-<h2 id="codex-documents-iii">📚 Codex Documents III</h2>  
+## 📚 Codex Documents III  
 📜 [Declaratio de Disciplina Formologiae](https://acta.imarch.sbs/codex_acts/Declaratio_de_Disciplina_Formologiae)
 
 Ethics of form: inner discipline and ritual citizenship.
 
 ---
 
-<h2 id="codex-documents-iv">📚 Codex Documents IV</h2>  
+## 📚 Codex Documents IV  
 📜 [Codex Capitalis](https://acta.imarch.sbs/codex_acts/codex_capitalis)  
 The economic form as a scene of participation, not a calculus of profit.
 
 ---
 
-<h2 id="codex-documents-v">📚 Codex Documents V</h2>  
+## 📚 Codex Documents V  
 📜 [Codex Civilis](https://acta.imarch.sbs/codex_acts/codex_cvilis)  
 The civic form as a vestigial act, not a static condition.
 
 ---
 
-<h2 id="codex-documents-vi">📚 Codex Documents VI</h2>  
+## 📚 Codex Documents VI  
 📜 [Codex Participationis Integralis](https://acta.imarch.sbs/codex_acts/codex_participationis_integralis)
+
 
 Participation as an act of citizenship, not as anonymous access.
 
