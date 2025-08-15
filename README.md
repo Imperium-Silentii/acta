@@ -49,6 +49,18 @@ Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indic
 - [7️⃣ Commentatio Scaenographica](#commentatio-scaenographica)  
 - [🧭 Usus Documenti](#usus-documenti)
 
+- ---
+
+- [📜 Declaration of the Conjunction of Six Codices](#declaratio-coniunctionis)  
+- [1️⃣ Act of Confirmation](#actus-confirmationis)  
+- [2️⃣ Matrix Composition](#compositio-matricis)  
+- [3️⃣ Legal-Philosophical Foundation](#fundamentum-iuridico-philosophicum)  
+- [4️⃣ Field of Individual Interpretation](#campus-interpretationis)  
+- [5️⃣ Civic Activity](#activitas-civilis)  
+- [6️⃣ Familiarization Process](#questus-familiaritatis)  
+- [7️⃣ Scenographic Commentary](#commentatio-scaenographica)  
+- [🧭 Document Usage](#usus-documenti)
+
 <h2 id="declaratio-coniunctionis">📜 Declaratio Coniunctionis Sex Codicum</h2>
 
 ---
@@ -154,6 +166,149 @@ Documentum potest:
 - 🛠️ tractari  
 - 🔗 conecti cum nodis verificationis, onboarding, recognitionis internae et publicationibus academicis
 
+---
+
+<img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="400"/>
+
+<h2 id="summarium-capitulorum">📑 Chapter Summary</h2>
+
+<h2 id="declaratio-coniunctionis">📜 Declaration of the Conjunction of Six Codices</h2>
+
+<h3 id="codex-initii">Codex of Initiation and Public Seal</h3>
+
+**Document ID:** Declaratio_Coniunctionis_006  
+**Version:** Promulgated — 2025.08.15  
+
+---
+
+<h2 id="sigillum-declarationis">🏛️ Seal of Declaration and Beginning of Formological Structure</h2>
+
+**Author:** 📜 [Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
+**Date of Creation:** 2025.08.15  
+**Declaration License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
+
+**License Terms:**
+- **Attribution** — Author and original source must be credited  
+- **Non-Commercial** — Use for profit is prohibited  
+- **Share Alike** — Derivative works must be released under the same license  
+
+**License Seal:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+<h2 id="impressio-sha256">🔐 SHA256 Impression</h2>
+
+The PDF version of this Declaration, including its hash value and issuance seal, is available upon official request.  
+Requests must be sent to **unghart@proton.me** with justification and institutional name of the requester.
+
+> 🏛️ **Archival Conjunction**  
+> This Declaration is formally and publicly archived, ensuring legal firmness, fixed timestamp, and citation capability.
+
+---
+
+<h2 id="declaratio-coniunctionis">📜 Declaration of the Conjunction of Six Codices</h2>
+
+---
+
+<h2 id="actus-confirmationis">1️⃣ Act of Confirmation</h2>
+
+This act confirms the conjunction of six foundational codices of Imarchia into a single formological structure — a universal six-element digito-graphic matrix.
+
+The conjunction is not a sum of fragments, but a formological act of completion, in which each codex becomes an element of the integral body of Imarchia.
+
+---
+
+<h2 id="compositio-matricis">2️⃣ Matrix Composition</h2>
+
+Matrix Elements:
+
+## 📚 Codex Documents I  
+📜 [Imarchic Charter — Book I](https://acta.imarch.sbs/codex_acts/charta_liber_I)  
+
+Foundational distinctions and resonant architecture of the Empire of Truth and Silence.  
+
+## 📚 Codex Documents II  
+📜 [Codex of Imarchia — Book I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I)  
+
+Architecture of distinctions: resonant grammar of the civic body.
+
+## 📚 Codex Documents III  
+📜 [Declaration on the Discipline of Formology](https://acta.imarch.sbs/codex_acts/Declaratio_de_Disciplina_Formologiae)
+
+Ethics of form: inner discipline and ritual citizenship.
+
+---
+
+## 📚 Codex Documents IV  
+📜 [Codex of Capital](https://acta.imarch.sbs/codex_acts/codex_capitalis)  
+The economic form as a scene of participation, not a calculus of profit.
+
+---
+
+## 📚 Codex Documents V  
+📜 [Codex of Civility](https://acta.imarch.sbs/codex_acts/codex_cvilis)  
+The civic form as a vestigial act, not a static condition.
+
+---
+
+## 📚 Codex Documents VI  
+📜 [Codex of Integral Participation](https://acta.imarch.sbs/codex_acts/codex_participationis_integralis)
+
+Participation as an act of citizenship, not as anonymous access.
+
+---
+
+These are indivisible structures, conjoined according to principles of formological compatibility, resonance, and institutional composition.
+
+---
+
+<h2 id="fundamentum-iuridico-philosophicum">3️⃣ Legal-Philosophical Foundation</h2>
+
+Each codex retains its unique form, yet within the Matrix they constitute a single body, legally and philosophically affirming Imarchia.
+
+The Codex Matrix is the living Constitution of Imarchia, wherein each citizen forms a field of individual interpretation according to their degree of personal competence.
+
+---
+
+<h2 id="campus-interpretationis">4️⃣ Field of Individual Interpretation</h2>
+
+Interpretations may be formalized to justify actions in arbitral judgment, with interpretive propositions submitted to an open verification conference.
+
+The aim of such conferences is the extension, deepening, and concretization of foundational propositions.
+
+---
+
+<h2 id="activitas-civilis">5️⃣ Civic Activity</h2>
+
+The foundational codices are like musical notes, intended for personal participation.
+
+Civic activity is based on voluntary acceptance and verified understanding of the contents of the Imarchic Constitutional Codices.
+
+---
+
+<h2 id="questus-familiaritatis">6️⃣ Familiarization Process</h2>
+
+The process of familiarization with the Constitution may be instituted as a gradually developed quest, resulting in one of the following statuses:
+
+- 🔹 Full knowledge of the Constitution and all six codices  
+- 🔸 Formal knowledge of one or more codices, with recognition of the need for further study  
+- 🔹 Participation in the third codex repetition cycle in the third year
+
+---
+
+<h2 id="commentatio-scaenographica">7️⃣ Scenographic Commentary</h2>
+
+The document is subject to scenographic commentary by citizens of Imarchia, within the ritual of institutional participation.
+
+---
+
+<h2 id="usus-documenti">🧭 Document Usage</h2>
+
+The document may be:
+
+- 📌 cited  
+- 🛠️ processed  
+- 🔗 linked to nodes of verification, onboarding, internal recognition, and academic publications
 
 
 
