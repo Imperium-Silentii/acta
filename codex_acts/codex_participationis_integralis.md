@@ -27,6 +27,7 @@ _Actus fundatorius de formis civitatis, ritibus transitús et vestigio archivali
 
 ## Impressio SHA256
 
+43a9c109e5c9093610c9f5a0811c4e15b1cc688460e409dae51e2339d4ca5de7
 
 Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
@@ -149,7 +150,7 @@ _Foundational act on forms of citizenship, rites of transition, and archival tra
 
 ## SHA256 Imprint
 
-
+43a9c109e5c9093610c9f5a0811c4e15b1cc688460e409dae51e2339d4ca5de7
 
 A PDF version of this Declaration, including its hash value and issuance seal, is available upon official request.  
 Requests should be sent to **unghart@proton.me** with a justification and the name of the requesting institution.
