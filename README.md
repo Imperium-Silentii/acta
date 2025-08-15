@@ -34,7 +34,10 @@
 Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
 
-> 🏛️ **Coniunctio Archivaria**  
+> 🏛️ **Coniunctio Archivaria**
+
+[Perma.cc](https://perma.cc/4YQB-RVWN)
+
 > Haec Declaratio rite et publice per est archivata, firmitatem iuridicam, tempus fixum, et facultatem citationis praestans.
 
 ---
@@ -203,7 +206,10 @@ Documentum potest:
 The PDF version of this Declaration, including its hash value and issuance seal, is available upon official request.  
 Requests must be sent to **unghart@proton.me** with justification and institutional name of the requester.
 
-> 🏛️ **Archival Conjunction**  
+> 🏛️ **Archival Conjunction**
+
+[Perma.cc](https://perma.cc/4YQB-RVWN)
+
 > This Declaration is formally and publicly archived, ensuring legal firmness, fixed timestamp, and citation capability.
 
 ---
