@@ -6,14 +6,14 @@
 _Actus fundatorius de formis civitatis, ritibus transitús et vestigio archivali_
 
 ---
-**ID Documenti:** Codex Participationis Integralis: Imarch: 2025-08-14  
-**Versio:** Promulgata — 2025.08.14  
+**ID Documenti:** Codex Participationis Integralis: Imarch: 2025-08-15  
+**Versio:** Promulgata — 2025.08.15 
 ---
 
 ## Sigillum Civilis et Initium Ordinis Civitatis Formologicae
 
 **Auctor:** 📜 [Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
-**Dies creationis:** 2025.08.14  
+**Dies creationis:** 2025.08.15  
 **Licentia Declarationis:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
 
 **Condiciones Licentiae:**
@@ -219,7 +219,7 @@ An act is closed through archival signature: date, hash, link. This is the scene
 ---
 
 📁 Archival link: [https://perma.cc/5KSR-LKQD](https://perma.cc/5KSR-LKQD)  
-📅 Date of publication: 14 August 2025  
+📅 Date of publication: 15 August 2025  
 🔒 Hash signature: `to-be-inserted-upon-finalization`
 
 
