@@ -35,7 +35,7 @@ Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, pra
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
 
 > 🏛️ **Coniunctio Archivaria**  
-> Haec Declaratio rite et publice per …. est archivata, firmitatem iuridicam, tempus fixum, et facultatem citationis praestans.
+> Haec Declaratio rite et publice per est archivata, firmitatem iuridicam, tempus fixum, et facultatem citationis praestans.
 
 ---
 
