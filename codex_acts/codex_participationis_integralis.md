@@ -32,7 +32,9 @@ _Actus fundatorius de formis civitatis, ritibus transitús et vestigio archivali
 Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
 
-> 🏛️ **Coniunctio Archivaria**  
+> 🏛️ **Coniunctio Archivaria**
+
+> [Perma.cc](https://perma.cc/J5AD-KPP3)  
  
 > Haec Declaratio rite et publice perest archivata, firmitatem iuridicam, tempus fixum, et facultatem citationis praestans.
 
@@ -157,6 +159,7 @@ Requests should be sent to **unghart@proton.me** with a justification and the na
 
 > 🏛️ **Archival Link**  
 
+[Perma.cc](https://perma.cc/J5AD-KPP3)
 
 > This Declaration is formally and publicly archived, ensuring legal integrity, fixed timestamp, and citation capability.
 
@@ -219,8 +222,8 @@ An act is closed through archival signature: date, hash, link. This is the scene
 
 ---
 
-📁 Archival link: [https://perma.cc/5KSR-LKQD](https://perma.cc/5KSR-LKQD)  
+📁 Archival link: [Perma.cc](https://perma.cc/J5AD-KPP3)
 📅 Date of publication: 15 August 2025  
-🔒 Hash signature: `to-be-inserted-upon-finalization`
+🔒 Hash signature: 43a9c109e5c9093610c9f5a0811c4e15b1cc688460e409dae51e2339d4ca5de7
 
 
