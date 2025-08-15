@@ -29,7 +29,7 @@
 
 <h2 id="impressio-sha256">🔐 Impressio SHA256</h2>
 
-`e290c2965b56f239ec709af2efa55de03b02a0a0b2734c43971bb6e60dd7332a`
+
 
 Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
