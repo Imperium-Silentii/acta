@@ -29,7 +29,7 @@
 
 <h2 id="impressio-sha256">🔐 Impressio SHA256</h2>
 
-
+5260ccd096df21139eb4eed8e537b524a20316e6a6092d5d340024257f2cc4b4
 
 Forma PDF huius Declarationis, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 Rogatio mittenda est ad **unghart@proton.me** cum ratione requisitionis et indicatione nominis institutionis petentis.
@@ -197,6 +197,8 @@ Documentum potest:
 ---
 
 <h2 id="impressio-sha256">🔐 SHA256 Impression</h2>
+
+5260ccd096df21139eb4eed8e537b524a20316e6a6092d5d340024257f2cc4b4
 
 The PDF version of this Declaration, including its hash value and issuance seal, is available upon official request.  
 Requests must be sent to **unghart@proton.me** with justification and institutional name of the requester.
