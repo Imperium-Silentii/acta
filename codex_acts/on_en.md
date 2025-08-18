@@ -64,7 +64,7 @@ This act affirms the unification of six foundational codices of Imarchia into a 
 
 📐 Digitographic Matrix  
 Latin: Matrix digitographica  
-Russian: A structural-semantic grid that binds digital acts, graphic forms, and institutional meanings into a unified field of ritual action.  
+English: A structural-semantic grid that binds digital acts, graphic forms, and institutional meanings into a unified field of ritual action.  
 It serves as the framework of Imarchia — providing anchor-based navigation, legal linkage, and visual consistency across scenes, languages, and access levels.  
 Each cell of the matrix is not merely an element, but an act of fixation bearing legal, philosophical, and aesthetic weight.
 
