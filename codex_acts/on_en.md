@@ -74,3 +74,44 @@ The unification of the six Codices is not a mere sum of fragments, but a formolo
 
 **Matrix Elements:**
 
+- [📚 Codex I — The Imarchic Charter](#codex-i--the-imarchic-charter)  
+  ### 📜 Book I  
+  _Foundational distinctions and the resonant architecture of the Empire of Truthful Silence._
+
+---
+
+- [📚 Codex II — The Codex of Imarchia](#codex-ii--the-codex-of-imarchia)  
+  ### 📜 Book I  
+  _Architecture of distinctions: the resonant grammar of the civic body._
+
+---
+
+- [📚 Codex III — Declaration on the Discipline of Formology](#codex-iii--declaration-on-the-discipline-of-formology)  
+  ### 📜 Book I  
+  _Ethics of form: inner discipline and ritual citizenship._
+
+---
+
+- [📚 Codex IV — The Codex of Capital](#codex-iv--the-codex-of-capital)  
+  ### 📜 Book I  
+  _Economic form as a scene of participation, not profit calculation._
+
+---
+
+- [📚 Codex V — The Civil Codex of Imarchia](#codex-v--the-civil-codex-of-imarchia)  
+  ### 📜 Book I — Preamble, Definitions, Rights and Duties  
+  _Formalizes citizenship as an active form of action and links individual form to institutional memory._
+
+---
+
+- [📚 Codex VI — The Codex of Integral Participation](#codex-vi--the-codex-of-integral-participation)  
+  ### 📜 Book I  
+  _Presence affirmed by the scene of full civic identity, where each act expresses indivisible inclusion into the Form._
+
+
+# Codex I — The Imarchic Charter  
+# Codex II — The Codex of Imarchia  
+# Codex III — Declaration on the Discipline of Formology  
+# Codex IV — The Codex of Capital  
+# Codex V — The Civil Codex of Imarchia  
+# Codex VI — The Codex of Integral Participation
