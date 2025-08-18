@@ -106,11 +106,73 @@ Coniunctio sex Codicum non est mera summa fragmentorum, sed actus formologicus c
   ### 📜 Liber I  
   _Praesentia confirmata per Scaenam Identitatis Civicae Plenae, ubi omnis Actus est Expressio Inclusionis Indivisibilis in Formam._
 
+## 3️⃣ Fundamentum Iuridico-Philosophicum
 
-# Codex I — Chartae Imarchica  
-# Codex II — Codex Imarchiae  
-# Codex III — Declaratio de Disciplina Formologiae  
-# Codex IV — Codex Capitalis  
-# Codex V — Codex Civilis Imarchiae  
+Unusquisque Codex suam formam singularem conservat, sed intra Matricem corpus unum constituunt, quod Imarchiam iuridice et philosophice affirmat.
+
+Matrix Codicum est Constitutio viva Imarchiae, in qua quilibet civis campum interpretationis individualis format secundum gradum suae competentiae personalis.
+
+---
+
+## 4️⃣ Campus Interpretationis Individualis
+
+Interpretationes possunt formalizari ad actiones iustificandas in iudicio arbitrali interno, cum propositionibus interpretativis in aperta verificationis conferentia exhibendis.
+
+Finis talium conferentiarum est extensio, profundatio et concretizatio principiorum fundamentalium.
+
+---
+
+## 5️⃣ Actio Civilis
+
+Codices Constitutionales Imarchiae ut partitio communis praefiguntur, sed sonum accipit interpretatio personalis uniuscuiusque.
+
+Actio civilis manifestatur in voluntaria accessione, profunda comprehensione Codicum et in actionibus ex eorum dispositionibus derivatis.
+
+---
+
+## 6️⃣ Processus Familiarizationis
+
+Processus familiarizationis cum Constitutione institui potest ut quaestus gradatim evolutus, qui ad unum ex sequentibus statibus ducit:
+
+- ✅ Plena cognitio Constitutionis et omnium sex Codicum cum interpretatione personali  
+- 📘 Cognitio formalis unius vel plurium Codicum cum agnitione necessitatis ulterioris studii  
+
+---
+
+## 7️⃣ Commentarius Scenographicus
+
+Documentum subicitur commentario scenographico civium Imarchiae in ritu participationis institutionalitatis.
+
+---
+
+## 🧭 Usus Documenti
+
+Documentum potest:
+
+- 📌 citari  
+- 🛠️ tractari  
+- 🔗 conecti cum nodis verificationis, onboarding, recognitionis internae et publicationum academicarum
+
+---
+
+# Codex I — Chartae Imarchica 
+
+---
+
+# Codex II — Codex Imarchiae
+
+---
+# Codex III — Declaratio de Disciplina Formologiae
+
+---
+
+# Codex IV — Codex Capitalis
+
+---
+
+# Codex V — Codex Civilis Imarchiae
+
+---
+
 # Codex VI — Codex Participationis Integralis
 
