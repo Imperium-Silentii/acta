@@ -108,10 +108,73 @@ The unification of the six Codices is not a mere sum of fragments, but a formolo
   ### 📜 Book I  
   _Presence affirmed by the scene of full civic identity, where each act expresses indivisible inclusion into the Form._
 
+## 3️⃣ Juridico-Philosophical Foundation
 
-# Codex I — The Imarchic Charter  
-# Codex II — The Codex of Imarchia  
-# Codex III — Declaration on the Discipline of Formology  
-# Codex IV — The Codex of Capital  
-# Codex V — The Civil Codex of Imarchia  
+Each codex retains its unique form, yet within the Matrix they compose a unified body that affirms Imarchia both legally and philosophically.
+
+The Matrix of Codices is the living Constitution of Imarchia, in which each citizen shapes a field of individual interpretation according to their personal degree of competence.
+
+---
+
+## 4️⃣ Field of Individual Interpretation
+
+Interpretations may be formalized to justify actions within the internal arbitration court, with interpretative proposals submitted at the open verification conference.
+
+The aim of such conferences is to expand, deepen, and concretize foundational principles.
+
+---
+
+## 5️⃣ Civic Activity
+
+The Constitutional Codices of Imarchia are given as a shared score, but each personal interpretation gives it voice.
+
+Civic activity is expressed through voluntary acceptance, deep understanding of the Codices, and enactment of their provisions.
+
+---
+
+## 6️⃣ Familiarization Process
+
+The process of familiarizing oneself with the Constitution may be instituted as a gradually unfolding quest, leading to one of the following statuses:
+
+- ✅ Full knowledge of the Constitution and all six codices, with personal interpretation  
+- 📘 Formal knowledge of one or more codices, with recognition of the need for further study  
+
+---
+
+## 7️⃣ Scenographic Commentary
+
+The document is subject to scenographic commentary by citizens of Imarchia within the ritual of institutional participation.
+
+---
+
+## 🧭 Use of the Document
+
+The document may be:
+
+- 📌 quoted  
+- 🛠️ processed  
+- 🔗 linked to nodes of verification, onboarding, internal recognition, and academic publication
+
+---
+
+# Codex I — The Imarchic Charter
+
+---
+
+# Codex II — The Codex of Imarchia 
+
+---
+
+# Codex III — Declaration on the Discipline of Formology
+
+---
+
+# Codex IV — The Codex of Capital
+
+---
+
+# Codex V — The Civil Codex of Imarchia
+
+---
+
 # Codex VI — The Codex of Integral Participation
