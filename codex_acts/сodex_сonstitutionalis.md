@@ -11,7 +11,7 @@
 
 ## 🏛️ Формологическая Печать и Лицензия
 
-**Автор:** 📜 [📜 Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  — Архивум  
+**Автор:** 📜 [📜 Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)   
 
 **Дата создания:** 2025.08.... 
 
