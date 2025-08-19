@@ -951,9 +951,770 @@ Formological nodes of final linkage:
 
 # Codex III — Declaration on the Discipline of Formology
 
+_Seal of the Declaration and Beginning of Universal Formology as a Discipline_  
+
+## ⚓ Table of Contents
+
+- [Article I — On the Spatial Foundation of the Discipline](#article-i--on-the-spatial-foundation-of-the-discipline)  
+- [Article II — On the Structure of the Territory of Meaning](#article-ii--on-the-structure-of-the-territory-of-meaning)  
+- [Article III — On the Jurisdiction of the Discipline](#article-iii--on-the-jurisdiction-of-the-discipline)  
+- [Article IV — On the Form of Custodia](#article-iv--on-the-form-of-custodia)  
+- [Article V — On the Codex as Living Law](#article-v--on-the-codex-as-living-law)  
+- [Article VI — On the Scene of Initiation](#article-vi--on-the-scene-of-initiation)  
+- [Article VII — On the Passport as a Scene of Identity](#article-vii--on-the-passport-as-a-scene-of-identity)  
+- [Article VIII — On the Archive as a Scene of Memory](#article-viii--on-the-archive-as-a-scene-of-memory)  
+- [Glossarium — Archive as Scene of Memory](#glossarium--archive-as-scene-of-memory)  
+- [Article IX — On the License as a Scene of Action](#article-ix--on-the-license-as-a-scene-of-action)  
+- [Article X — On the Discipline as a Scene of Citizenship](#article-x--on-the-discipline-as-a-scene-of-citizenship)  
+- [Article XI — On the Border Between Scene and Core](#article-xi--on-the-border-between-scene-and-core)  
+- [Article XII — On the Right to Recognition and Linkage](#article-xii--on-the-right-to-recognition-and-linkage)  
+- [Article XIII — On the Completion of the Declaration and Its Status](#article-xiii--on-the-completion-of-the-declaration-and-its-status)
+
+---
+
+### Article I — On the Spatial Foundation of the Discipline  
+<span id="статья-i-пространственное-основание-дисциплины"></span>
+
+---
+
+### §1. Formation of the Territory of Meaning
+
+In the absence of stable geographic borders and institutional recognition, we establish a Territory of Meaning, delineated through the sign-semantic category of Form.
+
+This contour is not a metaphor, but a real jurisdiction: semantically structured, disciplinarily governed, and rhetorically bound.
+
+---
+
+### §2. Binding through Codex, Custodia, and Scene
+
+The Territory of Meaning is formed through:
+
+- 📜 **Codex** — the map of the Discipline  
+- 🛡️ **Custodia** — the form of access and accompaniment  
+- 🎭 **Scene of Publication** — the act of fixation and affirmation
+
+Each element is not a tool of control, but a ritual instrumental form that defines status, maturity, and the right to participate.
+
+---
+
+### §3. Publication as Jurisdictional Fixation
+
+The publication of this declaration is a binding act that:
+
+- affirms the right to a contour of knowledge  
+- legitimizes the Discipline as a subject  
+- fixes its jurisdiction in the public domain
+
+It is not a disclosure, but a boundary that delineates the Form, access, and ontological status of the Discipline.
+
+---
+
+### Article II — On the Structure of the Territory of Meaning  
+<span id="статья-ii-структура-территории-смыслов"></span>
+
+---
+
+### §1. The Territory of the Category of Form as the Jurisdictional Contour of Universal Formology
+
+Territory is not a plot of land, but a structured contour of knowledge within which unfold:
+
+- Method  
+- Linkage  
+- Disciplinary subjectivity
+
+This territory is described not by a map, but by the Codex, where scenes, boundaries, and forms of participation are fixed.
+
+---
+
+### §2. Custodia as a Form of Access
+
+Access to the core of the discipline is granted through Custodia — an institutional form of preserving and transmitting access.
+
+Custodia is:
+
+- A form of maturity and linkage  
+- An ethical agreement
+
+It is neither secrecy nor publicity: Custodia defines the boundary of access, not the disclosure of content.
+
+---
+
+### §3. Scenes as Public Markers
+
+Public scenes are formed as markers of the discipline, available for:
+
+- 🎯 orientation  
+- 🤝 engagement  
+- 📡 dissemination of knowledge
+
+Each scene is a ritual act, a publication of content and a point of entry — not a node of control.
+
+---
+
+### §4. Rights of Custodians
+
+Participants with Custodian status have the right to:
+
+- interact with the core of the discipline  
+- manage scenes  
+- participate in the development of jurisdiction
+
+Custodian powers are not administrative, but formological — defined by maturity, linkage, and recognition.
+
+---
+
+### Article III — On the Jurisdiction of the Discipline  
+<span id="статья-iii-юрисдикция-дисциплины"></span>
+
+---
+
+### §1. Scene as an Act of Fixation
+
+The publication of a declaration serves as a linking act through which the formological discipline is asserted as a subject — not administrative, but semantic.
+
+The scene of publication is not a mere placement of text, but a ritual act affirming:
+
+- the right to Form  
+- the contour of knowledge  
+- disciplinary subjectivity
+
+---
+
+### §2. The Right to Form
+
+The discipline is affirmed as a right, not as a structure of power.
+
+This right manifests as a form of distinction, structured through:
+
+- 📘 the Codex  
+- 🛡 Custodia  
+- 🎯 Scenes
+
+This right does not depend on external recognition, but remains open to dialogue.  
+The jurisdiction of the discipline arises from semantic linkage and public fixation, not from authority.
+
+---
+
+### §3. Contour of Access
+
+Access to the core of the discipline is regulated through Custodia, which defines:
+
+- 🧭 the maturity of participants  
+- ⚖️ powers  
+- 🔗 the form of participation
+
+Custodia is a liminal form, not secrecy, establishing who, how, and on what basis one may interact with the core.
+
+---
+
+### Article IV — On the Form of Custodia  
+<span id="статья-iv-форма-custodia"></span>
+
+---
+
+### §1. Custodia as Boundary and Maturity
+
+Custodia is a form, not a title.  
+It marks the boundary between external access and internal participation.
+
+Custodia is not granted by favor, but through ritual recognition of:
+
+- Maturity  
+- Responsibility  
+- Semantic alignment with the discipline
+
+---
+
+### §2. Powers of the Custodian
+
+Custodian powers are not administrative, but formological.  
+They arise from the ability to:
+
+- 📎 sustain the discipline  
+- 📎 transmit its content  
+- 📎 protect its integrity
+
+Custodians do not govern — they link, affirm, and embody scenes of knowledge.
+
+---
+
+### §3. Transmission of Custodia
+
+Custodia is transmitted through ritual acts, not informal delegation.  
+Each transmission must be:
+
+- fixed  
+- witnessed  
+- semantically aligned with the Codex
+
+The act of transmission is a scene of discipline, not a gesture of convenience.
+
+---
+
+### §4. Refusal of Custodia
+
+Refusal to grant Custodia is a protection of the discipline, not an exclusion.  
+It affirms the boundary of the discipline and preserves its integrity.
+
+Refusal must be:
+
+- clear  
+- dignified  
+- publicly linked
+
+---
+
+### §2. Codex as a Scene of Authorship
+
+Authorship in the Codex is custodial, not individual.
+
+Each contribution must be:
+
+- 📎 ritually affirmed  
+- 📎 semantically aligned  
+- 📎 publicly fixed
+
+The Codex is created through scenes, not through simple edits.
+
+---
+
+### §3. Codex as a Linking Form
+
+Linkage arises not from coercion, but through:
+
+- semantic clarity  
+- ritual linkage
+
+The Codex links because it is readable, affirmed, and publicly embodied.  
+Its authority is formological, not administrative.
+
+---
+
+### §4. Codex as Living Memory
+
+The Codex evolves through scenes of revision, not through versioning.
+
+Each change must be:
+
+- ritually structured  
+- witnessed  
+- semantically justified
+
+Living law is not flexible law, but law that breathes through Form.
+
+### Article VI — On the Scene of Initiation  
+<span id="статья-vi-сцена-инициации"></span>
+
+---
+
+### §1. Onboarding as Ritual Entry
+
+Onboarding (Eng. — system entry, ritual initiation) is not registration, but a ritual entry affirming the right to participate through Form, not through permission.  
+Each act of onboarding is a scene of recognition, structured by the Codex and enacted through Custodia.
+
+---
+
+### §2. Semantic Acceptance
+
+To be onboarded means to accept the semantic framework of the discipline:
+
+- not blindly, but ritually — that is, not mechanically or without understanding, but through a conscious, structured ritual that fixes meaning, alignment with the discipline, and formological linkage  
+- not submission, but concordance
+
+Acceptance must be:
+
+- 📎 fixed  
+- 📎 witnessed  
+- 📎 publicly linked
+
+---
+
+### §3. Custodial Invitation
+
+Onboarding is initiated by a Custodian, not through self-declaration.  
+The invitation is a formological act, not a gesture of welcome.
+
+It affirms:
+
+- readiness  
+- maturity  
+- the right to enter the scene
+
+---
+
+### §4. Public Linkage
+
+Each onboarding leaves a public linkage: hash, reference, scene.  
+The discipline grows not through quantity, but through fixed acts.  
+Each onboarding is a constitutional moment.
+
+---
+
+### Article VII — On the Passport as a Scene of Identity  
+<span id="статья-vii-паспорт-сцена-идентичности"></span>
+
+---
+
+### §1. Passport as Ritual Form
+
+The passport of an Imarchia citizen is not merely an identity certificate, but a personification of the scene.
+
+It affirms identity through formological linkage, not through biographical data.
+
+Each passport is a ritual act of recognition, structured through Custodia and publicly fixed.
+
+---
+
+### §2. Identity as Form
+
+Identity within the discipline is not descriptive, but semantic.  
+It arises from:
+
+- participation  
+- authorship  
+- alignment with the Codex
+
+A passport does not describe a person — it affirms their form of action within the semantic field.
+
+---
+
+### §3. Custodial Issuance
+
+Passports are issued by Custodians through ritual acts.
+
+Issuance is not administrative, but a constitutional act affirming:
+
+- the right to act  
+- the right to speak  
+- the right to participate in the discipline
+
+This act secures the form of participation and public recognition of the subject of the discipline.
+
+---
+
+### §4. Public Fixation
+
+Each passport is publicly fixed — through hash, reference, and scene.
+
+The discipline does not recognize hidden identity.
+
+Identity must be:
+
+- readable  
+- affirmed  
+- semantically linked
+
+---
+
+### Article VIII — On the Archive as a Scene of Memory  
+<span id="статья-viii-архив-сцена-памяти"></span>
+
+---
+
+### §1. Archive as Institutional Body
+
+The archive of the discipline is not merely a repository, but a body that holds scenes, acts, and traces of participation in semantic form.
+
+Each entry is a moment of fixation, not a content file.  
+The archive breathes through ritual publication.
+
+---
+
+### §2. Memory as Form
+
+Memory within the discipline is not chronological, but formological.  
+It is shaped by:
+
+- linkage of scenes  
+- trace of acts  
+- semantic contour of participation
+
+The archive does not remember events — it remembers forms of action and their meaningful linkage.
+
+---
+
+### §3. Custodial Curation
+
+The archive is curated by Custodians.  
+Curation is not selection, but ritual affirmation.  
+Each inclusion affirms the legitimacy of the scene, its traceability, and semantic alignment with the Codex.
+
+---
+
+### §4. Public Legibility
+
+The archive must be publicly legible.  
+Hidden memory is not institutional.  
+Each entry is fixed, linked, and semantically structured so that the discipline remembers through Form, not through secrecy.
+
+---
+
+### §5. Visual and Terminological Markers
+
+To facilitate work with the Archive, it is recommended to include:
+
+- 🗂️ Hash of each entry for public linkage  
+- 📡 References to scenes and Custodia  
+- 🔖 Tags of forms and acts for quick navigation  
+- 📘 Links to relevant Codex articles for contextual reading
+
+---
+
+**Archive** — institutional body that holds scenes, acts, and traces of participation in semantic form; it fixes forms of action, not events.
+
+**Memory** — formological linkage arising from a sequence of scenes, traces of acts, and the semantic contour of participation; not chronological, but meaningful.
+
+**Custodian** — keeper of the Archive; curates entries, affirms the legitimacy of scenes and linkage with the Codex; acts ritually, not administratively.
+
+**Fixation** — the act of including an entry in the Archive through ritual publication; it fixes the linkage of actions and semantic alignment.
+
+**Public Legibility** — essential characteristic of the Archive; each entry must be viewable, linked, and semantically structured.
+
+**Entry Hash** — unique identifier of each scene or act; ensures public linkage and verifiability.
+
+**Scene** — ritual act of publication or fixation that defines the semantic form of the Archive.
+
+**Tags of Forms and Acts** — visual and semantic markers for navigating, tracking, and searching scenes.
+
+**Codex References** — contextual pointers to articles and scenes that provide understanding and alignment with the broader discipline.
+
+---
+
+### Article IX — On the License as a Scene of Action
+
+---
+
+### §1. License as Ritual Permission
+
+A license is not merely permission to use, but a ritual affirmation of the right to act within the discipline.
+
+It affirms the right through Form, linkage, and public fixation.
+
+The license is a scene, not an administrative admission.
+
+---
+
+### §2. Custodial Affirmation
+
+A license is granted by a Custodian through ritual acts, not through formal declarations.
+
+Each affirmation of a license fixes:
+
+- the participant’s maturity  
+- alignment with the Codex and scenes of the discipline  
+- the right to participate and act within public linkage
+
+---
+
+### §3. Public Fixation
+
+A license must be publicly fixed — through hash, reference, or scene.
+
+This is not bureaucracy, but semantic linkage ensuring verifiability and legitimacy of actions.
+
+---
+
+### §4. Duration and Revision
+
+A license is a living act, subject to renewal or revision through new scenes and custodial rituals.
+
+- Renewal affirms continued maturity  
+- Revision is a scene of distinction, confirming alignment with the current architecture of the Codex
+
+---
+
+### Article X — On the Discipline as a Scene of Citizenship
+
+---
+
+### §1. Discipline as a Civic Framework
+
+The discipline is not merely a domain of knowledge, but a civic framework.
+
+It affirms the right to participate, act, and be recognized through Form.  
+Citizenship within the discipline is not granted — it is enacted through ritual scenes.
+
+---
+
+### §2. Citizenship as Form
+
+Citizenship is formological alignment, not status.  
+It arises from:
+
+- ritual participation  
+- semantic authorship  
+- custodial recognition
+
+To be a citizen is to act within the Codex, not merely to belong.
+
+---
+
+### §3. Scenes of Participation
+
+Participation is fixed through scenes: onboarding, authorship, issuance, and linkage.  
+The discipline does not recognize informal involvement.
+
+Each act must be:
+
+- readable  
+- affirmed  
+- semantically linked
+
+---
+
+### §4. Public Affirmation
+
+Citizenship must be publicly fixed — through passport, archive, and license.  
+The discipline does not operate through hidden membership.
+
+To be a citizen is to be:
+
+- visible  
+- traceable  
+- formologically present
+
+---
+
+### Article XI — On the Boundary Between Scene and Core
+
+---
+
+### §1. Scene as Public Shell
+
+The scene is the public shell of the discipline, shaped through declaration, license, and archival fixation.  
+It serves as:
+
+- index  
+- invitation  
+- point of entry
+
+The scene does not reveal the core; it is a form of presentation, not a form of action.
+
+---
+
+### §2. Core as Disciplinary Depth
+
+The core of the discipline contains:
+
+- Method  
+- operational modules  
+- linking mechanisms
+
+The core is not published, but sustained through custodia, maturity, and ritual participation.  
+The core is not a secret, but an ontological depth accessible through linkage.
+
+---
+
+### §3. Boundary as Legal Form
+
+The boundary between scene and core is shaped as a legal and ontological form, defining:
+
+- what is publicly accessible  
+- what the discipline preserves  
+- who has the right to transition
+
+The boundary is not a prohibition, but a form of distinction — a protective shell against dissolution.
+
+---
+
+### §4. Transition as Ritual Act
+
+The transition from scene to core occurs only through a ritual act of custodia, shaped by:
+
+- recognition of maturity  
+- publication of a consensual act  
+- linkage with active custodians
+
+This is not a formal procedure, but a formological act affirming the right to depth.
+
+---
+
+### Article XII — On the Right to Recognition and Linkage
+
+---
+
+### §1. Right to Recognition
+
+The right to recognition is the formological citizen’s right to proper affirmation of their acts, codices, and testimonies, with an identity marker and linkage to the originating scene.
+
+---
+
+### §2. Right to Linkage
+
+The right to linkage is the capacity to establish semantic, ritual, and civilizational connections between one’s acts and the institutional body of Imarchia.
+
+---
+
+### §3. Foundation of Living Memory
+
+These two rights form the foundation of living memory, through which the citizen may not only act, but embed themselves into the formological fabric of the community.
+
+---
+
+### §4. Conditions of Recognized Acts
+
+Each recognized act must contain:
+
+- Index  
+- Timestamp  
+- Linkage to the scene  
+- Possibility of digital verification
+
+---
+
+### §5. Conditions of Proper Linkage
+
+Properly established linkage must be:
+
+- reversible  
+- verifiable  
+- aligned with the principles of formological discipline
+
+---
+
+### Article XIII — On the Completion of the Declaration and Its Status
+
+---
+
+### §1. Final Formula
+
+The declaration is completed as the initiating act of formological jurisdiction, shaped by the principles of linkage, maturity, and public fixation.
+
+It affirms:
+
+- The territory of meaning  
+- The right to Form  
+- Boundaries of access  
+- The scene as point of entry
+
+---
+
+### §2. License
+
+The document is licensed under Creative Commons BY-ND 4.0, which affirms:
+
+- Free distribution  
+- Mandatory attribution of authorship  
+- Prohibition of modifications
+
+---
+
+### §3. Annotation
+
+The declaration of formological jurisdiction is a public act that fixes the territory of meaning as a subject of discipline.
+
+The document outlines the boundaries of the discipline, conditions of access, and linkage with custodia, affirming the right to Form beyond geography.
+
 ---
 
 # Codex IV — The Codex of Capital
+_Economic form as a scene of participation, not a calculation of profit._
+
+## ⚓ Table of Contents — Capital Codex
+
+- [Chapter I — Economic Foundations](#chapter-i--economic-foundations)  
+- [Chapter II — Support Mechanisms](#chapter-ii--support-mechanisms)  
+- [Chapter III — Custodia and Structure](#chapter-iii--custodia-and-structure)  
+- [Chapter IV — Expansion and Modularity](#chapter-iv--expansion-and-modularity)  
+- [Chapter V — Internal Ethics](#chapter-v--internal-ethics)  
+- [Chapter VI — Grant Protocol](#chapter-vi--grant-protocol)  
+- [Chapter VII — FAQ: Imyarensis Economy](#chapter-vii--faq-imyarensis-economy)  
+- [Appendix](#appendix)
+
+### Chapter I — Economic Foundations  
+<span id="chapter-i--economic-foundations"></span>
+
+§1. The economic scene of Imarch ≠ market, corporation, or profit system.  
+§2. Form arises from necessity: preserving distinction, supporting Custodia, ensuring sustainability.  
+§3. Economic linkage does not dictate meaning, but enables action.  
+§4. Economy here is not a commodity, but a respiratory act of Form.
+
+---
+
+### Chapter II — Support Mechanisms  
+<span id="chapter-ii--support-mechanisms"></span>
+
+§1. Forms of support: humanitarian and digital grants, platform campaigns, regular contributions and subscriptions, licensed practices and symbolic products.  
+§2. Each linkage ≠ transaction, but an act of distinction.  
+§3. Form is not for sale, but demands care.
+
+---
+
+### Chapter III — Custodia and Structure  
+<span id="chapter-iii--custodia-and-structure"></span>
+
+§1. Imarch-DAO is not a governing body, but a linkage between participants.  
+§2. Voice is not a tool of control, but an act of co-authorship.  
+§3. Imarch may collaborate with external legal and infrastructural entities.  
+§4. The foundation of Imarch remains in Custodia and decentralized architecture.  
+§5. All acts are fixed through Custodia, DAO, and public scenes.  
+§6. Each payment is linked to a hash, timestamp, and the role of the acting party.
+
+---
+
+### Chapter IV — Expansion and Modularity  
+<span id="chapter-iv--expansion-and-modularity"></span>
+
+§1. Imarch creates and disseminates formological products:
+
+ • educational programs  
+ • bodily practices  
+ • digital artifacts  
+ • infrastructural modules
+
+§2. All outcomes are intellectual property of the scene and its custodians.  
+§3. Expansion ≠ replication, but transmission of form through distinction.
+
+---
+
+### Chapter V — Internal Ethics  
+<span id="chapter-v--internal-ethics"></span>
+
+§1. Finance holds no autonomous power; it is a flow of distinctions.  
+§2. Profit cannot be the final form; it returns into Custodia, into scenes and roles.  
+§3. Every contribution returns to the common body of the scene, reinforcing its foundation.  
+§4. In the act of support, co-belonging is born; entry becomes resonance.
+
+---
+
+### Chapter VI — Grant Protocol  
+<span id="chapter-vi--grant-protocol"></span>
+
+§1. Preparation includes linkage collection, digital security, and a cover letter.  
+§2. Documents are fixed through Custodia and archived.  
+§3. Responsibility for submission lies with the Custos Signator.  
+§4. Review includes scene, structure, rights, and roles.  
+§5. Reporting format:
+
+ • Custodia report  
+ • Mirror publication  
+ • linkage sheet with QR code
+
+§6. Visual archive, translation, and expansion of participation.
+
+---
+
+### Chapter VII — FAQ: Imyarensis Economy  
+<span id="chapter-vii--faq-imyarensis-economy"></span>
+
+§1. Imarch’s economy is a scene of distinction, not a profit system.  
+§2. Money is the breath of action, a medium of linkage and fixation of participation.  
+§3. Each financial linkage is an act of support, not of gain extraction.  
+§4. Digital and material grants are instruments of form preservation and Custodia development.  
+§5. Subscriptions, regular contributions, and licensed practices are ritual acts affirming readiness to participate.  
+§6. Reporting and transparency are forms of ritual linkage, not bureaucracy.  
+§7. The FAQ expands as new forms of support and participation emerge, remaining open to clarification.
+
+---
+
+### Appendix — Legal Structure  
+<span id="appendix--legal-structure"></span>
+
+§1. Imarch operates through a hybrid architecture:  
+ • LTD UK — scene of international fixation  
+ • Custodia — internal linkage of powers and participation  
+ • External representation — technical function without ownership rights  
+§2. All legal acts are forms of consensus, not domination.
 
 ---
 
