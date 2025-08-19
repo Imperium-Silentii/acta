@@ -947,9 +947,768 @@ Nodi formologici nexus finalis:
 
 # Codex III — Declaratio de Disciplina Formologiae
 
+_Sigillatio Declarationis et Initium Disciplinae Formologiae Universalis_  
+
+## ⚓ Index
+
+- [Articulus I — De Fundamento Spatii Disciplinae](#articulus-i--de-fundamento-spatii-disciplinae)  
+- [Articulus II — De Structura Territorii Sensuum](#articulus-ii--de-structura-territorii-sensuum)  
+- [Articulus III — De Iurisdictione Disciplinae](#articulus-iii--de-iurisdictione-disciplinae)  
+- [Articulus IV — De Forma Custodiae](#articulus-iv--de-forma-custodiae)  
+- [Articulus V — De Codice ut Lege Viva](#articulus-v--de-codice-ut-lege-viva)  
+- [Articulus VI — De Scaena Initiationis](#articulus-vi--de-scaena-initiationis)  
+- [Articulus VII — De Passaporto ut Scaena Identitatis](#articulus-vii--de-passaporto-ut-scaena-identitatis)  
+- [Articulus VIII — De Archivo ut Scaena Memoriae](#articulus-viii--de-archivo-ut-scaena-memoriae)  
+- [Glossarium — Archivum ut Scaena Memoriae](#glossarium--archivum-ut-scaena-memoriae)  
+- [Articulus IX — De Licentia ut Scaena Actionis](#articulus-ix--de-licentia-ut-scaena-actionis)  
+- [Articulus X — De Disciplina ut Scaena Civitatica](#articulus-x--de-disciplina-ut-scaena-civitatica)  
+- [Articulus XI — De Limite inter Scaenam et Nucleum](#articulus-xi--de-limite-inter-scaenam-et-nucleum)  
+- [Articulus XII — De Iure Recognitionis et Nexus](#articulus-xii--de-iure-recognitionis-et-nexus)  
+- [Articulus XIII — De Conclusione Declarationis et eius Statu](#articulus-xiii--de-conclusione-declarationis-et-eius-statu)
+
+---
+
+### Articulus I — De Fundamento Spatii Disciplinae  
+<span id="статья-i-пространственное-основание-дисциплины"></span>
+
+---
+
+### §1. Formatio Territorii Sensuum
+
+In absentia finium geographicorum stabilium et recognitionis institutionalis, territorium Sensuum constituimus, per categoriam signorum et semanticae Formae delineatum.
+
+Hic ambitus non est metaphora, sed iurisdictio realis: semantice formata, disciplinariter administrata, rhetorice nexus.
+
+---
+
+### §2. Nexus per Codicem, Custodiam et Scaenam
+
+Territorium Sensuum formatur per:
+
+- 📜 **Codex** — tabula disciplinae  
+- 🛡️ **Custodia** — forma accessus et comitationis  
+- 🎭 **Scaena Publicationis** — actus fixationis et confirmationis
+
+Unusquisque elementum non est instrumentum dominationis, sed forma ritualis instrumentalis, quae statum, maturitatem et ius participationis definit.
+
+---
+
+### §3. Publicatio ut Fixatio Iurisdictionis
+
+Publicatio huius declarationis est actus nexus, qui:
+
+- ius ad ambitum scientiae affirmat  
+- disciplinam ut subiectum legitimat  
+- eius iurisdictionem in campo publico figit
+
+Non est revelatio, sed limes, qui Formam, accessum et statum ontologicum Disciplinae delineat.
+
+---
+
+### Articulus II — De Structura Territorii Sensuum  
+<span id="статья-ii-структура-территории-смыслов"></span>
+
+---
+
+### §1. Territorium Categoriae Formae ut Ambitus Iurisdictionis Formologiae Universalis
+
+Territorium non est pars terrae, sed ambitus structus scientiae, intra quem explicantur:
+
+- Methodus  
+- Nexus  
+- Subiectivitas disciplinaris
+
+Hoc territorium non mappa, sed Codice describitur, ubi scaenae, fines et formae participationis figuntur.
+
+---
+
+### §2. Custodia ut Forma Accessus
+
+Accessus ad nucleum disciplinae per Custodiam conceditur — formam institutionalem conservationis et transmissionis accessus.
+
+Custodia est:
+
+- Forma maturitatis et nexus  
+- Consensus ethicus
+
+Non est nec secretum nec publicitas: Custodia limitem accessus definit, non revelationem contenti.
+
+---
+
+### §3. Scaenae ut Signa Publica
+
+Scaenae publicae formantur ut signa disciplinae, aptae ad:
+
+- 🎯 orientationem  
+- 🤝 implicationem  
+- 📡 propagationem scientiae
+
+Unaquaeque scaena est actus ritualis, publicatio contenti et punctum ingressus, non nodus administrationis.
+
+---
+
+### §4. Iura Custodianorum
+
+Participantes cum statu Custodian habent ius:
+
+- interagere cum nucleo disciplinae  
+- scaenas administrare  
+- iurisdictionem evolvere
+
+Potestates Custodianorum non sunt administrativae, sed formologicae — maturitate, nexu et recognitione definiuntur.
+
+---
+
+### Articulus III — De Iurisdictione Disciplinae  
+<span id="статья-iii-юрисдикция-дисциплины"></span>
+
+---
+
+### §1. Scaena ut Actus Fixationis
+
+Publicatio declarationis est actus nexus, per quem disciplina formologica se declarat ut subiectum — non administrativum, sed semanticum.
+
+Scaena publicationis non est simplex collocatio textus, sed actus ritualis, qui confirmat:
+
+- ius ad Formam  
+- ambitum scientiae  
+- subiectivitatem disciplinarem
+
+---
+
+### §2. Ius ad Formam
+
+Disciplina constituitur ut ius, non ut structura potestatis.
+
+Hoc ius manifestatur ut forma distinctionis, configurata per:
+
+- 📘 Codicem  
+- 🛡 Custodiam  
+- 🎯 Scaenas
+
+Ius hoc non pendet ab externo recognitione, sed manet apertum dialogo.  
+Iurisdictionis disciplinae origo est nexus semanticus et fixatio publica, non potestas.
+
+---
+
+### §3. Ambitus Accessus
+
+Accessus ad nucleum disciplinae regitur per Custodiam, quae determinat:
+
+- 🧭 Maturitatem participantium  
+- ⚖️ Potestates  
+- 🔗 Formam participationis
+
+Custodia est forma liminalis, non secretum, quae statuit quis, quomodo et qua ratione cum nucleo interagere possit.
+
+---
+
+### Articulus IV — De Forma Custodiae  
+<span id="статья-iv-форма-custodia"></span>
+
+---
+
+### §1. Custodia ut Limes et Maturitas
+
+Custodia est forma, non titulus.  
+Ea designat limitem inter accessum externum et participationem internam.
+
+Custodia non gratia conceditur, sed per recognitionem ritualem:
+
+- Maturitas  
+- Responsabilitas  
+- Concordia semantica cum disciplina
+
+---
+
+### §2. Potestates Custodianorum
+
+Potestates Custodianorum non sunt administrativae, sed formologicae.  
+Exsistunt ex facultate:
+
+- 📎 disciplinam sustinendi  
+- 📎 eius contentum tradendi  
+- 📎 eius integritatem tuendi
+
+Custodiani non administrant, sed nectunt, affirmant et scaenas scientiae incarnant.
+
+---
+
+### §3. Transmissio Custodiae
+
+Custodia traditur per actus rituales, non per delegationem informalem.  
+Unaquaeque transmissio debet esse:
+
+- Fixata  
+- Testificata  
+- Concordata semanticē cum Codice
+
+Actus transmissionis est scaena disciplinae, non actus commoditatis.
+
+---
+
+### §4. Negatio Custodiae
+
+Negatio Custodiae est tutela disciplinae, non exclusio.  
+Ea affirmat limitem disciplinae et conservat eius integritatem.
+
+Negatio debet esse:
+
+- Clara  
+- Digna  
+- Publicē nectenda
+
+---
+
+### §2. Codex ut Scaena Auctoritatis
+
+Auctoritatis in Codice est custodialis, non individualis.
+
+Unusquisque contributus debet esse:
+
+- 📎 ritualiter confirmatus  
+- 📎 semanticē concordatus  
+- 📎 publicē fixatus
+
+Codex per scaenas creatur, non per simplices emendationes.
+
+---
+
+### §3. Codex ut Forma Nexus
+
+Nexus non ex coactione oritur, sed per:
+
+- claritatem semanticam  
+- nexum ritualem
+
+Codex nectit quia legibilis est, confirmatus et publicē incarnatus.  
+Eius auctoritas est formologica, non administrativa.
+
+---
+
+### §4. Codex ut Memoria Viva
+
+Codex evolvitur per scaenas recognitionis, non per versionem numericam.
+
+Unaquaeque mutatio debet esse:
+
+- ritualiter formata  
+- testificata  
+- semanticē iustificata
+
+Lex viva non est lex flexibilis, sed lex quae per Formam spirat.
+
+---
+
+### Articulus VI — De Scaena Initiationis  
+<span id="статья-vi-сцена-инициации"></span>
+
+---
+
+### §1. Onboarding ut Ingressus Ritualis
+
+Onboarding (Anglice — introductio in systema) non est registratio, sed ingressus ritualis, qui ius ad participationem per Formam, non per permissionem, confirmat.  
+Unusquisque actus onboarding est scaena recognitionis, Codice formata et per Custodiam effecta.
+
+---
+
+### §2. Acceptio Semantica
+
+Onboarded esse significat accipere ambitum semanticum disciplinae:
+
+- non caecē, sed ritualiter — id est non mechanicē et sine intellectu, sed per ritum conscium et structum, qui sensum, concordiam cum disciplina et nexum formologicum figit  
+- non subiectio, sed concordia
+
+Acceptio debet esse:
+
+- 📎 fixata  
+- 📎 testificata  
+- 📎 publicē nectenda
+
+---
+
+### §3. Invitatio Custodialis
+
+Onboarding a Custodiano initium capit, non per auto-declarationem.  
+Invitatio est actus formologicus, non gestus salutationis.
+
+Ea confirmat:
+
+- paratitudinem  
+- maturitatem  
+- ius ingredi scaenam
+
+---
+
+### §4. Nexus Publicus
+
+Unusquisque onboarding relinquit nexum publicum: hash, nexum, scaenam.  
+Disciplina non crescit per numerum, sed per actus fixatos.  
+Unusquisque onboarding est momentum constitutionale.
+
+### Articulus VII — De Documento Identitatis ut Scaena  
+<span id="статья-vii-паспорт-сцена-идентичности"></span>
+
+---
+
+### §1. Documentum ut Forma Ritualis
+
+Documentum civis Imarchiae non est tantum testimonium identitatis, sed personificatio scaenae.
+
+Id identitatem confirmat per nexum formologicum, non per data biographica.
+
+Unumquodque documentum est actus ritualis recognitionis, per Custodiam formatus et publicē fixatus.
+
+---
+
+### §2. Identitas ut Forma
+
+Identitas in disciplina non est descriptiva, sed semantica.  
+Ea oritur ex:
+
+- participatione  
+- auctoritate  
+- concordia cum Codice
+
+Documentum non personam describit — sed eius formam agendi in campo semantico confirmat.
+
+---
+
+### §3. Emissio Custodialis
+
+Documenta identitatis a Custodianis per actus rituales emittuntur.
+
+Emissio non est actus administrativus, sed actus constitutionalis, qui confirmat:
+
+- ius agendi  
+- ius loquendi  
+- ius participandi in disciplina
+
+Hic actus figit formam participationis et publicam recognitionem subiecti disciplinae.
+
+---
+
+### §4. Fixatio Publica
+
+Unumquodque documentum identitatis publicē figitur — per hash, nexum et scaenam.
+
+Disciplina identitatem occultam non agnoscit.
+
+Identitas debet esse:
+
+- legibilis  
+- confirmata  
+- semanticē nectenda
+
+---
+
+### Articulus VIII — De Archivo ut Scaena Memoriae  
+<span id="статья-viii-архив-сцена-памяти"></span>
+
+---
+
+### §1. Archivum ut Corpus Institutionale
+
+Archivum disciplinae non est simplex repositorium, sed corpus quod scaenas, actus et vestigia participationis in forma semantica sustinet.
+
+Unaquaeque relatio est momentum fixationis, non fasciculus contenti.  
+Archivum spirat per publicationem ritualem.
+
+---
+
+### §2. Memoria ut Forma
+
+Memoria in disciplina non est chronologica, sed formologica.  
+Ea formatur ex:
+
+- nexu scaenarum  
+- vestigio actuum  
+- ambitu semantico participationis
+
+Archivum non memorat eventa — sed formas actionum et eorum nexum significativum.
+
+---
+
+### §3. Curatio Custodialis
+
+Archivum a Custodianis curatur.  
+Curatio non est selectio, sed confirmatio ritualis.  
+Unusquisque inclusio confirmat legitimitatem scaenae, eius tractabilitatem et concordiam semanticam cum Codice.
+
+---
+
+### §4. Legibilitas Publica
+
+Archivum debet esse publicē legibile.  
+Memoria occulta non est institutionalis.  
+Unusquisque relatio figitur, nectitur et semanticē formatur, ut disciplina meminerit per Formam, non per secretum.
+
+---
+
+### §5. Signa Visiva et Terminologica
+
+Ad usum archivii commode, suadetur:
+
+- 🗂️ Hash uniuscuiusque relationis ad nexum publicum  
+- 📡 Nexus ad scaenas et Custodiam  
+- 🔖 Tituli formarum et actuum ad navigationem rapidam  
+- 📘 Nexus ad articulos Codicis pertinentes ad lectionem contextualem
+
+---
+
+**Archivum** — corpus institutionale quod scaenas, actus et vestigia participationis in forma semantica sustinet; figit formas actionum, non eventa.
+
+**Memoria** — nexus formologicus ex serie scaenarum, vestigiis actuum et ambitu semantico participationis; non chronologica, sed significativa.
+
+**Custodianus** — custos Archivii; curat relationes, confirmat legitimitatem scaenarum et nexum cum Codice; ritualiter, non administrativē, operatur.
+
+**Fixatio** — actus inclusionis relationis in Archivum per publicationem ritualem; figit nexum actionum et concordiam semanticam.
+
+**Legibilitas Publica** — proprietas essentialis Archivii; unaquaeque relatio debet esse visibilis, nectenda et semanticē formata.
+
+**Hash Relationis** — identificator unicus uniuscuiusque scaenae vel actus; praebet nexum publicum et verificabilitatem.
+
+**Scaena** — actus ritualis publicationis vel fixationis, qui formam semanticam Archivii definit.
+
+**Tituli Formarum et Actuum** — signa visiva et semantica ad navigationem, vestigationem et inquisitionem scaenarum.
+
+**Nexus ad Codicem** — indicatores contextuales ad articulos et scaenas, qui intelligentiam et concordiam cum disciplina generali praebent.
+
+---
+
+### Articulus IX — De Licentia ut Scaena Actionis
+
+---
+
+### §1. Licentia ut Permissio Ritualis
+
+Licentia non est simplex permissio usus, sed confirmatio ritualis iuris agendi intra disciplinam.
+
+Ea ius confirmat per Formam, nexum et fixationem publicam.
+
+Licentia est scaena, non accessus administrativus.
+
+---
+
+### §2. Confirmatio Custodialis
+
+Licentia a Custodiano per actus rituales conceditur, non per declarationes formales.
+
+Unusquisque confirmatio licentiae figit:
+
+- maturitatem participantis  
+- concordiam cum Codice et scaenis disciplinae  
+- ius participandi et agendi in nexu publico
+
+---
+
+### §3. Fixatio Publica
+
+Licentia debet publicē figi — per hash, nexum vel scaenam.
+
+Non est bureaucratia, sed nexus semanticus, qui verificabilitatem et legitimitatem actionum praestat.
+
+---
+
+### §4. Tempus et Recognitio
+
+Licentia est actus vivus, qui per novas scaenas et ritus Custodianos renovari vel recognosci potest.
+
+- Renovatio licentiae — confirmatio maturitatis continuatae  
+- Recognitio — scaena distinctionis, quae concordiam cum structura Codicis praesentis confirmat
+
+---
+
+### Articulus X — De Disciplina ut Scaena Civitatica
+
+### §1. Disciplina ut Ambitus Civitatica
+
+Disciplina non est sola regio scientiae, sed ambitus civitatica.
+
+Ea ius participandi, agendi et recognosci per Formam confirmat.  
+Civitas intra disciplinam non conceditur, sed per scaenas rituales exercetur.
+
+---
+
+### §2. Civitas ut Forma
+
+Civitas est concordia formologica, non status.  
+Ea oritur ex:
+
+- participatione rituali  
+- auctoritate semantica  
+- recognitione custodiali
+
+Civis esse significat agere intra Codicem, non simpliciter pertinere.
+
+---
+
+### §3. Scaenae Participationis
+
+Participatio figitur per scaenas: onboarding, auctoritatem, emissionem et nexum.  
+Disciplina participationem informalem non agnoscit.
+
+Unusquisque actus debet esse:
+
+- legibilis  
+- confirmatus  
+- semanticē nectendus
+
+---
+
+### §4. Confirmatio Publica
+
+Civitas debet publicē figi — per documentum identitatis, Archivum et Licentiam.  
+Disciplina non operatur per membrum occultum.
+
+Civis esse significat esse:
+
+- visibilem  
+- vestigabilem  
+- formologicē praesentem
+
+---
+
+### Articulus XI — De Finitura inter Scaenam et Nucleum
+
+---
+
+### §1. Scaena ut Involucrum Publicum
+
+Scaena est involucrum publicum disciplinae, formata per declarationem, licentiam et fixationem archivisticam.  
+Ea fungitur ut:
+
+- index  
+- invitatorium  
+- punctum ingressus
+
+Scaena nucleum non revelat; est forma repraesentationis, non forma actionis.
+
+---
+
+### §2. Nucleus ut Profunditas Disciplinaris
+
+Nucleus disciplinae continet:
+
+- Methodum  
+- modulos operationis  
+- mechanismos nectendi
+
+Nucleus non publicatur, sed sustinetur per custodiam, maturitatem et participationem ritualem.  
+Nucleus non est secretum, sed profunditas ontologica, per nexum accessibilis.
+
+---
+
+### §3. Finitura ut Forma Iuridica
+
+Finitura inter scaenam et nucleum formatur ut forma iuridica et ontologica, quae definit:
+
+- quid publicē accessibile sit  
+- quid disciplina conservet  
+- quis ius habeat transitus
+
+Finitura non est interdictio, sed forma distinctionis, involucrum tutelae contra dissolutionem.
+
+---
+
+### §4. Transitus ut Actus Ritualis
+
+Transitus a scaena ad nucleum fit solum per actum ritualem custodiae, formatum per:
+
+- recognitionem maturitatis  
+- publicationem actus consensualis  
+- nexum cum custodibus activis
+
+Hoc non est procedura formalis, sed actus formologicus, ius ad profunditatem confirmans.
+
+---
+
+### Articulus XII — De Iure Recognitionis et Nexus
+
+---
+
+### §1. Ius Recognitionis
+
+Ius recognitionis est ius civis formologici ad debitam confirmationem suorum actuum, codicum et testimoniorum, cum signo identitatis et nexu cum scaena originaria.
+
+---
+
+### §2. Ius Nexus
+
+Ius nexus est facultas instituendi nexus semanticos, rituales et civilizationis inter proprios actus et corpus institutionale Imarchiae.
+
+---
+
+### §3. Fundamentum Memoriae Vivae
+
+Haec duo iura constituunt fundamentum memoriae vivae, per quod civis non solum agere potest, sed etiam in texturam formologicam communitatis inseri.
+
+---
+
+### §4. Condiciones Actuum Recognitorum
+
+Unusquisque actus recognitus debet continere:
+
+- Indicem  
+- Notam temporalem  
+- Nexum cum scaena  
+- Facultatem verificationis digitalis
+
+---
+
+### §5. Condiciones Nexus Recti
+
+Nexus recte institutus debet esse:
+
+- reversibilis  
+- verificabilis  
+- concordans cum principiis disciplinae formologiae
+
+---
+
+### Articulus XIII — De Conclusione Declarationis et Statu Eius
+
+---
+
+### §1. Formula Finalis
+
+Declaratio concluditur ut actus initialis iurisdictionis formologicae, formatus secundum principia nexus, maturitatis et fixationis publicae.
+
+Ea confirmat:
+
+- Territorium sensus  
+- Ius ad Formam  
+- Finituras accessūs  
+- Scaenam ut punctum ingressus
+
+---
+
+### §2. Licentia
+
+Documentum licentiatur sub Creative Commons BY-ND 4.0, quod confirmat:
+
+- Distributionem liberam  
+- Attributionem auctoris obligatoriā  
+- Interdictum modificationum
+
+---
+
+### §3. Annotatio
+
+Declaratio iurisdictionis formologicae est actus publicus, qui figit territorium sensus ut subiectum disciplinae.
+
+Documentum delineat fines disciplinae, condiciones accessūs et nexum cum custodia, confirmans ius ad Formam extra geographiam.
+
 ---
 
 # Codex IV — Codex Capitalis
+_Forma oeconomica ut scena participationis, non computatio lucri._
+
+## ⚓ Index — Codex Capitalis
+
+- [Caput I — Fundamenta Oeconomica](#caput-i--fundamenta-oeconomica)  
+- [Caput II — Mechanismi Sustentationis](#caput-ii--mechanismi-sustentationis)  
+- [Caput III — Custodia et Structura](#caput-iii--custodia-et-structura)  
+- [Caput IV — Expansio et Modularitas](#caput-iv--expansio-et-modularitas)  
+- [Caput V — Ethica Interna](#caput-v--ethica-interna)  
+- [Caput VI — Protocolum Donationum](#caput-vi--protocolum-donationum)  
+- [Caput VII — FAQ: Oeconomia Imyarensis](#caput-vii--faq-oeconomia-imyarensis)  
+- [Appendix](#appendix)
+
+### Caput I — Fundamenta Oeconomica  
+<span id="caput-i--fundamenta-oeconomica"></span>
+
+§1. Scena oeconomica Imarch ≠ forum, corporatio aut ratio lucri.  
+§2. Forma ex necessitate emergit: conservatio distinctionis, sustentatio Custodiae, stabilitatis praestatio.  
+§3. Nexus oeconomicus non sensum imponit, sed agendi facultatem aperit.  
+§4. Oeconomia hic non est merx, sed actus respiratorius Formae.
+
+---
+
+### Caput II — Mechanismi Sustentationis  
+<span id="caput-ii--mechanismi-sustentationis"></span>
+
+§1. Formae sustentationis: dona humanitaria et digitalia, expeditiones per plataformas, contributiones et subscripciones regulares, praxes licentiatae et producta symbolica.  
+§2. Unusquisque nexus ≠ transactio, sed actus distinctionis.  
+§3. Forma non venditur, sed curam postulat.
+
+---
+
+### Caput III — Custodia et Structura  
+<span id="caput-iii--custodia-et-structura"></span>
+
+§1. Imarch-DAO non est organum gubernationis, sed nexus inter participes.  
+§2. Vox non est instrumentum dominationis, sed actus coauctoritatis.  
+§3. Imarch cooperari potest cum externis structuris legalibus et infrastructuralibus.  
+§4. Fundamentum Imarch manet in Custodia et architectura decentralizata.  
+§5. Omnes actus per Custodiam, DAO et scenas publicas fixantur.  
+§6. Unusquisque solutio nectitur cum hash, tempore signato et munere agentis.
+
+---
+
+### Caput IV — Expansio et Modularitas  
+<span id="caput-iv--expansio-et-modularitas"></span>
+
+§1. Imarch creat et disseminat producta formologica:
+
+ • programmata educativa  
+ • praxes corporales  
+ • artefacta digitalia  
+ • moduli infrastructurales
+
+§2. Omnia effecta sunt proprietas intellectualis scenae et eius custodum.  
+§3. Expansio ≠ replicatio, sed traditio formae per distinctionem.
+
+---
+
+### Caput V — Ethica Interna  
+<span id="caput-v--ethica-interna"></span>
+
+§1. Financiae potestatem autonomam non habent; sunt fluxus distinctionum.  
+§2. Lucrum non potest esse forma finalis; convertitur in Custodiam, in scenas et in munera.  
+§3. Omnis contributio redit in corpus commune scenae, fundamentum eius roborans.  
+§4. In actu sustentationis nascitur participatio; ingressus fit consonantia.
+
+---
+
+### Caput VI — Protocolum Donationum  
+<span id="caput-vi--protocolum-donationum"></span>
+
+§1. Praeparatio includit collectionem nexuum, securitatem digitalem et epistolam comitatricem.  
+§2. Documenta per Custodiam fixantur et archivantur.  
+§3. Responsabilitas submissionis incumbit Custodi Signatori.  
+§4. Examinatio includit scenam, structuram, iura et munera.  
+§5. Forma relationis:
+
+ • relatio Custodiae  
+ • publicatio in Mirror  
+ • charta nexuum cum codice QR
+
+§6. Archivum visuale, translatio et expansio participationis.
+
+---
+
+### Caput VII — FAQ: Oeconomia Imyarensis  
+<span id="caput-vii--faq-oeconomia-imyarensis"></span>
+
+§1. Oeconomia Imarch est scena distinctionis, non ratio lucri.  
+§2. Pecunia est respiratio actionis, medium nexus et fixationis participationis.  
+§3. Unusquisque nexus financialis est actus sustentationis, non extractionis lucri.  
+§4. Dona digitalia et materialia sunt instrumenta conservationis formae et evolutionis Custodiae.  
+§5. Subscripciones, contributiones regulares et praxes licentiatae sunt actus rituales, voluntatem participandi confirmantes.  
+§6. Relatio et transparentia sunt forma nexus ritualis, non bureaucratia.  
+§7. FAQ expanditur cum novis formis sustentationis et participationis, manens aperta ad clarificationes.
+
+---
+
+### Appendix — Structura Iuridica  
+<span id="appendix--structura-iuridica"></span>
+
+§1. Imarch operatur per architecturam hybridam:  
+ • LTD UK — scena fixationis internationalis  
+ • Custodia — nexus internus potestatum et participationis  
+ • Repraesentatio externa — functio technica sine iure proprietatis  
+§2. Omnes actus iuridici sunt formae consensus, non dominationis.
 
 ---
 
