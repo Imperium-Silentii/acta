@@ -1720,6 +1720,177 @@ _Economic form as a scene of participation, not a calculation of profit._
 
 # Codex V — The Civil Codex of Imarchia
 
+_Formalizes citizenship as an active form of action and links the individual form with institutional memory._
+
+Its purpose is to affirm citizenship as an active form of action, not a static status, and to ensure linkage between individual form and institutional memory.
+
+## 📑 Contents of Book I
+
+- [I. Preamble](#i-preamble)  
+- [II. Definitions](#ii-definitions)  
+- [III. Rights of Citizens](#iii-rights-of-citizens)  
+- [IV. Duties of Citizens](#iv-duties-of-citizens)  
+- [V. Mechanisms of Oversight and Verification of Civic Actions](#v-mechanisms-of-oversight-and-verification-of-civic-actions)  
+- [VI. Rights and Duties During the Verification Process](#vi-rights-and-duties-during-the-verification-process)  
+- [VII. Accountability and Consequences of Non-Compliance](#vii-accountability-and-consequences-of-non-compliance)
+
+---
+
+## I. Preamble  
+*Codex Civilis* defines the forms of participation, linkage, and responsibility for every subject acting within the institutional field of Imarchia.  
+Its purpose is to affirm citizenship as an active form of action, not a static status, and to ensure linkage between individual form and institutional memory.
+
+---
+
+## II. Definitions  
+- **Citizen** — a subject who has undergone the Ritual of Recognition and holds a scenic status within Imarchia.  
+- **Scene** — a formal institutional space in which the citizen acts, participates, or is acknowledged.  
+- **Ritual of Recognition** — a formalized entry procedure involving signing, linkage, and archiving.  
+- **Form** — a unique expression of civic identity, fixed in the passport and active within the scene.  
+- **Digital Trace** — a set of technical markers confirming participation: hash, QR code, permanent link, signature.
+
+---
+
+## III. Rights of Citizens  
+- **Participation in public scenes** — the ability to actively engage in discussions, voting, and joint actions within the discipline.  
+- **Access to resources** — archives, codices, educational modules, and partner programs for study and practical use.  
+- **Initiative** — the right to propose new scenes, forms, projects, and codices, contributing to the development of the institutional environment.  
+- **Digital linkage** — the right to a permanent digital trace, signature, and fixation of one’s actions, ensuring transparency and verifiability of participation.  
+- **Temporary exit and restoration** — the ability to temporarily suspend participation, archive one’s forms, and later return, preserving previous rights and digital trace.
+  
+---
+
+## IV. Duties of Citizens  
+- **Observance of scenic rules** — each citizen maintains order in public and closed scenes, respecting the boundaries of the *Codex* and the procedures of *Custodia*.  
+- **Active participation** — citizens engage in discussions, voting, and joint projects, contributing to the development of the discipline.  
+- **Support of Custodia** — preservation of the integrity and accessibility of archives, codices, and educational materials through personal actions and linkage.  
+- **Ritual recognition of new participants** — the citizen takes part in *onboarding* and linkage of new members, sustaining cultural and formological continuity.  
+- **Ethical responsibility** — the actions of citizens reflect the principles of the discipline, uphold public linkage, and respect the rights of other participants.
+
+---
+
+## V. Mechanisms of Oversight and Verification of Civic Actions  
+- **Public linkage of actions** — each act of the citizen is fixed through scenes, archives, and digital trace, enabling tracking of participation and confirmation of legitimacy.  
+- **Custodial supervision** — *custodians* ensure the conformity of actions with the *Codex*, uphold integrity, and authorize transitions to new scenes.  
+- **Ritual revisions** — periodic checks include confirmation of maturity, form compliance, and alignment with previous scenes.  
+- **Feedback** — the citizen receives notifications about the results of verification, including recommendations for aligning actions with the principles of the discipline.  
+- **Archiving and restoration** — each verification is fixed in the archive, enabling restoration of the participation path and legitimacy of the digital trace.
+
+---
+
+## VI. Rights and Duties During the Verification Process  
+- **Right to participate in verification** — each citizen is notified of inspections of their actions and may provide clarifications.  
+- **Duty of transparency** — the citizen must fix their actions through scenes, digital trace, and archive to enable verification.  
+- **Right to correction** — if inconsistency is identified, the citizen may ritually correct their actions and restore alignment with the *Codex*.  
+- **Duty of alignment** — actions must conform to the established form, scenes, and instructions of the *custodians*.  
+- **Right to documentation** — the citizen may create linkages and confirmations of their actions for public and archival use.
+
+---
+
+## VII. Accountability and Consequences of Non-Compliance  
+- **Citizen’s accountability** — each citizen is responsible for adhering to the form, linkage, and rules of the *Codex Civilis*.  
+- **Consequences of violation** — breach of formological discipline may lead to temporary suspension of rights, ritual review, or scene correction.  
+- **Ritual correction** — each act of violation may be remedied through public linkage, re-performance of the recognition ritual, or adjustment of the digital trace.  
+- **Transparency and oversight** — all actions related to violations are fixed through *Custodia* and the archive, ensuring verifiability and legitimacy.  
+- **Restoration of powers** — after correction and alignment, the citizen fully regains rights and status of participation in scenes.
+
 ---
 
 # Codex VI — The Codex of Integral Participation
+
+_Actus principalis de participatione, formis civitatis, ritibus transitionis et nexu archivistico._
+
+### 📚 Index  
+<span id="index-articulorum-liber-ii"></span>
+
+- [Articulus I — Formae Participationis](#articulus-i-formae-participationis)  
+- [Articulus II — Ritus et Transitus](#articulus-ii-ritus-et-transitus)  
+- [Articulus III — Custodia et Tractus](#articulus-iii-custodia-et-tractus)  
+- [Articulus IV — Iura Civium](#articulus-iv-iura-civium)  
+- [Articulus V — Annexa](#articulus-v-annexa)
+
+## Article I — Forms of Participation  
+<span id="article-i-forms-of-participation"></span>
+
+### §1. The Scene of Citizenship and Its Meaning  
+The citizen enters not as a user, but as an ethical actor. Participation is an act of recognition, not mere access.
+
+### §2. Conditions of Entry and Recognition  
+Entry occurs through ritual forms: petitions, confirmations, scenes of recognition. The citizen must publicly acknowledge and accept the codices.
+
+### §3. Ethical Principles of Participation  
+Observance of the scene, clarity of actions, preservation of ritual, refusal of profit. Participation cannot be anonymous if it affects other scenes.
+
+### §4. Statuses, Roles, and Transitions  
+A citizen may hold statuses: observer, citizen, custodian, curator. Transitions between statuses are formalized through public scenes.
+
+---
+
+## Article II — Rites and Transitions  
+<span id="article-ii-rites-and-transitions"></span>
+
+### §1. Act of Recognition (*Ritual Recognitionis*)  
+A formal ritual through which the citizen receives status. It may be digital — with signature, hash, and public fixation.
+
+### §2. Scene of Status Transition  
+Transition of status (e.g., citizen → curator) requires a scene: proof of competence, consensus of custodians, and archival fixation.
+
+### §3. Ritual Forms of Exit  
+Exit is an act: voluntary, enforced, or transitional. It is always fixed and accompanied by archival signature.
+
+### §4. Transitional Statuses and Formation  
+Intermediate statuses: candidate, temporary custodian, guest. Formed with limitations and conditions defined in the appendices.
+
+---
+
+## Article III — Custodia et Tractus  
+<span id="article-iii-custodia-et-tractus"></span>
+
+### §1. Archival Protocols (*Protocola Archivistica*)  
+Every act of participation, transition, or exit is fixed in the archive. It may be public or private, but remains verifiable.
+
+### §2. Permanent Links and QR Codes (*Nexus Permanentes et Codices QR*)  
+Documents, scenes, or actions receive permanent links and QR codes. Linkage and verification occur through them.
+
+### §3. Hash and Authenticity Confirmation (*Digestum et Confirmatio Authenticitatis*)  
+Documents are signed with a hash and published in an open registry. Substitution is excluded, integrity preserved.
+
+### §4. Archival Signature and Scene of Linkage (*Subscriptio Archivistica et Scaena Tractus*)  
+The act concludes with an archival signature: date, hash, link. This is the scene of linkage — a ritual executed and fixed.
+
+---
+
+## Article IV — Rights of Citizens  
+<span id="article-iv-rights-of-citizens"></span>
+
+### §1. Participation  
+Participation in public scenes, discussions, and voting.
+
+### §2. Access  
+Access to archives, codices, educational modules, and partner programs.
+
+### §3. Initiative  
+Ability to initiate new scenes, forms, proposals, and codices.
+
+### §4. Digital Linkage  
+Right to permanent linkage, digital signature, and public trace.
+
+### §5. Temporary Exit  
+Right to temporarily exit, archive, and restore one’s form.
+
+---
+
+## Article V — Appendices  
+<span id="article-v-appendices"></span>
+
+- **Appendix A** — *Forms of entry, petitions, scenes of recognition*  
+  Forms of entry, petitions, scenes of recognition
+
+- **Appendix B** — *Examples of ritual acts and transitions*  
+  Examples of ritual acts and transitions
+
+- **Appendix C** — *Technical archival protocols, QR codes, and hashes*  
+  Technical archival protocols, QR codes, and hashes
+
+- **Appendix D** — *Scenes of exit and transitional statuses*  
+  Scenes of exit and transitional statuses
