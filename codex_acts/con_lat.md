@@ -1714,7 +1714,178 @@ _Forma oeconomica ut scena participationis, non computatio lucri._
 
 # Codex V — Codex Civilis Imarchiae
 
+_Formalizat civitatem ut formam activam actionis et nectit formam individualem cum memoria institutionali._
+
+Finis eius est civitatem confirmare ut formam activam actionis, non statum staticum, et nexum praestare inter formam individualem et memoriam institutionis.
+
+## ⚓ Index Libri I
+
+- [I. Praefatio](#i-praefatio)  
+- [II. Definitiones](#ii-definitiones)  
+- [III. Iura Civium](#iii-iura-civium)  
+- [IV. Officia Civium](#iv-officia-civium)  
+- [V. Mechanismi Inspectionis et Verificationis Actionum Civilium](#v-mechanismi-inspectionis-et-verificationis-actionum-civilium)  
+- [VI. Iura et Officia in Processu Verificationis](#vi-iura-et-officia-in-processu-verificationis)  
+- [VII. Responsabilitas et Consequentiae Inobservantiae](#vii-responsabilitas-et-consequentiae-inobservantiae)
+
+---
+
+## I. Praefatio  
+*Codex Civilis* formas participationis, nexus et responsabilitatis definit pro quolibet subiecto in campo institutionali Imarchiae agente.  
+Finis eius est civitatem confirmare ut formam activam actionis, non statum staticum, et nexum praestare inter formam individualem et memoriam institutionis.
+
+---
+
+## II. Definitiones  
+- **Civis** — subiectum ritum recognitionis pertransiens et statum scaenicum in Imarchia obtinens.  
+- **Scaena** — spatium institutionale formale, in quo civis agit, participat vel agnoscitur.  
+- **Ritus Recognitionis** — processus formalis ingressus, qui subsignationem, nexum et archivum includit.  
+- **Forma** — expressio singularis identitatis civilis, in diplomate fixa et in scaena activa.  
+- **Vestigium Digitale** — series notarum technicarum participationem confirmantium: hash, codex QR, nexus permanens, subsignatio.
+
+---
+
+## III. Iura Civium  
+- **Participatio in scaenis publicis** — facultas active implicandi in disputationibus, suffragiis et actionibus communibus intra disciplinam.  
+- **Accessus ad res** — ad archivum, codices, modulos educationis et programmata consociata ad discendum et ad usum practicam.  
+- **Initiativa** — ius proponendi novas scaenas, formas, consilia et codices, ad evolutionem campi institutionalis contribuendo.  
+- **Nexus Digitalis** — ius vestigii digitalis permanens, subsignationis et fixationis actionum suarum, quae transparentiam et verificabilitatem participationis praestat.  
+- **Exitus Temporalis et Recuperatio** — facultas participationem suspendendi, formas suas archiviendi et postea redeundi, iura et vestigium digitale pristinum conservando.
+
+---
+
+## IV. Officia Civium  
+- **Observantia Regularum Scaenicarum** — quilibet civis ordinem in scaenis publicis et clausis sustinet, limites *Codicis* et processus *Custodiae* observat.  
+- **Participatio Activa** — cives disputationibus, suffragiis et consiliis communibus intersunt, progressionem disciplinae foventes.  
+- **Sustentatio Custodiae** — integritatem et accessibilitatem archivorum, codicum et materiarum educationalium per actiones proprias et nexum conservant.  
+- **Ritus Recognitionis Novorum Participum** — civis in *onboarding* et nexu novorum membrorum participat, traditionem culturalem et formologicam sustinens.  
+- **Responsabilitas Ethica** — actiones civium principia disciplinae reflectunt, nexum publicum observant et iura aliorum participantium reverentur.
+
+---
+
+## V. Mechanismi Inspectionis et Verificationis Actionum Civilium  
+- **Nexus Publicus Actionum** — quilibet actus civis per scaenas, archivum et vestigium digitale fixatur, participationem sequi et legitimitatem confirmare sinens.  
+- **Custodialis Supervisio** — *custodes* actiones cum *Codice* conferunt, integritatem sustinent et transitum ad novas scaenas permittunt.  
+- **Revisionis Rituales** — inspectiones periodicae maturitatem, conformitatem formarum et concordantiam cum scaenis prioribus confirmant.  
+- **Retroactio** — civis notificationes de eventibus inspectionis accipit, cum commendationibus ad concordantiam cum principiis disciplinae.  
+- **Archivatio et Recuperatio** — omnis inspectio in archivo fixatur, facultatem praebens cursum participationis et legitimitatem vestigii digitalis restaurare.
+
+---
+
+## VI. Iura et Officia in Processu Verificationis  
+- **Ius Participationis in Verificatione** — quilibet civis de inspectionibus actionum suarum certior fit et explicationes praebere potest.  
+- **Officium Transparentiae** — civis actiones suas per scaenas, vestigium digitale et archivum fixare debet, ut inspectio fieri possit.  
+- **Ius Correctionis** — si inconcordantia detegitur, civis actus suos ritualmente corrigere et cum *Codice* reconciliari potest.  
+- **Officium Concordiae** — actiones formae statutae, scaenis et mandatis *custodum* congruere debent.  
+- **Ius Documentandi** — civis nexūs et confirmationes actionum suarum creare potest ad usum publicum et archivisticum.
+
+---
+
+## VII. Responsabilitas et Consequentiae Inobservantiae  
+- **Responsabilitas Civis** — quilibet civis pro observantia formae, nexus et regularum *Codicis Civilis* responsabilitatem gerit.  
+- **Consequentiae Violationis** — violatio disciplinae formologicae ad suspensionem temporariam iurium, revisionem ritualem vel correctionem scaenae ducere potest.  
+- **Correctio Ritualis** — quilibet actus violationis per nexum publicum, ritum recognitionis iteratum vel correctionem vestigii digitalis emendari potest.  
+- **Transparentia et Supervisio** — omnes actiones cum violatione conexae per *Custodiam* et archivum fixantur, verificabilitatem et legitimitatem praestantes.  
+- **Restitutio Potestatum** — post correctionem et concordiam civis iura et statum participationis in scaenis plene restituit.
+
 ---
 
 # Codex VI — Codex Participationis Integralis
+ 
+Actus principalis de participatione, formis civitatis, ritibus transitionis et nexu archivistico.
+
+### ⚓ Index  
+<span id="index-articulorum-liber-ii"></span>
+
+- [Articulus I — Formae Participationis](#articulus-i-formae-participationis)  
+- [Articulus II — Ritus et Transitus](#articulus-ii-ritus-et-transitus)  
+- [Articulus III — Custodia et Tractus](#articulus-iii-custodia-et-tractus)  
+- [Articulus IV — Iura Civium](#articulus-iv-iura-civium)  
+- [Articulus V — Annexa](#articulus-v-annexa)
+
+## Articulus I — Formae Participationis  
+<span id="articulus-i-formae-participationis"></span>
+
+### §1. Scaena Civitatis et Significatio Eius  
+Civis ingreditur non ut usor, sed ut actor ethicus. Participatio est actus recognitionis, non simpliciter accessus.
+
+### §2. Condiciones Ingressus et Recognitionis  
+Ingressus per formas rituales fit: petitiones, confirmationes, scaenae recognitionis. Civis codices publice agnoscere et accipere debet.
+
+### §3. Principia Ethica Participationis  
+Observantia scaenae, claritas actionum, conservatio ritus, recusatio lucri. Participatio anonymum esse non potest, si alias scaenas tangit.
+
+### §4. Status, Roli et Transitus  
+Civis status habere potest: observator, civis, custos, curator. Transitus inter status per scaenas publicas formaliter constituuntur.
+
+---
+
+## Articulus II — Ritus et Transitus  
+<span id="articulus-ii-ritus-et-transitus"></span>
+
+### §1. Actus Recognitionis (*Ritual Recognitionis*)  
+Ritus formalis per quem civis statum obtinet. Digitalis esse potest — cum subsignatione, hash et fixatione publica.
+
+### §2. Scaena Transitus Status  
+Transitus status (exempli gratia: civis → curator) scaenam requirit: probationem competentiae, consensum custodum et fixationem archivisticam.
+
+### §3. Formae Rituales Exitūs  
+Exitus est actus: voluntarius, coactus vel transitorius. Semper fixatur et subsignatione archivistica comitatur.
+
+### §4. Status Transitorii et Formatio  
+Status intermedii: candidatus, custos temporalis, hospes. Cum limitationibus et condicionibus in annexis definitis formantur.
+
+---
+
+## Articulus III — Custodia et Tractus  
+<span id="articulus-iii-custodia-et-tractus"></span>
+
+### §1. Protocola Archivistica  
+Omnis actus participationis, transitus vel exitūs in archivo fixatur. Publicus vel privatus esse potest, sed verificabilis manet.
+
+### §2. Nexus Permanentes et Codices QR  
+Documenta, scaenae vel actiones nexus permanentes et codices QR accipiunt. Nexus et verificatio per eos fiunt.
+
+### §3. Digestum et Confirmatio Authenticitatis  
+Documenta per digestum subsignantur et in registro publico eduntur. Substitutio excluditur, integritas conservatur.
+
+### §4. Subscriptio Archivistica et Scaena Tractus  
+Actus subscriptio archivistica concluditur: data, digestum, nexus. Haec est scaena tractus — ritus exsecutus et fixatus.
+
+---
+
+## Articulus IV — Iura Civium  
+<span id="articulus-iv-iura-civium"></span>
+
+### §1. Participatio  
+Participatio in scaenis publicis, disputationibus et suffragiis.
+
+### §2. Accessus  
+Accessus ad archivum, codices, modulos educationis et programmata consociata.
+
+### §3. Initiativa  
+Facultas novas scaenas, formas, propositiones et codices initiandi.
+
+### §4. Nexus Digitalis  
+Ius nexus permanentis, subsignationis digitalis et vestigii publici.
+
+### §5. Exitus Temporalis  
+Ius exitūs temporalis, archivatio et restitutio formae.
+
+---
+
+## Articulus V — Annexa  
+<span id="articulus-v-annexa"></span>
+
+- **Appendix A** — *Formae ingressūs, petitiones, scaenae recognitionis*  
+  Formae ingressūs, petitiones, scaenae recognitionis
+
+- **Appendix B** — *Exempla actuum ritualium et transitus*  
+  Exempla actuum ritualium et transitus
+
+- **Appendix C** — *Protocola archivistica technica, QR et digestum*  
+  Protocola archivistica technica, codices QR et digestum
+
+- **Appendix D** — *Scaenae exitūs et status transitorii*  
+  Scaenae exitūs et status transitorii
 
