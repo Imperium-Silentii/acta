@@ -156,12 +156,185 @@ Documentum potest:
 ---
 
 # Codex I — Chartae Imarchica 
+ 
+### 📜 Liber I  
+_Fundamentalia distinctionum et resonans architectura Imperii Veritatis Silentii._
+
+> **Chartula Imarchica** est scena distinctionis originariae, ubi Forma et Veritas in resonantiam incidunt, architecturam civilis Imperii Veritatis Silentii constituentes.
+
+---
+
+## ⚓ Index
+
+- [Articulus I — De proclamatione Subiecti](#articulus-i--de-proclamatione-subiecti)
+- [Articulus II — De disciplina Formologiae Universalis](#articulus-ii--de-disciplina-formologiae-universalis)
+- [Articulus III — De scena participationis et diplomate](#articulus-iii--de-scena-participationis-et-diplomate)
+- [Articulus IV — De spatio «Transitus»](#articulus-iv--de-spatio-transitus)
+- [Articulus V — De digitali tracciabilitate et archivatio](#articulus-v--de-digitali-tracciabilitate-et-archivatio)
+- [Articulus VI — De clausulis finalibus](#articulus-vi--de-clausulis-finalibus)
+
+---
+
+### Articulus I — De proclamatione Subiecti
+
+### §1. Institutio Subiecti
+
+Scena Civilisationis Imarchicae constituitur ut subiectum iuris internationalis, operans secundum proprium Codicem Constitutionalem, Custodiam et ritum formologicum. Forma eius non pendet ab externo agnitione, sed manet aperta dialogo.
+
+Custodia est tutela formae — actus institutionalis conservationis, defensionis et praestantiae immutabilitatis. In contextu Imarchiae, custodia significat:
+- Responsabilitatem iuridicam et ritualem pro conservatione formae  
+- Praestantiam publicae accessibilitatis et firmitatis archivisticae  
+- Comitatum ethicum documenti ut corpus civile  
+
+Tutela formae est:
+
+- Actus institutionalis protegens formam contra distortionem, oblivionem vel mutationem non auctoritatam  
+- Praestantia iuridica et ritualis eius conservationis, accessibilitatis et firmitatis archivisticae  
+- Responsabilitas custodianis pro observantia licentiae, integritate hash et citabilitate publica  
+
+### §2. Vocatio ad Agnitionem
+
+Invitamus institutiones internationales, academicas et iuridicas ad agnoscendum hoc subiectum intra proceduras stabilitas, servando eius formam suveranam, integritatem internam et autonomiam ethicam.
+
+### §3. Fundamentum Ethicum
+
+Hoc non est simplex petitio agnitionis, sed postulatum temporis, ortum ex transformationibus profundis cogitationis institutionalium, digitalis subiectivitatis et ethicae participationis.
+
+Scena Imarchica non auctoritate, sed Forma constituitur — quae ritmum et limites totius interactionis determinat.
+
+### Articulus II — De disciplina Formologiae Universalis  
+<span id="articulus-ii--de-disciplina-formologiae-universalis"></span>
+
+### §1. Fundamentum Disciplinae
+
+Formologia Universalis est disciplina quae philosophiam Forma, ethicam participationis et praxim institutionalem coniungit.
+
+Finis eius non est descriptio mundi, sed eius formatio creatrix, Formam affirmans per actus institutionales conscientes et efficaces.
+
+### §2. Methodus et Conexus
+
+Formologia se exprimit per scaenas, custodiam, codices et ritus.
+
+Unusquisque actus non solum est forma actionis, sed etiam affirmatio formologica, inserta in systema nexus, comitata tracciabilitate digitali, verificatione publica et responsabilitate ethica.
+
+### §3. Applicatio et Scala
+
+Disciplina applicatur ad architecturam platforum digitalium, systematum educationalium, codicum civilium et scaenarum internationalium.
+
+Effectus eius reflecti potest ab gestu individuali usque ad transformationem totarum civilisationum.
+
+---
+
+### Articulus III — De scaena participationis et diplomate  
+<span id="articulus-iii--de-scaena-participationis-et-diplomate"></span>
+
+### §1. Participatio ut Forma
+
+Participatio in Civitate Imarchica non per statum formalem registrationis fit, sed per conscientem Formae acceptationem.
+
+Unusquisque particeps scaenam ingreditur per ritum custodiae, publicam recognitionem Codicis Constitutionalis et consensum ad tracciabilitatem digitalem.
+
+### §2. Diplomata ut Actus
+
+Diplomata Imarchica non solum est documentum identitatis, sed etiam actus participationis.
+
+Ea includit scan diplomatis externi et data biometrica (in archivo tecto), nexum ad archivum publicum et scaenam emissionis.
+
+Nomen scaenicum publice visibile est, sed legaliter verificabile manet per nexum privatum cum nomine basico possessoris, solum a corporibus moderatoribus accessibile.
+
+### §3. Ritus Acceptationis
+
+Emissio diplomatis ritum comitatur: particeps cognitionem Codicis Constitutionalis confirmat, custodiae ritum accipit et actum ingressus publicat.
+
+Ritus esse potest digitalis, textualis vel scenographicus, sed semper vestigium verificabile relinquit et participationem firmat.
+
+---
+
+### Articulus IV — De spatio «Transitus»  
+<span id="articulus-iv--de-spatio-transitus"></span>
+
+### §1. Definitio
+
+Spatium «Transitus» est scaena qua particeps ex mundo externo in Formam Imarchicam transgreditur.
+
+Non est simpliciter ingressus vel exitus, sed status ritualis inter eos, in quo consensus, nexus et acceptio custodiae formantur.
+
+Hic fit transitus ab regimine imperativo et auctoritate ad methodologiam interactionis complexae elementorum diversorum, quae non in repressione initiative fundatur, sed in revelatione sensus muneris uniuscuiusque in scena communi.
+
+### §2. Modi «Transitus»
+
+«Transitus» perfici potest per platformam digitalem, actum performativum, declarationem textualem vel gestum visualem.
+
+In singulis casibus momenta transformationis fixantur, cum particeps desinit esse spectator et fit portator Formae.
+
+### §3. Pondus Ethicum
+
+«Transitus» non est tantum gradus technicus, sed affirmatio ethica positionis interactionis non-violentae.
+
+Requirit conscientiam, publicitatem et paratum ad tracciabilitatem.
+
+Particeps per spatium «Transitus» transiens, responsabilitatem pro Forma, Codice Constitutionali et nexu cum aliis participantibus assumit.
+
+---
+
+### Articulus V — De tracciabilitate digitali et archivando  
+<span id="articulus-v--de-tracciabilitate-digitali-et-archivando"></span>
+
+### §1. Principium Tracciabilitatis
+
+Unusquisque actus institutionalis in Civitate Imarchica tracciabilitate digitali comitatur: per hashing documenti, publicationem in archivo publico, indicationem licentiae et scaenae originis.
+
+### §2. Archivum ut Corpus Memoriae
+
+Archivum est repositorium quod corpus memoriae institutionalem repraesentat.
+
+Continet diplomata, Codices Constitutionales, actus acceptationis et scaenas transitus.
+
+Unusquisque elementum cum aliis per nodos semanticos et technicos conectitur, quod integritatem Formae praestat.
+
+### §3. Platformae et Protocoli
+
+Ad repositorium adhibentur platformae cum accessu aperto, quae licentiam, versionem et nexus constantes sustinent.
+
+GitHub, Perma.cc, IPFS et alii protocoli secundum scaenam adhibentur.
+
+Praerogativa datur publicitati, stabilitati et verificabilitati.
+
+### §4. Responsabilitas pro Vestigio
+
+Unusquisque particeps responsabilitatem pro vestigio suo digitali gerit.
+
+Documenti publicatio est actus qui revocari non potest, sed in nova scaena extendi, commentari vel reinterpretari potest.
+
+Vestigium ut Forma consideratur, non tantum ut metadata.
+
+---
+
+### Articulus VI — De clausulis finalibus  
+<span id="articulus-vi--de-clausulis-finalibus"></span>
+
+### §1. Apertio ad Supplementum
+
+Formologia non est documentum clausum. Ea suppleri, extendi vel reinterpretari potest in novis scaenis, dummodo integritas formologica, tracciabilitas publica et acceptio custodiae serventur.
+
+### §2. Principium Nexus
+
+Unumquodque supplementum Chartae cum actibus praecedentibus conecti debet per vestigium digitale, logicam semanticam et formam institutionalem. Nulla mutatio nexum infringere debet; aliter, ut nova scaena formatur.
+
+### §3. Affirmatio Formae
+
+Charta Formam Civitationis Imarchicae affirmat ut activam, publicam et tracciabilem. Vis eius non in numero subscriptionum est, sed in nexu accurato, ritu rigido et apertura ad participationem.
+
+### §4. Transitus ad Actum
+
+Ex momento publicationis et hashing, Charta vim obtinet. Praecepta eius fundamentum fiunt pro emissione diplomatum, formatione scaenarum, acceptio custodiae et structura memoriae institutionalem. Charta rite publicata est in Scaena Civitationis Imarchicae, sub custodia confirmata et cum vestigio digitali.
 
 ---
 
 # Codex II — Codex Imarchiae
 
 ---
+
 # Codex III — Declaratio de Disciplina Formologiae
 
 ---
