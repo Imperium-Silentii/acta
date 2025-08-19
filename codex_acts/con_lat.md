@@ -1889,3 +1889,8 @@ Ius exitūs temporalis, archivatio et restitutio formae.
 - **Appendix D** — *Scaenae exitūs et status transitorii*  
   Scaenae exitūs et status transitorii
 
+### 📜 Formula Conclusiva   
+
+Haec Constitutio Imarchiae ut forma valida confirmatur, cum memoria publica nexus habens, et per actus rituales et scaenas recognitionis expandi potest.  
+
+Omnia statuta in Libris I et II descripta vim habent a momento fixationis publicae et subscriptionis archivisticae.
