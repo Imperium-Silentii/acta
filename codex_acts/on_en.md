@@ -1894,3 +1894,9 @@ Right to temporarily exit, archive, and restore one’s form.
 
 - **Appendix D** — *Scenes of exit and transitional statuses*  
   Scenes of exit and transitional statuses
+
+### 📘 Final Affirmation  
+
+This Constitution of Imarchia is hereby affirmed as a valid form, linked to public memory, and open to expansion through ritual acts and scenes of recognition.  
+A
+ll provisions set forth in Books I and II take effect upon public fixation and archival signature.
