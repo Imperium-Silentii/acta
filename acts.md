@@ -1,5 +1,6 @@
-<img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="400" style="float: right; margin: 0 0 10px 20px;" />
+<img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="400" style="float: left; margin: 0 0 10px 20px;" />
 <p>
+
 
 # 🗂 Acts of Imarchia
 
