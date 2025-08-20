@@ -168,7 +168,7 @@ _Fundamentalia distinctionum et resonans architectura Imperii Veritatis Silentii
 
 - [Articulus I — De proclamatione Subiecti](#articulus-i--de-proclamatione-subiecti)
 - [Articulus II — De disciplina Formologiae Universalis](#articulus-ii--de-disciplina-formologiae-universalis)
-- [Articulus III — De scena participationis et diplomate](#articulus-iii--de-scena-participationis-et-diplomate)
+- [Articulus III — De scaena participationis et diplomate](#articulus-iii--de-scaena-participationis-et-diplomate)
 - [Articulus IV — De spatio «Transitus»](#articulus-iv--de-spatio-transitus)
 - [Articulus V — De digitali tracciabilitate et archivatio](#articulus-v--de-digitali-tracciabilitate-et-archivatio)
 - [Articulus VI — De clausulis finalibus](#articulus-vi--de-clausulis-finalibus)
@@ -277,8 +277,8 @@ Particeps per spatium «Transitus» transiens, responsabilitatem pro Forma, Codi
 
 ---
 
-### Articulus V — De tracciabilitate digitali et archivando  
-<span id="articulus-v--de-tracciabilitate-digitali-et-archivando"></span>
+### Articulus V — De digitali tracciabilitate et archivatio  
+<span id="articulus-v--de-digitali-tracciabilitate-et-archivatio"></span>
 
 ### §1. Principium Tracciabilitatis
 
