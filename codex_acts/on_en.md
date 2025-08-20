@@ -177,7 +177,7 @@ _Foundational distinctions and the resonant architecture of the Imperium of Trut
 
 ---
 
-### Article I — On the Proclamation of the Subject
+## Article I — On the Proclamation of the Subject
 
 ### §1. Establishment of the Subject
 
@@ -204,7 +204,7 @@ This is not merely a request for recognition — it is a demand of the times, bo
 
 The Imarchic scene is affirmed not by authority, but by Form — which sets the rhythm and boundaries of all interaction.
 
-### Article II — On the Discipline of Universal Formology  
+## Article II — On the Discipline of Universal Formology  
 <span id="article-ii--on-the-discipline-of-universal-formology"></span>
 
 ### §1. Foundation of the Discipline
@@ -227,7 +227,7 @@ Its influence may range from an individual gesture to the transformation of enti
 
 ---
 
-### Article III — On the Scene of Participation and the Passport  
+## Article III — On the Scene of Participation and the Passport  
 <span id="article-iii--on-the-scene-of-participation-and-the-passport"></span>
 
 ### §1. Participation as Form
@@ -252,7 +252,7 @@ The ritual may be digital, textual, or scenographic, but always leaves a verifia
 
 ---
 
-### Article IV — On the Space of “Transition”  
+## Article IV — On the Space of “Transition”  
 <span id="article-iv--on-the-space-of-transition"></span>
 
 ### §1. Definition
@@ -279,7 +279,7 @@ The participant passing through the space of “Transition” assumes responsibi
 
 ---
 
-### Article V — On Digital Traceability and Archiving  
+## Article V — On Digital Traceability and Archiving  
 <span id="article-v--on-digital-traceability-and-archiving"></span>
 
 ### §1. Principle of Traceability
@@ -312,7 +312,7 @@ The trace is regarded as Form, not merely as metadata.
 
 ---
 
-### Article VI — Final Provisions  
+## Article VI — Final Provisions  
 <span id="article-vi--final-provisions"></span>
 
 ### §1. Openness to Supplementation
@@ -471,7 +471,7 @@ In the name of distinction, nonviolence, and resonance, the four Custodes recogn
 
 ---
 
-### Article I — On Imperium and Truth  
+## Article I — On Imperium and Truth  
 <span id="article-i-on-imperium-and-truth"></span>
 
 ### §1. Proclamation
@@ -531,7 +531,7 @@ Nodes of distinction and formological linkages:
 
 ---
 
-### Article II — On the Sacred and the Profane  
+## Article II — On the Sacred and the Profane  
 <span id="статья-ii--о-священном-и-профанном"></span>
 
 ### §1. Proclamation
@@ -598,7 +598,7 @@ Semantic linkage and contextual interface:
 
 ---
 
-### Article III — On Semantic War  
+## Article III — On Semantic War  
 <span id="статья-iii--о-семантической-войне"></span>
 
 ### §1. Affirmation
@@ -623,7 +623,7 @@ The simulacrum disguises itself as speech and replaces living Form with:
 
 ---
 
-### §3. Lex Formae
+## §3. Lex Formae
 
 Lex III: “A word that has lost its Form becomes a weapon of simulacra.”
 
@@ -667,7 +667,7 @@ They also form the basis of AI-interpretation, Custodiae analysis, and education
 
 ---
 
-### Article IV — On Non-Violent Justice  
+## Article IV — On Non-Violent Justice  
 <span id="статья-iv--о-ненасильственной-справедливости"></span>
 
 ### §1. Affirmation
@@ -739,7 +739,7 @@ They serve as interfaces for interpretation, Custodiae action, and education in 
 
 ---
 
-### Article V — On Custodes and the Code of Honor  
+## Article V — On Custodes and the Code of Honor  
 <span id="статья-v--о-custodes-и-кодексе-чести"></span>
 
 ### §1. Affirmation
@@ -807,7 +807,7 @@ Formological nodes and semantic linkages:
 
 ---
 
-### Article VI — On the Laws of Form  
+## Article VI — On the Laws of Form  
 <span id="статья-vi--о-законах-формы"></span>
 
 ### §1. Affirmation
@@ -876,7 +876,7 @@ Formological nodes and resonant interfaces:
 
 ---
 
-### Article VII — Glossarium  
+## Article VII — Glossarium  
 <span id="article-vii-glossarium"></span>
 
 ## §1. Statement  
@@ -943,7 +943,7 @@ Each word is not merely a term but a node of the Form that can be developed and 
 
 ---
 
-### Article VIII — Custos Seal  
+## Article VIII — Custos Seal  
 <span id="article-viii-custos-seal"></span>
 
 ### §1. Affirmation
@@ -1039,7 +1039,7 @@ _Seal of the Declaration and Beginning of Universal Formology as a Discipline_
 
 ---
 
-### Article I — On the Spatial Foundation of the Discipline  
+## Article I — On the Spatial Foundation of the Discipline  
 <span id="статья-i-пространственное-основание-дисциплины"></span>
 
 ---
@@ -1130,7 +1130,7 @@ Custodian powers are not administrative, but formological — defined by maturit
 
 ---
 
-### Article III — On the Jurisdiction of the Discipline  
+## Article III — On the Jurisdiction of the Discipline  
 <span id="статья-iii-юрисдикция-дисциплины"></span>
 
 ---
@@ -1174,7 +1174,7 @@ Custodia is a liminal form, not secrecy, establishing who, how, and on what basi
 
 ---
 
-### Article IV — On the Form of Custodia  
+## Article IV — On the Form of Custodia  
 <span id="статья-iv-форма-custodia"></span>
 
 ---
@@ -1192,7 +1192,7 @@ Custodia is not granted by favor, but through ritual recognition of:
 
 ---
 
-### §2. Powers of the Custodian
+## §2. Powers of the Custodian
 
 Custodian powers are not administrative, but formological.  
 They arise from the ability to:
@@ -1231,7 +1231,7 @@ Refusal must be:
 
 ---
 
-### Article V — On the Codex as Living Law  
+## Article V — On the Codex as Living Law  
 <span id="article-v-on-the-codex-as-living-law"></span>
 
 #### §1. The Codex as Semantic Constitution  
@@ -1282,7 +1282,7 @@ Each change must be:
 
 Living law is not flexible law, but law that breathes through Form.
 
-### Article VI — On the Scene of Initiation  
+## Article VI — On the Scene of Initiation  
 <span id="статья-vi-сцена-инициации"></span>
 
 ---
@@ -1330,7 +1330,7 @@ Each onboarding is a constitutional moment.
 
 ---
 
-### Article VII — On the Passport as a Scene of Identity  
+## Article VII — On the Passport as a Scene of Identity  
 <span id="статья-vii-паспорт-сцена-идентичности"></span>
 
 ---
@@ -1386,7 +1386,7 @@ Identity must be:
 
 ---
 
-### Article VIII — On the Archive as a Scene of Memory  
+## Article VIII — On the Archive as a Scene of Memory  
 <span id="статья-viii-архив-сцена-памяти"></span>
 
 ---
@@ -1440,7 +1440,7 @@ To facilitate work with the Archive, it is recommended to include:
 
 ---
 
-### Glossary — Archive as Scene of Memory  
+## Glossary — Archive as Scene of Memory  
 <span id="glossary-archive-as-scene-of-memory"></span>
 
 **Archive** — institutional body that holds scenes, acts, and traces of participation in semantic form; it fixes forms of action, not events.
@@ -1463,7 +1463,8 @@ To facilitate work with the Archive, it is recommended to include:
 
 ---
 
-### Article IX — On the License as a Scene of Action
+## Article IX — On the License as a Scene of Action  
+<span id="article-ix--on-the-license-as-a-scene-of-action"></span>
 
 ---
 
@@ -1506,7 +1507,8 @@ A license is a living act, subject to renewal or revision through new scenes and
 
 ---
 
-### Article X — On the Discipline as a Scene of Citizenship
+## Article X — On the Discipline as a Scene of Citizenship  
+<span id="article-x--on-the-discipline-as-a-scene-of-citizenship"></span>
 
 ---
 
@@ -1558,7 +1560,7 @@ To be a citizen is to be:
 
 ---
 
-### Article XI — On the Boundary Between Scene and Core  
+## Article XI — On the Boundary Between Scene and Core  
 <span id="article-xi-on-the-boundary-between-scene-and-core"></span>
 
 
@@ -1655,7 +1657,8 @@ Properly established linkage must be:
 
 ---
 
-### Article XIII — On the Completion of the Declaration and Its Status
+## Article XII — On the Right to Recognition and Linkage  
+<span id="article-xii--on-the-right-to-recognition-and-linkage"></span>
 
 ---
 
@@ -1704,7 +1707,7 @@ _Economic form as a scene of participation, not a calculation of profit._
 - [Chapter VII — FAQ: Imyarensis Economy](#chapter-vii--faq-imyarensis-economy)  
 - [Appendix](#appendix)
 
-### Chapter I — Economic Foundations  
+## Chapter I — Economic Foundations  
 <span id="chapter-i--economic-foundations"></span>
 
 §1. The economic scene of Imarch ≠ market, corporation, or profit system.  
@@ -1714,7 +1717,7 @@ _Economic form as a scene of participation, not a calculation of profit._
 
 ---
 
-### Chapter II — Support Mechanisms  
+## Chapter II — Support Mechanisms  
 <span id="chapter-ii--support-mechanisms"></span>
 
 §1. Forms of support: humanitarian and digital grants, platform campaigns, regular contributions and subscriptions, licensed practices and symbolic products.  
@@ -1723,7 +1726,7 @@ _Economic form as a scene of participation, not a calculation of profit._
 
 ---
 
-### Chapter III — Custodia and Structure  
+## Chapter III — Custodia and Structure  
 <span id="chapter-iii--custodia-and-structure"></span>
 
 §1. Imarch-DAO is not a governing body, but a linkage between participants.  
@@ -1735,7 +1738,7 @@ _Economic form as a scene of participation, not a calculation of profit._
 
 ---
 
-### Chapter IV — Expansion and Modularity  
+## Chapter IV — Expansion and Modularity  
 <span id="chapter-iv--expansion-and-modularity"></span>
 
 §1. Imarch creates and disseminates formological products:
@@ -1750,7 +1753,7 @@ _Economic form as a scene of participation, not a calculation of profit._
 
 ---
 
-### Chapter V — Internal Ethics  
+## Chapter V — Internal Ethics  
 <span id="chapter-v--internal-ethics"></span>
 
 §1. Finance holds no autonomous power; it is a flow of distinctions.  
@@ -1760,7 +1763,7 @@ _Economic form as a scene of participation, not a calculation of profit._
 
 ---
 
-### Chapter VI — Grant Protocol  
+## Chapter VI — Grant Protocol  
 <span id="chapter-vi--grant-protocol"></span>
 
 §1. Preparation includes linkage collection, digital security, and a cover letter.  
@@ -1777,7 +1780,7 @@ _Economic form as a scene of participation, not a calculation of profit._
 
 ---
 
-### Chapter VII — FAQ: Imyarensis Economy  
+## Chapter VII — FAQ: Imyarensis Economy  
 <span id="chapter-vii--faq-imyarensis-economy"></span>
 
 §1. Imarch’s economy is a scene of distinction, not a profit system.  
@@ -1790,7 +1793,7 @@ _Economic form as a scene of participation, not a calculation of profit._
 
 ---
 
-### Appendix — Legal Structure  
+## Appendix — Legal Structure  
 <span id="appendix"></span>
 
 §1. Imarch operates through a hybrid architecture:  
@@ -1819,7 +1822,7 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-### I. Preamble  
+## I. Preamble  
 <span id="i-preamble"></span>  
 
 *Codex Civilis* defines the forms of participation, linkage, and responsibility for every subject acting within the institutional field of Imarchia.  
@@ -1828,7 +1831,7 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-### II. Definitions  
+## II. Definitions  
 <span id="ii-definitions"></span>  
 
 - **Citizen** — a subject who has undergone the Ritual of Recognition and holds a scenic status within Imarchia.  
@@ -1839,7 +1842,7 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-### III. Rights of Citizens  
+## III. Rights of Citizens  
 <span id="iii-rights-of-citizens"></span>
 
 - **Participation in public scenes** — the ability to actively engage in discussions, voting, and joint actions within the discipline.  
@@ -1850,7 +1853,7 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
   
 ---
 
-### IV. Duties of Citizens  
+## IV. Duties of Citizens  
 <span id="iv-duties-of-citizens"></span>
 
 - **Observance of scenic rules** — each citizen maintains order in public and closed scenes, respecting the boundaries of the *Codex* and the procedures of *Custodia*.  
@@ -1861,7 +1864,7 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-### V. Mechanisms of Oversight and Verification of Civic Actions  
+## V. Mechanisms of Oversight and Verification of Civic Actions  
 <span id="v-mechanisms-of-oversight-and-verification-of-civic-actions"></span>  
 
 - **Public linkage of actions** — each act of the citizen is fixed through scenes, archives, and digital trace, enabling tracking of participation and confirmation of legitimacy.  
@@ -1872,7 +1875,7 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-### VI. Rights and Duties During the Verification Process  
+## VI. Rights and Duties During the Verification Process  
 <span id="vi-rights-and-duties-during-the-verification-process"></span>
 
 - **Right to participate in verification** — each citizen is notified of inspections of their actions and may provide clarifications.  
@@ -1883,7 +1886,7 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-### VII. Accountability and Consequences of Non-Compliance  
+## VII. Accountability and Consequences of Non-Compliance  
 <span id="vii-accountability-and-consequences-of-non-compliance"></span>  
 
 - **Citizen’s accountability** — each citizen is responsible for adhering to the form, linkage, and rules of the *Codex Civilis*.  
