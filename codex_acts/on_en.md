@@ -1803,13 +1803,18 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-## I. Preamble  
+### I. Preamble  
+<span id="i-preamble"></span>  
+
 *Codex Civilis* defines the forms of participation, linkage, and responsibility for every subject acting within the institutional field of Imarchia.  
+
 Its purpose is to affirm citizenship as an active form of action, not a static status, and to ensure linkage between individual form and institutional memory.
 
 ---
 
-## II. Definitions  
+### II. Definitions  
+<span id="ii-definitions"></span>  
+
 - **Citizen** — a subject who has undergone the Ritual of Recognition and holds a scenic status within Imarchia.  
 - **Scene** — a formal institutional space in which the citizen acts, participates, or is acknowledged.  
 - **Ritual of Recognition** — a formalized entry procedure involving signing, linkage, and archiving.  
@@ -1818,7 +1823,9 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-## III. Rights of Citizens  
+### III. Rights of Citizens  
+<span id="iii-rights-of-citizens"></span>
+
 - **Participation in public scenes** — the ability to actively engage in discussions, voting, and joint actions within the discipline.  
 - **Access to resources** — archives, codices, educational modules, and partner programs for study and practical use.  
 - **Initiative** — the right to propose new scenes, forms, projects, and codices, contributing to the development of the institutional environment.  
@@ -1827,7 +1834,9 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
   
 ---
 
-## IV. Duties of Citizens  
+### IV. Duties of Citizens  
+<span id="iv-duties-of-citizens"></span>
+
 - **Observance of scenic rules** — each citizen maintains order in public and closed scenes, respecting the boundaries of the *Codex* and the procedures of *Custodia*.  
 - **Active participation** — citizens engage in discussions, voting, and joint projects, contributing to the development of the discipline.  
 - **Support of Custodia** — preservation of the integrity and accessibility of archives, codices, and educational materials through personal actions and linkage.  
@@ -1836,7 +1845,9 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-## V. Mechanisms of Oversight and Verification of Civic Actions  
+### V. Mechanisms of Oversight and Verification of Civic Actions  
+<span id="v-mechanisms-of-oversight-and-verification-of-civic-actions"></span>  
+
 - **Public linkage of actions** — each act of the citizen is fixed through scenes, archives, and digital trace, enabling tracking of participation and confirmation of legitimacy.  
 - **Custodial supervision** — *custodians* ensure the conformity of actions with the *Codex*, uphold integrity, and authorize transitions to new scenes.  
 - **Ritual revisions** — periodic checks include confirmation of maturity, form compliance, and alignment with previous scenes.  
@@ -1845,7 +1856,9 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-## VI. Rights and Duties During the Verification Process  
+### VI. Rights and Duties During Verification Process  
+<span id="vi-rights-and-duties-during-verification-process"></span>
+
 - **Right to participate in verification** — each citizen is notified of inspections of their actions and may provide clarifications.  
 - **Duty of transparency** — the citizen must fix their actions through scenes, digital trace, and archive to enable verification.  
 - **Right to correction** — if inconsistency is identified, the citizen may ritually correct their actions and restore alignment with the *Codex*.  
@@ -1854,7 +1867,9 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-## VII. Accountability and Consequences of Non-Compliance  
+### VII. Accountability and Consequences of Non-Compliance  
+<span id="vii-accountability-and-consequences-of-non-compliance"></span>  
+
 - **Citizen’s accountability** — each citizen is responsible for adhering to the form, linkage, and rules of the *Codex Civilis*.  
 - **Consequences of violation** — breach of formological discipline may lead to temporary suspension of rights, ritual review, or scene correction.  
 - **Ritual correction** — each act of violation may be remedied through public linkage, re-performance of the recognition ritual, or adjustment of the digital trace.  
