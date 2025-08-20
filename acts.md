@@ -1,5 +1,6 @@
-<img src="./assets/logo_imarhc.jpg" alt="Imarch Logo" width="400" style="float: left; margin: 0 0 10px 20px;" />
-<p>
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Logo Imarchia" align="left" width="400">
+
+<br>
 
 
 # 🗂 Acts of Imarchia
