@@ -59,6 +59,8 @@ Rogatio mittenda est ad: **unghart@proton.me**, cum ratione requisitionis et ind
 
 ## 🏛️ Coniunctio Archivistica
 
+[https://perma.cc/CN9R-Q9FK](https://perma.cc/CN9R-Q9FK)  
+
 Declaratio formaliter et publice archiviata est, firmitatem iuridicam, temporis signum fixum et facultatem citationis praestans.  
 
 ---
@@ -2072,6 +2074,8 @@ Rogatio mittenda est ad: **unghart@proton.me**, cum ratione requisitionis et ind
 ---
 
 ## 🏛️ Coniunctio Archivistica
+
+[https://perma.cc/CN9R-Q9FK](https://perma.cc/CN9R-Q9FK)  
 
 Declaratio formaliter et publice archiviata est, firmitatem iuridicam, temporis signum fixum et facultatem citationis praestans.  
 
