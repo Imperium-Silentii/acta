@@ -348,8 +348,7 @@ _Architecture of Distinctions: Resonant Grammar of the Civic Body_
 - [Article IV — On Nonviolent Justice](#статья-iv--о-ненасильственной-справедливости)  
 - [Article V — On the Custodes and the Code of Honor](#статья-v--о-custodes-и-кодексе-чести)  
 - [Article VI — On the Laws of Form](#статья-vi--о-законах-формы)  
-- ### Article VII — Glossarium  
-<span id="article-vii-glossarium"></span> 
+- [Article VII — Glossarium](#article-vii-glossarium)
 - [Article VIII — The Seal of the Custos](#article-viii-custos-seal)
 
 ---
