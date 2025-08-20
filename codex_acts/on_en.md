@@ -1901,11 +1901,11 @@ _Actus principalis de participatione, formis civitatis, ritibus transitionis et 
 ### 📚 Index  
 <span id="index-articulorum-liber-ii"></span>
 
-- [Articulus I — Formae Participationis](#articulus-i-formae-participationis)  
-- [Articulus II — Ritus et Transitus](#articulus-ii-ritus-et-transitus)  
-- [Articulus III — Custodia et Tractus](#articulus-iii-custodia-et-tractus)  
-- [Articulus IV — Iura Civium](#articulus-iv-iura-civium)  
-- [Articulus V — Annexa](#articulus-v-annexa)
+- [Article I — Formae Participationis](#articulus-i-formae-participationis)  
+- [Article II — Ritus et Transitus](#articulus-ii-ritus-et-transitus)  
+- [Article III — Custodia et Tractus](#articulus-iii-custodia-et-tractus)  
+- [Article IV — Iura Civium](#articulus-iv-iura-civium)  
+- [Article V — Annexa](#articulus-v-annexa)
 
 ## Article I — Forms of Participation  
 <span id="article-i-forms-of-participation"></span>
