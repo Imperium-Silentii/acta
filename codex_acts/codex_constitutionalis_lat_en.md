@@ -49,6 +49,8 @@ Imarchia non est civitas nec societas mercatoria, sed medium formologicum pro in
 
 ### 🔐 SHA256-Impressio
 
+7e15dbb0b9283d294dd40382e4beeda2e9ab37e08505c25edf7146415c2a5dad
+
 Forma PDF huius Chartae, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 
 Rogatio mittenda est ad: **unghart@proton.me**, cum ratione requisitionis et indicatione nominis institutionis petentis.
@@ -2060,6 +2062,8 @@ Imarchia is not a state or commercial entity, but a formological medium for legi
 ---
 
 ### 🔐 SHA256-Impressio
+
+7e15dbb0b9283d294dd40382e4beeda2e9ab37e08505c25edf7146415c2a5dad
 
 Forma PDF huius Chartae, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 
