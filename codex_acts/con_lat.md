@@ -1768,8 +1768,8 @@ _Forma oeconomica ut scena participationis, non computatio lucri._
 
 ---
 
-### Appendix — Structura Iuridica  
-<span id="appendix--structura-iuridica"></span>
+### Appendix  
+<span id="appendix"></span>
 
 §1. Imarch operatur per architecturam hybridam:  
  • LTD UK — scena fixationis internationalis  
