@@ -348,7 +348,8 @@ _Architecture of Distinctions: Resonant Grammar of the Civic Body_
 - [Article IV — On Nonviolent Justice](#статья-iv--о-ненасильственной-справедливости)  
 - [Article V — On the Custodes and the Code of Honor](#статья-v--о-custodes-и-кодексе-чести)  
 - [Article VI — On the Laws of Form](#статья-vi--о-законах-формы)  
-- [Article VII — Glossary](#статья-vii--глоссарий)  
+- ### Article VII — Glossarium  
+<span id="article-vii-glossarium"></span> 
 - [Article VIII — The Seal of the Custos](#article-viii-custos-seal)
 
 ---
@@ -876,8 +877,8 @@ Formological nodes and resonant interfaces:
 
 ---
 
-# Article VII — Glossarium  
-<span id="статья-vii-глоссарий"></span>
+### Article VII — Glossarium  
+<span id="article-vii-glossarium"></span>
 
 ## §1. Statement  
 The Glossarium is not merely a dictionary but an act of discernment.  
