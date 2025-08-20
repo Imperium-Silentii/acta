@@ -1030,10 +1030,10 @@ _Seal of the Declaration and Beginning of Universal Formology as a Discipline_
 - [Article VI — On the Scene of Initiation](#article-vi--on-the-scene-of-initiation)  
 - [Article VII — On the Passport as a Scene of Identity](#article-vii--on-the-passport-as-a-scene-of-identity)  
 - [Article VIII — On the Archive as a Scene of Memory](#article-viii--on-the-archive-as-a-scene-of-memory)  
-- [Glossarium — Archive as Scene of Memory](#glossarium--archive-as-scene-of-memory)  
+- [Glossary — Archive as Scene of Memory](#glossary-archive-as-scene-of-memory)
 - [Article IX — On the License as a Scene of Action](#article-ix--on-the-license-as-a-scene-of-action)  
 - [Article X — On the Discipline as a Scene of Citizenship](#article-x--on-the-discipline-as-a-scene-of-citizenship)  
-- [Article XI — On the Border Between Scene and Core](#article-xi--on-the-border-between-scene-and-core)  
+- [Article XI — On the Boundary Between Scene and Core](#article-xi-on-the-boundary-between-scene-and-core)  
 - [Article XII — On the Right to Recognition and Linkage](#article-xii--on-the-right-to-recognition-and-linkage)  
 - [Article XIII — On the Completion of the Declaration and Its Status](#article-xiii--on-the-completion-of-the-declaration-and-its-status)
 
@@ -1440,6 +1440,9 @@ To facilitate work with the Archive, it is recommended to include:
 
 ---
 
+### Glossary — Archive as Scene of Memory  
+<span id="glossary-archive-as-scene-of-memory"></span>
+
 **Archive** — institutional body that holds scenes, acts, and traces of participation in semantic form; it fixes forms of action, not events.
 
 **Memory** — formological linkage arising from a sequence of scenes, traces of acts, and the semantic contour of participation; not chronological, but meaningful.
@@ -1555,9 +1558,9 @@ To be a citizen is to be:
 
 ---
 
-### Article XI — On the Boundary Between Scene and Core
+### Article XI — On the Boundary Between Scene and Core  
+<span id="article-xi-on-the-boundary-between-scene-and-core"></span>
 
----
 
 ### §1. Scene as Public Shell
 
