@@ -175,7 +175,7 @@ _Fundamentalia distinctionum et resonans architectura Imperii Veritatis Silentii
 
 ---
 
-### Articulus I — De proclamatione Subiecti
+## Articulus I — De proclamatione Subiecti
 
 ### §1. Institutio Subiecti
 
@@ -202,7 +202,7 @@ Hoc non est simplex petitio agnitionis, sed postulatum temporis, ortum ex transf
 
 Scena Imarchica non auctoritate, sed Forma constituitur — quae ritmum et limites totius interactionis determinat.
 
-### Articulus II — De disciplina Formologiae Universalis  
+## Articulus II — De disciplina Formologiae Universalis  
 <span id="articulus-ii--de-disciplina-formologiae-universalis"></span>
 
 ### §1. Fundamentum Disciplinae
@@ -225,7 +225,7 @@ Effectus eius reflecti potest ab gestu individuali usque ad transformationem tot
 
 ---
 
-### Articulus III — De scaena participationis et diplomate  
+## Articulus III — De scaena participationis et diplomate  
 <span id="articulus-iii--de-scaena-participationis-et-diplomate"></span>
 
 ### §1. Participatio ut Forma
@@ -250,7 +250,7 @@ Ritus esse potest digitalis, textualis vel scenographicus, sed semper vestigium 
 
 ---
 
-### Articulus IV — De spatio «Transitus»  
+## Articulus IV — De spatio «Transitus»  
 <span id="articulus-iv--de-spatio-transitus"></span>
 
 ### §1. Definitio
@@ -277,7 +277,7 @@ Particeps per spatium «Transitus» transiens, responsabilitatem pro Forma, Codi
 
 ---
 
-### Articulus V — De digitali tracciabilitate et archivatio  
+## Articulus V — De digitali tracciabilitate et archivatio  
 <span id="articulus-v--de-digitali-tracciabilitate-et-archivatio"></span>
 
 ### §1. Principium Tracciabilitatis
@@ -310,7 +310,7 @@ Vestigium ut Forma consideratur, non tantum ut metadata.
 
 ---
 
-### Articulus VI — De clausulis finalibus  
+## Articulus VI — De clausulis finalibus  
 <span id="articulus-vi--de-clausulis-finalibus"></span>
 
 ### §1. Apertio ad Supplementum
@@ -468,7 +468,7 @@ In nomine distinctionis, nonviolentiae et resonantiae, quattuor Custodes agnoscu
 
 ---
 
-### Articulus I — De Imperio et Veritate  
+## Articulus I — De Imperio et Veritate  
 <span id="articulus-i--de-imperio-et-veritate"></span>
 
 ### §1. Proclamatio
@@ -528,7 +528,7 @@ Nodi distinctionis et nexus formologici:
 
 ---
 
-### Articulus II — De Sacro et Profano  
+## Articulus II — De Sacro et Profano  
 <span id="articulus-ii--de-sacro-et-profano"></span>
 
 ### §1. Proclamatio
@@ -595,7 +595,7 @@ Nexus semantici et interfacies contextuales:
 
 ---
 
-### Articulus III — De Bello Semantico  
+## Articulus III — De Bello Semantico  
 <span id="articulus-iii--de-bello-semantico"></span>
 
 ### §1. Afirmatio
@@ -664,7 +664,7 @@ Hi etiam sunt fundamentum AI-interpretationis, analysis Custodiae et moduli educ
 
 ---
 
-### Articulus IV — De Iustitia Nonviolenta  
+## Articulus IV — De Iustitia Nonviolenta  
 <span id="articulus-iv--de-iustitia-nonviolenta"></span>
 
 ### §1. Afirmatio
@@ -736,7 +736,7 @@ Hi interfaciem praebent pro interpretatione, actione Custodiae et educatione in 
 
 ---
 
-### Articulus V — De Custodibus et Codice Honoris  
+## Articulus V — De Custodibus et Codice Honoris  
 <span id="articulus-v--de-custodibus-et-codice-honoris"></span>
 
 ### §1. Afirmatio
@@ -804,7 +804,7 @@ Nodi formologici et nexus semantici:
 
 ---
 
-### Articulus VI — De Legibus Forma  
+## Articulus VI — De Legibus Forma  
 <span id="articulus-vi--de-legibus-forma"></span>
 
 ### §1. Afirmatio
@@ -873,17 +873,17 @@ Nodi formologici et interfacies resonantes:
 
 ---
 
-### Articulus VII — Glossarium  
+## Articulus VII — Glossarium  
 <span id="articulus-vii--glossarium"></span>
 
-## §1. Propositio  
+### §1. Propositio  
 Glossarium non est mere dictionarium, sed actus discretionis.  
 Conceptus formologicos claves in scaenis Codicis consignat,  
 cum signatura precisa et nexu resonante.
 
 ---
 
-## §2. Formae Verborum  
+### §2. Formae Verborum  
 🗝️ **Terminologia**
 
 - **Forma**  
@@ -930,7 +930,7 @@ cum signatura precisa et nexu resonante.
 
 ---
 
-## §3. Sigillum Custodis  
+### §3. Sigillum Custodis  
 **Sigillum Glossarii** — Custos nexum definitionum ut actum discretionis confirmat.  
 Verbum non est mere terminus, sed nodus Formae qui in libris futuris evolvi et incarnari potest:
 
@@ -940,7 +940,7 @@ Verbum non est mere terminus, sed nodus Formae qui in libris futuris evolvi et i
 
 ---
 
-### Articulus VIII — Sigillum Custodis  
+## Articulus VIII — Sigillum Custodis  
 <span id="articulus-viii--sigillum-custodis"></span>
 
 ### §1. Afirmatio
@@ -1037,7 +1037,7 @@ _Sigillatio Declarationis et Initium Disciplinae Formologiae Universalis_
 
 ---
 
-### Articulus I — De Fundamento Spatii Disciplinae  
+## Articulus I — De Fundamento Spatii Disciplinae  
 <span id="articulus-i--de-fundamento-spatii-disciplinae"></span>
 
 ---
@@ -1074,7 +1074,7 @@ Non est revelatio, sed limes, qui Formam, accessum et statum ontologicum Discipl
 
 ---
 
-### Articulus II — De Structura Territorii Sensuum  
+## Articulus II — De Structura Territorii Sensuum  
 <span id="articulus-ii--de-structura-territorii-sensuum"></span>
 
 ---
@@ -1128,7 +1128,7 @@ Potestates Custodianorum non sunt administrativae, sed formologicae — maturita
 
 ---
 
-### Articulus III — De Iurisdictione Disciplinae  
+## Articulus III — De Iurisdictione Disciplinae  
 <span id="articulus-iii--de-iurisdictione-disciplinae"></span>
 
 ---
@@ -1172,7 +1172,7 @@ Custodia est forma liminalis, non secretum, quae statuit quis, quomodo et qua ra
 
 ---
 
-### Articulus IV — De Forma Custodiae  
+## Articulus IV — De Forma Custodiae  
 <span id="articulus-iv--de-forma-custodiae"></span>
 
 ---
@@ -1229,7 +1229,7 @@ Negatio debet esse:
 
 ---
 
-### Articulus V — De Codice ut Lege Viva  
+## Articulus V — De Codice ut Lege Viva  
 <span id="articulus-v--de-codice-ut-lege-viva"></span>
 
 ### §1. Codex ut Constitutio Semantica
@@ -1283,7 +1283,7 @@ Lex viva non est lex flexibilis, sed lex quae per Formam spirat.
 
 ---
 
-### Articulus VI — De Scaena Initiationis  
+## Articulus VI — De Scaena Initiationis  
 <span id="articulus-vi--de-scaena-initiationis"></span>
 
 ---
@@ -1331,7 +1331,7 @@ Unusquisque onboarding est momentum constitutionale.
 
 ---
 
-### Articulus VII — De Passaporto ut Scaena Identitatis  
+## Articulus VII — De Passaporto ut Scaena Identitatis  
 <span id="articulus-vii--de-passaporto-ut-scaena-identitatis"></span>
 
 ### §1. Documentum ut Forma Ritualis
@@ -1385,7 +1385,7 @@ Identitas debet esse:
 
 ---
 
-### Articulus VIII — De Archivo ut Scaena Memoriae  
+## Articulus VIII — De Archivo ut Scaena Memoriae  
 <span id="articulus-viii--de-archivo-ut-scaena-memoriae"></span>
 
 ---
@@ -1439,7 +1439,7 @@ Ad usum archivii commode, suadetur:
 
 ---
 
-### Glossarium — Archivum ut Scaena Memoriae  
+## Glossarium — Archivum ut Scaena Memoriae  
 <span id="glossarium--archivum-ut-scaena-memoriae"></span>
 
 **Archivum** — corpus institutionale quod scaenas, actus et vestigia participationis in forma semantica sustinet; figit formas actionum, non eventa.
@@ -1462,7 +1462,7 @@ Ad usum archivii commode, suadetur:
 
 ---
 
-### Articulus IX — De Licentia ut Scaena Actionis  
+## Articulus IX — De Licentia ut Scaena Actionis  
 <span id="articulus-ix--de-licentia-ut-scaena-actionis"></span>
 
 ### §1. Licentia ut Permissio Ritualis
@@ -1504,7 +1504,7 @@ Licentia est actus vivus, qui per novas scaenas et ritus Custodianos renovari ve
 
 ---
 
-### Articulus X — De Disciplina ut Scaena Civitatica  
+## Articulus X — De Disciplina ut Scaena Civitatica  
 <span id="articulus-x--de-disciplina-ut-scaena-civitatica"></span>
 
 ### §1. Disciplina ut Ambitus Civitatica
@@ -1555,9 +1555,9 @@ Civis esse significat esse:
 
 ---
 
-### Articulus XI — De Finitura inter Scaenam et Nucleum
+## Articulus XI — De Finitura inter Scaenam et Nucleum
+<span id="articulus-xi--de-finitura-inter-scaenam-et-nucleum"></span>
 
----
 
 ### §1. Scaena ut Involucrum Publicum
 
@@ -1609,7 +1609,7 @@ Hoc non est procedura formalis, sed actus formologicus, ius ad profunditatem con
 
 ---
 
-### Articulus XII — De Iure Recognitionis et Nexus  
+## Articulus XII — De Iure Recognitionis et Nexus  
 <span id="articulus-xii--de-iure-recognitionis-et-nexus"></span>
 
 ### §1. Ius Recognitionis
@@ -1651,7 +1651,7 @@ Nexus recte institutus debet esse:
 
 ---
 
-### Articulus XIII — De Conclusione Declarationis et eius Statu  
+## Articulus XIII — De Conclusione Declarationis et eius Statu  
 <span id="articulus-xiii--de-conclusione-declarationis-et-eius-statu"></span>
 
 ### §1. Formula Finalis
@@ -1699,7 +1699,7 @@ _Forma oeconomica ut scena participationis, non computatio lucri._
 - [Caput VII — FAQ: Oeconomia Imyarensis](#caput-vii--faq-oeconomia-imyarensis)  
 - [Appendix](#appendix)
 
-### Caput I — Fundamenta Oeconomica  
+## Caput I — Fundamenta Oeconomica  
 <span id="caput-i--fundamenta-oeconomica"></span>
 
 §1. Scena oeconomica Imarch ≠ forum, corporatio aut ratio lucri.  
@@ -1709,7 +1709,7 @@ _Forma oeconomica ut scena participationis, non computatio lucri._
 
 ---
 
-### Caput II — Mechanismi Sustentationis  
+## Caput II — Mechanismi Sustentationis  
 <span id="caput-ii--mechanismi-sustentationis"></span>
 
 §1. Formae sustentationis: dona humanitaria et digitalia, expeditiones per plataformas, contributiones et subscripciones regulares, praxes licentiatae et producta symbolica.  
@@ -1718,7 +1718,7 @@ _Forma oeconomica ut scena participationis, non computatio lucri._
 
 ---
 
-### Caput III — Custodia et Structura  
+## Caput III — Custodia et Structura  
 <span id="caput-iii--custodia-et-structura"></span>
 
 §1. Imarch-DAO non est organum gubernationis, sed nexus inter participes.  
@@ -1730,7 +1730,7 @@ _Forma oeconomica ut scena participationis, non computatio lucri._
 
 ---
 
-### Caput IV — Expansio et Modularitas  
+## Caput IV — Expansio et Modularitas  
 <span id="caput-iv--expansio-et-modularitas"></span>
 
 §1. Imarch creat et disseminat producta formologica:
@@ -1745,7 +1745,7 @@ _Forma oeconomica ut scena participationis, non computatio lucri._
 
 ---
 
-### Caput V — Ethica Interna  
+## Caput V — Ethica Interna  
 <span id="caput-v--ethica-interna"></span>
 
 §1. Financiae potestatem autonomam non habent; sunt fluxus distinctionum.  
@@ -1755,7 +1755,7 @@ _Forma oeconomica ut scena participationis, non computatio lucri._
 
 ---
 
-### Caput VI — Protocolum Donationum  
+## Caput VI — Protocolum Donationum  
 <span id="caput-vi--protocolum-donationum"></span>
 
 §1. Praeparatio includit collectionem nexuum, securitatem digitalem et epistolam comitatricem.  
@@ -1772,7 +1772,7 @@ _Forma oeconomica ut scena participationis, non computatio lucri._
 
 ---
 
-### Caput VII — FAQ: Oeconomia Imyarensis  
+## Caput VII — FAQ: Oeconomia Imyarensis  
 <span id="caput-vii--faq-oeconomia-imyarensis"></span>
 
 §1. Oeconomia Imarch est scena distinctionis, non ratio lucri.  
@@ -1785,7 +1785,7 @@ _Forma oeconomica ut scena participationis, non computatio lucri._
 
 ---
 
-### Appendix  
+## Appendix  
 <span id="appendix"></span>
 
 §1. Imarch operatur per architecturam hybridam:  
@@ -1814,7 +1814,7 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-### I. Praefatio  
+## I. Praefatio  
 <span id="i-praefatio"></span>  
 
 *Codex Civilis* formas participationis, nexus et responsabilitatis definit pro quolibet subiecto in campo institutionali Imarchiae agente.  
@@ -1823,7 +1823,7 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-### II. Definitiones  
+## II. Definitiones  
 <span id="ii-definitiones"></span> 
 
 - **Civis** — subiectum ritum recognitionis pertransiens et statum scaenicum in Imarchia obtinens.  
@@ -1834,7 +1834,7 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-### III. Iura Civium  
+## III. Iura Civium  
 <span id="iii-iura-civium"></span>  
 
 - **Participatio in scaenis publicis** — facultas active implicandi in disputationibus, suffragiis et actionibus communibus intra disciplinam.  
@@ -1845,7 +1845,7 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-### IV. Officia Civium  
+## IV. Officia Civium  
 <span id="iv-officia-civium"></span>
 
 - **Observantia Regularum Scaenicarum** — quilibet civis ordinem in scaenis publicis et clausis sustinet, limites *Codicis* et processus *Custodiae* observat.  
@@ -1857,15 +1857,6 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 ---
 
 ## V. Mechanismi Inspectionis et Verificationis Actionum Civilium  
-- **Nexus Publicus Actionum** — quilibet actus civis per scaenas, archivum et vestigium digitale fixatur, participationem sequi et legitimitatem confirmare sinens.  
-- **Custodialis Supervisio** — *custodes* actiones cum *Codice* conferunt, integritatem sustinent et transitum ad novas scaenas permittunt.  
-- **Revisionis Rituales** — inspectiones periodicae maturitatem, conformitatem formarum et concordantiam cum scaenis prioribus confirmant.  
-- **Retroactio** — civis notificationes de eventibus inspectionis accipit, cum commendationibus ad concordantiam cum principiis disciplinae.  
-- **Archivatio et Recuperatio** — omnis inspectio in archivo fixatur, facultatem praebens cursum participationis et legitimitatem vestigii digitalis restaurare.
-
----
-
-### V. Mechanismi Inspectionis et Verificationis Actionum Civilium  
 <span id="v-mechanismi-inspectionis-et-verificationis-actionum-civilium"></span>  
 
 - **Ius Participationis in Verificatione** — quilibet civis de inspectionibus actionum suarum certior fit et explicationes praebere potest.  
@@ -1876,7 +1867,7 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-### VI. Iura et Officia in Processu Verificationis  
+## VI. Iura et Officia in Processu Verificationis  
 <span id="vi-iura-et-officia-in-processu-verificationis"></span>
 
 - **Responsabilitas Civis** — quilibet civis pro observantia formae, nexus et regularum *Codicis Civilis* responsabilitatem gerit.  
@@ -1887,7 +1878,7 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-### VII. Responsabilitas et Consequentiae Inobservantiae  
+## VII. Responsabilitas et Consequentiae Inobservantiae  
 <span id="vii-responsabilitas-et-consequentiae-inobservantiae"></span>
 
 **Responsabilitas Civis** — Unusquisque civis responsabilitatem gerit pro observantia formae, nexus et praeceptorum Codicis Civilis.
