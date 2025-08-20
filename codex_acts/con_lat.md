@@ -1797,13 +1797,18 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-## I. Praefatio  
+### I. Praefatio  
+<span id="i-praefatio"></span>  
+
 *Codex Civilis* formas participationis, nexus et responsabilitatis definit pro quolibet subiecto in campo institutionali Imarchiae agente.  
+
 Finis eius est civitatem confirmare ut formam activam actionis, non statum staticum, et nexum praestare inter formam individualem et memoriam institutionis.
 
 ---
 
-## II. Definitiones  
+### II. Definitiones  
+<span id="ii-definitiones"></span> 
+
 - **Civis** — subiectum ritum recognitionis pertransiens et statum scaenicum in Imarchia obtinens.  
 - **Scaena** — spatium institutionale formale, in quo civis agit, participat vel agnoscitur.  
 - **Ritus Recognitionis** — processus formalis ingressus, qui subsignationem, nexum et archivum includit.  
@@ -1812,7 +1817,9 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-## III. Iura Civium  
+### III. Iura Civium  
+<span id="iii-iura-civium"></span>  
+
 - **Participatio in scaenis publicis** — facultas active implicandi in disputationibus, suffragiis et actionibus communibus intra disciplinam.  
 - **Accessus ad res** — ad archivum, codices, modulos educationis et programmata consociata ad discendum et ad usum practicam.  
 - **Initiativa** — ius proponendi novas scaenas, formas, consilia et codices, ad evolutionem campi institutionalis contribuendo.  
@@ -1821,7 +1828,9 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-## IV. Officia Civium  
+### IV. Officia Civium  
+<span id="iv-officia-civium"></span>
+
 - **Observantia Regularum Scaenicarum** — quilibet civis ordinem in scaenis publicis et clausis sustinet, limites *Codicis* et processus *Custodiae* observat.  
 - **Participatio Activa** — cives disputationibus, suffragiis et consiliis communibus intersunt, progressionem disciplinae foventes.  
 - **Sustentatio Custodiae** — integritatem et accessibilitatem archivorum, codicum et materiarum educationalium per actiones proprias et nexum conservant.  
@@ -1839,7 +1848,9 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-## VI. Iura et Officia in Processu Verificationis  
+### V. Mechanismi Inspectionis et Verificationis Actionum Civilium  
+<span id="v-mechanismi-inspectionis-et-verificationis-actionum-civilium"></span>  
+
 - **Ius Participationis in Verificatione** — quilibet civis de inspectionibus actionum suarum certior fit et explicationes praebere potest.  
 - **Officium Transparentiae** — civis actiones suas per scaenas, vestigium digitale et archivum fixare debet, ut inspectio fieri possit.  
 - **Ius Correctionis** — si inconcordantia detegitur, civis actus suos ritualmente corrigere et cum *Codice* reconciliari potest.  
@@ -1848,7 +1859,9 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-## VII. Responsabilitas et Consequentiae Inobservantiae  
+### VI. Iura et Officia in Processu Verificationis  
+<span id="vi-iura-et-officia-in-processu-verificationis"></span>
+
 - **Responsabilitas Civis** — quilibet civis pro observantia formae, nexus et regularum *Codicis Civilis* responsabilitatem gerit.  
 - **Consequentiae Violationis** — violatio disciplinae formologicae ad suspensionem temporariam iurium, revisionem ritualem vel correctionem scaenae ducere potest.  
 - **Correctio Ritualis** — quilibet actus violationis per nexum publicum, ritum recognitionis iteratum vel correctionem vestigii digitalis emendari potest.  
@@ -1857,7 +1870,8 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-# Codex VI — Codex Participationis Integralis
+### VII. Responsabilitas et Consequentiae Transgressionis  
+<span id="vii-responsabilitas-et-consequentiae-transgressionis"></span>s
  
 Actus principalis de participatione, formis civitatis, ritibus transitionis et nexu archivistico.
 
