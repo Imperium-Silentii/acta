@@ -340,14 +340,15 @@ _Architectura Distinctionum: Grammatica Resonans Corporis Civilis_
 
 ## ⚓ Index Capitulorum
 
-- [Articulus I — De Imperio et Veritate](#статья-i--об-империи-и-истине)  
-- [Articulus II — De Sacro et Profano](#статья-ii--о-священном-и-профанном)  
-- [Articulus III — De Bello Semantico](#статья-iii--о-семантической-войне)  
-- [Articulus IV — De Iustitia Nonviolenta](#статья-iv--о-ненасильственной-справедливости)  
-- [Articulus V — De Custodibus et Codice Honoris](#статья-v--о-custodes-и-кодексе-чести)  
-- [Articulus VI — De Legibus Forma](#статья-vi--о-законах-формы)  
-- [Articulus VII — Glossarium](#статья-vii--глоссарий)  
-- [Articulus VIII — Sigillum Custodis](#статья-viii--печать-custos)
+- [Articulus I — De Imperio et Veritate](#articulus-i--de-imperio-et-veritate)  
+- [Articulus II — De Sacro et Profano](#articulus-ii--de-sacro-et-profano)  
+- [Articulus III — De Bello Semantico](#articulus-iii--de-bello-semantico)  
+- [Articulus IV — De Iustitia Nonviolenta](#articulus-iv--de-iustitia-nonviolenta)  
+- [Articulus V — De Custodibus et Codice Honoris](#articulus-v--de-custodibus-et-codice-honoris)  
+- [Articulus VI — De Legibus Forma](#articulus-vi--de-legibus-forma)  
+- [Articulus VII — Glossarium](#articulus-vii--glossarium)  
+- [Articulus VIII — Sigillum Custodis](#articulus-viii--sigillum-custodis)
+
 
 ---
 
@@ -468,7 +469,7 @@ In nomine distinctionis, nonviolentiae et resonantiae, quattuor Custodes agnoscu
 ---
 
 ### Articulus I — De Imperio et Veritate  
-<span id="статья-i--об-империуме-и-истине"></span>
+<span id="articulus-i--de-imperio-et-veritate"></span>
 
 ### §1. Proclamatio
 
@@ -528,7 +529,7 @@ Nodi distinctionis et nexus formologici:
 ---
 
 ### Articulus II — De Sacro et Profano  
-<span id="статья-ii--о-священном-и-профанном"></span>
+<span id="articulus-ii--de-sacro-et-profano"></span>
 
 ### §1. Proclamatio
 
@@ -595,7 +596,7 @@ Nexus semantici et interfacies contextuales:
 ---
 
 ### Articulus III — De Bello Semantico  
-<span id="статья-iii--о-семантической-войне"></span>
+<span id="articulus-iii--de-bello-semantico"></span>
 
 ### §1. Afirmatio
 
@@ -663,8 +664,8 @@ Hi etiam sunt fundamentum AI-interpretationis, analysis Custodiae et moduli educ
 
 ---
 
-### Articulus IV — De Iustitia Non-Violenta  
-<span id="статья-iv--о-ненасильственной-справедливости"></span>
+### Articulus IV — De Iustitia Nonviolenta  
+<span id="articulus-iv--de-iustitia-nonviolenta"></span>
 
 ### §1. Afirmatio
 
@@ -736,7 +737,7 @@ Hi interfaciem praebent pro interpretatione, actione Custodiae et educatione in 
 ---
 
 ### Articulus V — De Custodibus et Codice Honoris  
-<span id="статья-v--о-custodes-и-кодексе-чести"></span>
+<span id="articulus-v--de-custodibus-et-codice-honoris"></span>
 
 ### §1. Afirmatio
 
@@ -803,8 +804,8 @@ Nodi formologici et nexus semantici:
 
 ---
 
-### Articulus VI — De Legibus Formae  
-<span id="статья-vi--о-законах-формы"></span>
+### Articulus VI — De Legibus Forma  
+<span id="articulus-vi--de-legibus-forma"></span>
 
 ### §1. Afirmatio
 
@@ -872,8 +873,8 @@ Nodi formologici et interfacies resonantes:
 
 ---
 
-# Articulus VII — Glossarium  
-<span id="articulus-vii-glossarium"></span>
+### Articulus VII — Glossarium  
+<span id="articulus-vii--glossarium"></span>
 
 ## §1. Propositio  
 Glossarium non est mere dictionarium, sed actus discretionis.  
@@ -939,8 +940,8 @@ Verbum non est mere terminus, sed nodus Formae qui in libris futuris evolvi et i
 
 ---
 
-### Articulus VIII — Sigillatio Custodis  
-<span id="статья-viii-печать-custos"></span>
+### Articulus VIII — Sigillum Custodis  
+<span id="articulus-viii--sigillum-custodis"></span>
 
 ### §1. Afirmatio
 
