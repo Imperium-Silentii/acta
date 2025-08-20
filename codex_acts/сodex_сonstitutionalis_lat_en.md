@@ -1,4 +1,5 @@
-<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Logo Imarchia" align="left" width="400">
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Logo Imarchia" width="400">
+
 
 LAT  [EN](#en)
 
@@ -2003,11 +2004,13 @@ Haec Constitutio Imarchiae ut forma valida confirmatur, cum memoria publica nexu
 
 Omnia statuta in Libris I et II descripta vim habent a momento fixationis publicae et subscriptionis archivisticae.
 
-<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Logo Imarchia" align="left" width="400">
-
 ---
 
-<h2 id="EN">EN</h2>
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Logo Imarchia" width="400">
+<p>Твой текст начинается здесь...</p>
+
+<h2 id="en">EN</h2>
+
 
 # 📜 Constitutional Codex of Imarchia
 
