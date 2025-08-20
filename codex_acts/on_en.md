@@ -1775,7 +1775,7 @@ _Economic form as a scene of participation, not a calculation of profit._
 ---
 
 ### Appendix — Legal Structure  
-<span id="appendix--legal-structure"></span>
+<span id="appendix"></span>
 
 §1. Imarch operates through a hybrid architecture:  
  • LTD UK — scene of international fixation  
