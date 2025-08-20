@@ -4012,3 +4012,5 @@ Right to temporarily exit, archive, and restore one’s form.
 This Constitution of Imarchia is hereby affirmed as a valid form, linked to public memory, and open to expansion through ritual acts and scenes of recognition.  
 A
 ll provisions set forth in Books I and II take effect upon public fixation and archival signature.
+
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/images/qr-code_codex_constitutionalis.png?raw=true" alt="QR Codex Constitutionalis" width="50" style="display:block; margin-left:0;">
