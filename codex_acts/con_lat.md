@@ -1872,8 +1872,25 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ### VII. Responsabilitas et Consequentiae Transgressionis  
 <span id="vii-responsabilitas-et-consequentiae-transgressionis"></span>s
- 
-Actus principalis de participatione, formis civitatis, ritibus transitionis et nexu archivistico.
+
+**Responsabilitas Civis** — Unusquisque civis responsabilitatem gerit pro observantia formae, nexus et praeceptorum Codicis Civilis.
+
+**Consecutiones Transgressionis** — Transgressio disciplinae formologicae ad suspensionem iurum temporalem, revisionem ritualem aut correctionem scaenae ducere potest.
+
+**Correctio Ritualis** — Unusquisque actus transgressionis per nexum publicum, iteratum ritum recognitionis aut emendationem vestigii digitalis corrigitur.
+
+**Transparens Supervisio** — Omnia acta cum transgressione coniuncta per Custodiam et archivum registrantur, verificabilitatem et legitimitatem praebentes.
+
+**Restitutio Facultatum** — Post correctionem et concordiam, civis iura et statum participationis in scaenis plene restituit.
+🔹 Все элементы соблюдены:
+
+---
+
+## 📚 Codex VI — Codex Participationis Integralis  
+<span id="codex-vi--codex-participationis-integralis"></span>
+> *Participatio non est actus singularis, sed nexus inter formas vivas et memoriam institutionis.*
+
+
 
 ### ⚓ Index  
 <span id="index-articulorum-liber-ii"></span>
