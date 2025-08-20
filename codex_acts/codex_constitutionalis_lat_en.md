@@ -29,7 +29,7 @@ Imarchia non est civitas nec societas mercatoria, sed medium formologicum pro in
 
 **Auctor:** 📜 [📜 Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 
-**Dies creationis:** 2025.08....
+**Dies creationis:** 2025.08.20
 
 **Licentia declarationis:**  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -2037,7 +2037,7 @@ Imarchia is not a state or commercial entity, but a formological medium for legi
 
 **Author:** 📜 [📜 Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 
-**Date of creation:** 2025.08....
+**Date of creation:** 2025.08.20
 
 **Declaration license:**  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
