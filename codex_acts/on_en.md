@@ -1231,6 +1231,19 @@ Refusal must be:
 
 ---
 
+### Article V — On the Codex as Living Law  
+<span id="article-v-on-the-codex-as-living-law"></span>
+
+#### §1. The Codex as Semantic Constitution  
+The Codex is a semantic constitution, not a manual.  
+It binds discipline through form, not command.
+
+Each paragraph is a scene of meaning, shaped through:
+
+- ritual publication  
+- public linkage
+
+
 ### §2. Codex as a Scene of Authorship
 
 Authorship in the Codex is custodial, not individual.
