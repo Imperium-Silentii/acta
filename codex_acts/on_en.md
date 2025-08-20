@@ -1814,7 +1814,7 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 - [III. Rights of Citizens](#iii-rights-of-citizens)  
 - [IV. Duties of Citizens](#iv-duties-of-citizens)  
 - [V. Mechanisms of Oversight and Verification of Civic Actions](#v-mechanisms-of-oversight-and-verification-of-civic-actions)  
-- [VI. Rights and Duties During the Verification Process](#vi-rights-and-duties-during-the-verification-process)  
+- [VI. Rights and Duties During the Verification Process](#vi-rights-and-duties-during-the-verification-process)
 - [VII. Accountability and Consequences of Non-Compliance](#vii-accountability-and-consequences-of-non-compliance)
 
 ---
@@ -1872,8 +1872,8 @@ Its purpose is to affirm citizenship as an active form of action, not a static s
 
 ---
 
-### VI. Rights and Duties During Verification Process  
-<span id="vi-rights-and-duties-during-verification-process"></span>
+### VI. Rights and Duties During the Verification Process  
+<span id="vi-rights-and-duties-during-the-verification-process"></span>
 
 - **Right to participate in verification** — each citizen is notified of inspections of their actions and may provide clarifications.  
 - **Duty of transparency** — the citizen must fix their actions through scenes, digital trace, and archive to enable verification.  
