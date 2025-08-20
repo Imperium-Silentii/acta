@@ -29,9 +29,14 @@ Imarchia non est civitas nec societas mercatoria, sed medium formologicum pro in
 
 **Auctor:** 📜 [📜 Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 
-**Dies creationis:** 2025.08.20
+**Dies creationis:** 2025.08.20  
 
-**Licentia declarationis:**  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**Lingua Codicis:** `la-en` — versio Latina cum verificatione Anglica in campo iuris internationalis  
+
+**Versio Codicis:** Prima Compilatio | Bilingual Verified Edition  
+
+**Licentia declarationis:**  
+🔗 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### 📜 Condiciones Licentiae
 
@@ -44,20 +49,18 @@ Imarchia non est civitas nec societas mercatoria, sed medium formologicum pro in
 
 ### 🔐 SHA256-Impressio
 
-...
+Forma PDF huius Chartae, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 
-Versio PDF huius Codicis Constitutionalis, cum impressione hash et sigillo emissionis, per petitionem officialem praesto est.  
-Petitiones mittuntur ad: **unghart@proton.me**, cum ratione et nomine institutionali partis petentis.
+Rogatio mittenda est ad: **unghart@proton.me**, cum ratione requisitionis et indicatione nominis institutionis petentis.
 
 ---
 
 ## 🏛️ Coniunctio Archivistica
 
-...
-
-Declaratio formaliter et publice archiviata est, firmitatem iuridicam, temporis signum fixum et facultatem citationis praestans.
+Declaratio formaliter et publice archiviata est, firmitatem iuridicam, temporis signum fixum et facultatem citationis praestans.  
 
 ---
+
 
 ## 📜 Declaratio de Coniunctione Sex Codicum
 
@@ -2034,37 +2037,42 @@ Imarchia is not a state or commercial entity, but a formological medium for legi
 
 ---
 
-## 🏛️ Formological Seal and License
+## 🏛️ Sigillum Formologicum et Licentia
 
-**Author:** 📜 [📜 Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
+**Auctor:** 📜 [📜 Passport Unghart-sn — Archivum](https://archivum.imarch.sbs/passport_Unghart-sn_001)  
 
-**Date of creation:** 2025.08.20
+**Dies creationis:** 2025.08.20  
 
-**Declaration license:**  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**Lingua Codicis:** `la-en` — versio Latina cum verificatione Anglica in campo iuris internationalis  
 
-### 📜 License Terms
+**Versio Codicis:** Prima Compilatio | Bilingual Verified Edition  
 
-- 📌 **Attribution** — author and original source must be cited  
-- 🚫 **Non-commercial use** — use for profit is prohibited  
-- 🔁 **Share alike** — derivative works must be published under the same license  
-- 🏷️ **License seal:** CC BY-NC-SA 4.0
+**Licentia declarationis:**  
+🔗 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
----
+### 📜 Condiciones Licentiae
 
-### 🔐 SHA256-Fingerprint
-
-...
-
-The PDF version of this Constitutional Codex, including hash fingerprint and release seal, is available upon official request.  
-Requests should be sent to: **unghart@proton.me**, with justification and institutional name of the requesting party.
+- 📌 **Attribuere** — nomen auctoris et fontem originalem indicare necesse est  
+- 🚫 **Usus non-commercialis** — usus ad lucrum vetatur  
+- 🔁 **Conservatio condicionum** — opera derivata eadem licentia publicari debent  
+- 🏷️ **Sigillum licentiae:** CC BY-NC-SA 4.0
 
 ---
 
-## 🏛️ Archival Consolidation
+### 🔐 SHA256-Impressio
 
-...
+Forma PDF huius Chartae, una cum valore hashing et sigillo emissionis, praebetur ad petitionem officialem.  
 
-The declaration has been formally and publicly archived, ensuring legal solidity, a fixed timestamp, and citability.
+Rogatio mittenda est ad: **unghart@proton.me**, cum ratione requisitionis et indicatione nominis institutionis petentis.
+
+---
+
+## 🏛️ Coniunctio Archivistica
+
+Declaratio formaliter et publice archiviata est, firmitatem iuridicam, temporis signum fixum et facultatem citationis praestans.  
+
+---
+
 
 ---
 
