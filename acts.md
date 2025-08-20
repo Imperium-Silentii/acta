@@ -6,7 +6,7 @@
 
 This section includes Charters, Declarations, Codes, and structural protocols ratified by the *Formologica Office of Praxis*.
 
-## 📘 Codex Coniunctionis {#codex-coniunctionis}
+## 📘 Codex Coniunctionis 
 
 Codex Coniunctionis is the Constitution of the conjunction of the six Codices of Imarchia, affirming them as a single formological body.
 
@@ -25,37 +25,16 @@ The six Codices of the Constitution of Imarchia — Charta Imarchica, Codex Imar
 
 ## 🔖 Sections
 
-## 📚 Codex Documents I  
-📜 [Charta Imarchica — Liber I](https://acta.imarch.sbs/codex_acts/charta_liber_I)  
-
-Foundational distinctions and resonant architecture of the Empire of Truth and Silence.  
-
-## 📚 Codex Documents II  
-📜 [Codex Imarchae — Liber I](https://acta.imarch.sbs/codex_acts/codex_imarcha_liber_I)  
-
-Architectura distinctionum: grammatica resonans corporis civilis.
-
-## 📚 Codex Documents III  
-📜 [Declaratio de Disciplina Formologiae](https://acta.imarch.sbs/codex_acts/Declaratio_de_Disciplina_Formologiae)
-
-Ethics of form: inner discipline and ritual citizenship.
+## 📚 Codex Codex Constitutionis  
+📜 [Book I](https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en)
+ 
+The foundational document of institutional dignity, codifying the structural, ethical, and ritual principles upon which the sovereign architecture of Imarchia is erected.  
 
 ---
 
-## 📚 Codex Documents IV  
-📜 [Codex Capitalis](https://acta.imarch.sbs/codex_acts/codex_capitalis)  
-The economic form as a scene of participation, not a calculus of profit.
-
----
-
-## 📚 Codex Documents V  
-📜 [Codex Civilis](https://acta.imarch.sbs/codex_acts/codex_cvilis)  
-The civic form as a vestigial act, not a static condition.
-
----
-
-## 📚 Codex Documents VI  
-📜 [Codex Participationis Integralis](https://acta.imarch.sbs/codex_acts/codex_participationis_integralis)
+## 📚 Charter of the Platan+ Institute  
+📜   
+The Charter of the Platan+ Institute establishes its legal status, objectives, governance structure, and ritual principles, ensuring its sovereign operation within the formological scene.
 
 Participation as an act of citizenship, not as anonymous access.
 
