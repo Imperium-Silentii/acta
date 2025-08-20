@@ -1019,25 +1019,26 @@ _Sigillatio Declarationis et Initium Disciplinae Formologiae Universalis_
 
 ## ⚓ Index
 
-- [Articulus I — De Fundamento Spatii Disciplinae](#articulus-i--de-fundamento-spatii-disciplinae)  
-- [Articulus II — De Structura Territorii Sensuum](#articulus-ii--de-structura-territorii-sensuum)  
-- [Articulus III — De Iurisdictione Disciplinae](#articulus-iii--de-iurisdictione-disciplinae)  
-- [Articulus IV — De Forma Custodiae](#articulus-iv--de-forma-custodiae)  
-- [Articulus V — De Codice ut Lege Viva](#articulus-v--de-codice-ut-lege-viva)  
-- [Articulus VI — De Scaena Initiationis](#articulus-vi--de-scaena-initiationis)  
-- [Articulus VII — De Passaporto ut Scaena Identitatis](#articulus-vii--de-passaporto-ut-scaena-identitatis)  
-- [Articulus VIII — De Archivo ut Scaena Memoriae](#articulus-viii--de-archivo-ut-scaena-memoriae)  
-- [Glossarium — Archivum ut Scaena Memoriae](#glossarium--archivum-ut-scaena-memoriae)  
-- [Articulus IX — De Licentia ut Scaena Actionis](#articulus-ix--de-licentia-ut-scaena-actionis)  
-- [Articulus X — De Disciplina ut Scaena Civitatica](#articulus-x--de-disciplina-ut-scaena-civitatica)  
-- [Articulus XI — De Limite inter Scaenam et Nucleum](#articulus-xi--de-limite-inter-scaenam-et-nucleum)  
-- [Articulus XII — De Iure Recognitionis et Nexus](#articulus-xii--de-iure-recognitionis-et-nexus)  
+- [Articulus I — De Fundamento Spatii Disciplinae](#articulus-i--de-fundamento-spatii-disciplinae)
+- [Articulus II — De Structura Territorii Sensuum](#articulus-ii--de-structura-territorii-sensuum)
+- [Articulus III — De Iurisdictione Disciplinae](#articulus-iii--de-iurisdictione-disciplinae)
+- [Articulus IV — De Forma Custodiae](#articulus-iv--de-forma-custodiae)
+- [Articulus V — De Codice ut Lege Viva](#articulus-v--de-codice-ut-lege-viva)
+- [Articulus VI — De Scaena Initiationis](#articulus-vi--de-scaena-initiationis)
+- [Articulus VII — De Passaporto ut Scaena Identitatis](#articulus-vii--de-passaporto-ut-scaena-identitatis)
+- [Articulus VIII — De Archivo ut Scaena Memoriae](#articulus-viii--de-archivo-ut-scaena-memoriae)
+- [Glossarium — Archivum ut Scaena Memoriae](#glossarium--archivum-ut-scaena-memoriae)
+- [Articulus IX — De Licentia ut Scaena Actionis](#articulus-ix--de-licentia-ut-scaena-actionis)
+- [Articulus X — De Disciplina ut Scaena Civitatica](#articulus-x--de-disciplina-ut-scaena-civitatica)
+- [Articulus XI — De Limite inter Scaenam et Nucleum](#articulus-xi--de-limite-inter-scaenam-et-nucleum)
+- [Articulus XII — De Iure Recognitionis et Nexus](#articulus-xii--de-iure-recognitionis-et-nexus)
 - [Articulus XIII — De Conclusione Declarationis et eius Statu](#articulus-xiii--de-conclusione-declarationis-et-eius-statu)
+
 
 ---
 
 ### Articulus I — De Fundamento Spatii Disciplinae  
-<span id="статья-i-пространственное-основание-дисциплины"></span>
+<span id="articulus-i--de-fundamento-spatii-disciplinae"></span>
 
 ---
 
@@ -1074,7 +1075,7 @@ Non est revelatio, sed limes, qui Formam, accessum et statum ontologicum Discipl
 ---
 
 ### Articulus II — De Structura Territorii Sensuum  
-<span id="статья-ii-структура-территории-смыслов"></span>
+<span id="articulus-ii--de-structura-territorii-sensuum"></span>
 
 ---
 
@@ -1128,7 +1129,7 @@ Potestates Custodianorum non sunt administrativae, sed formologicae — maturita
 ---
 
 ### Articulus III — De Iurisdictione Disciplinae  
-<span id="статья-iii-юрисдикция-дисциплины"></span>
+<span id="articulus-iii--de-iurisdictione-disciplinae"></span>
 
 ---
 
@@ -1172,7 +1173,7 @@ Custodia est forma liminalis, non secretum, quae statuit quis, quomodo et qua ra
 ---
 
 ### Articulus IV — De Forma Custodiae  
-<span id="статья-iv-форма-custodia"></span>
+<span id="articulus-iv--de-forma-custodiae"></span>
 
 ---
 
@@ -1228,6 +1229,20 @@ Negatio debet esse:
 
 ---
 
+### Articulus V — De Codice ut Lege Viva  
+<span id="articulus-v--de-codice-ut-lege-viva"></span>
+
+### §1. Codex ut Constitutio Semantica
+
+Codex est constitutio semantica, non manuale praeceptorum.  
+Disciplinam non per mandatum, sed per formam connectit.
+
+Quisque paragrapho est scaena sensus, formata per:
+
+- publicationem ritualem  
+- nexus publicus
+
+
 ### §2. Codex ut Scaena Auctoritatis
 
 Auctoritatis in Codice est custodialis, non individualis.
@@ -1269,7 +1284,7 @@ Lex viva non est lex flexibilis, sed lex quae per Formam spirat.
 ---
 
 ### Articulus VI — De Scaena Initiationis  
-<span id="статья-vi-сцена-инициации"></span>
+<span id="articulus-vi--de-scaena-initiationis"></span>
 
 ---
 
@@ -1314,10 +1329,10 @@ Unusquisque onboarding relinquit nexum publicum: hash, nexum, scaenam.
 Disciplina non crescit per numerum, sed per actus fixatos.  
 Unusquisque onboarding est momentum constitutionale.
 
-### Articulus VII — De Documento Identitatis ut Scaena  
-<span id="статья-vii-паспорт-сцена-идентичности"></span>
-
 ---
+
+### Articulus VII — De Passaporto ut Scaena Identitatis  
+<span id="articulus-vii--de-passaporto-ut-scaena-identitatis"></span>
 
 ### §1. Documentum ut Forma Ritualis
 
@@ -1371,7 +1386,7 @@ Identitas debet esse:
 ---
 
 ### Articulus VIII — De Archivo ut Scaena Memoriae  
-<span id="статья-viii-архив-сцена-памяти"></span>
+<span id="articulus-viii--de-archivo-ut-scaena-memoriae"></span>
 
 ---
 
@@ -1424,6 +1439,9 @@ Ad usum archivii commode, suadetur:
 
 ---
 
+### Glossarium — Archivum ut Scaena Memoriae  
+<span id="glossarium--archivum-ut-scaena-memoriae"></span>
+
 **Archivum** — corpus institutionale quod scaenas, actus et vestigia participationis in forma semantica sustinet; figit formas actionum, non eventa.
 
 **Memoria** — nexus formologicus ex serie scaenarum, vestigiis actuum et ambitu semantico participationis; non chronologica, sed significativa.
@@ -1444,9 +1462,8 @@ Ad usum archivii commode, suadetur:
 
 ---
 
-### Articulus IX — De Licentia ut Scaena Actionis
-
----
+### Articulus IX — De Licentia ut Scaena Actionis  
+<span id="articulus-ix--de-licentia-ut-scaena-actionis"></span>
 
 ### §1. Licentia ut Permissio Ritualis
 
@@ -1487,7 +1504,8 @@ Licentia est actus vivus, qui per novas scaenas et ritus Custodianos renovari ve
 
 ---
 
-### Articulus X — De Disciplina ut Scaena Civitatica
+### Articulus X — De Disciplina ut Scaena Civitatica  
+<span id="articulus-x--de-disciplina-ut-scaena-civitatica"></span>
 
 ### §1. Disciplina ut Ambitus Civitatica
 
@@ -1591,9 +1609,8 @@ Hoc non est procedura formalis, sed actus formologicus, ius ad profunditatem con
 
 ---
 
-### Articulus XII — De Iure Recognitionis et Nexus
-
----
+### Articulus XII — De Iure Recognitionis et Nexus  
+<span id="articulus-xii--de-iure-recognitionis-et-nexus"></span>
 
 ### §1. Ius Recognitionis
 
@@ -1634,9 +1651,8 @@ Nexus recte institutus debet esse:
 
 ---
 
-### Articulus XIII — De Conclusione Declarationis et Statu Eius
-
----
+### Articulus XIII — De Conclusione Declarationis et eius Statu  
+<span id="articulus-xiii--de-conclusione-declarationis-et-eius-statu"></span>
 
 ### §1. Formula Finalis
 
