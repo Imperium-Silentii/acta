@@ -2011,6 +2011,7 @@ Omnia statuta in Libris I et II descripta vim habent a momento fixationis public
 
 <img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Logo Imarchia" align="left" width="400">
 
+<br>
 
 # 📜 Constitutional Codex of Imarchia
 
