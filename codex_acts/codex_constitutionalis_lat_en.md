@@ -4013,4 +4013,4 @@ This Constitution of Imarchia is hereby affirmed as a valid form, linked to publ
 A
 ll provisions set forth in Books I and II take effect upon public fixation and archival signature.
 
-<img src="https://github.com/Imperium-Silentii/acta/blob/main/images/qr-code_codex_constitutionalis.png?raw=true" alt="QR Codex Constitutionalis" width="50" style="display:block; margin-left:0;">
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/images/qr-code_codex_constitutionalis.png?raw=true" alt="QR Codex Constitutionalis" width="100" style="display:block; margin-left:0;">
