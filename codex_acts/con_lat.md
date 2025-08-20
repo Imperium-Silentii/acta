@@ -1887,8 +1887,8 @@ Finis eius est civitatem confirmare ut formam activam actionis, non statum stati
 
 ---
 
-### VII. Responsabilitas et Consequentiae Transgressionis  
-<span id="vii-responsabilitas-et-consequentiae-transgressionis"></span>s
+### VII. Responsabilitas et Consequentiae Inobservantiae  
+<span id="vii-responsabilitas-et-consequentiae-inobservantiae"></span>
 
 **Responsabilitas Civis** — Unusquisque civis responsabilitatem gerit pro observantia formae, nexus et praeceptorum Codicis Civilis.
 
