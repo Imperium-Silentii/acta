@@ -342,14 +342,14 @@ _Architecture of Distinctions: Resonant Grammar of the Civic Body_
 
 ## ⚓ Table of Contents
 
-- [Article I — On Imperium and Truth](#статья-i--об-империи-и-истине)  
+-[Article I — On Imperium and Truth](#article-i-on-imperium-and-truth)
 - [Article II — On the Sacred and the Profane](#статья-ii--о-священном-и-профанном)  
 - [Article III — On the Semantic War](#статья-iii--о-семантической-войне)  
 - [Article IV — On Nonviolent Justice](#статья-iv--о-ненасильственной-справедливости)  
 - [Article V — On the Custodes and the Code of Honor](#статья-v--о-custodes-и-кодексе-чести)  
 - [Article VI — On the Laws of Form](#статья-vi--о-законах-формы)  
 - [Article VII — Glossary](#статья-vii--глоссарий)  
-- [Article VIII — The Seal of the Custos](#статья-viii--печать-custos)
+- [Article VIII — The Seal of the Custos](#article-viii-custos-seal)
 
 ---
 
@@ -472,7 +472,7 @@ In the name of distinction, nonviolence, and resonance, the four Custodes recogn
 ---
 
 ### Article I — On Imperium and Truth  
-<span id="статья-i--об-империуме-и-истине"></span>
+<span id="article-i-on-imperium-and-truth"></span>
 
 ### §1. Proclamation
 
@@ -876,8 +876,8 @@ Formological nodes and resonant interfaces:
 
 ---
 
-# Art. VII — Glossarium  
-<span id="art-vii-glossarium"></span>
+# Article VII — Glossarium  
+<span id="статья-vii-глоссарий"></span>
 
 ## §1. Statement  
 The Glossarium is not merely a dictionary but an act of discernment.  
@@ -944,7 +944,7 @@ Each word is not merely a term but a node of the Form that can be developed and 
 ---
 
 ### Article VIII — Custos Seal  
-<span id="статья-viii-печать-custos"></span>
+<span id="article-viii-custos-seal"></span>
 
 ### §1. Affirmation
 
