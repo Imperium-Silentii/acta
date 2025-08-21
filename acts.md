@@ -31,7 +31,7 @@ The six Codices of the Constitution of Imarchia — Charta Imarchica, Codex Imar
 ---
 
 # 📚 Codex Constitutionis  
-##📜 [Book I](https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en)
+## 📜 [Book I](https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en)
  
 The foundational document of institutional dignity, codifying the structural, ethical, and ritual principles upon which the sovereign architecture of Imarchia is erected.  
 
