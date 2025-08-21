@@ -1,3 +1,7 @@
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Logo Imarchia" align="left" width="400">
+
+<br>
+
 # 📜 Конституционный Кодекс Имархии  
 
 «Луна видна без телескопа, но кратеры на ней не сосчитать.»
