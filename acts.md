@@ -28,16 +28,30 @@ The six Codices of the Constitution of Imarchia — Charta Imarchica, Codex Imar
 
 ## 🔖 Sections
 
-## 📚 Codex Codex Constitutionis  
-📜 [Book I](https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en)
+---
+
+# 📚 Codex Constitutionis  
+##📜 [Book I](https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en)
  
 The foundational document of institutional dignity, codifying the structural, ethical, and ritual principles upon which the sovereign architecture of Imarchia is erected.  
 
 ---
 
-## 📚 Charter of the Platan+ Institute  
-📜   
+# 📚 Charter of the Platan+ Institute  
+##📜   
 The Charter of the Platan+ Institute establishes its legal status, objectives, governance structure, and ritual principles, ensuring its sovereign operation within the formological scene.
+
+
+---
+
+# 📚 Codex of Formology
+## 📜 Introduction  
+## 📜 Discipline  
+## 📜 Practice
+
+A foundational document that regulates the principles, rituals, and structural forms of institutional thought, aimed at the fixation of meaning through digital discipline.
+
+---
 
 Participation as an act of citizenship, not as anonymous access.
 
