@@ -38,7 +38,7 @@ The foundational document of institutional dignity, codifying the structural, et
 ---
 
 # 📚 Charter of the Platan+ Institute  
-##📜   
+## 📜 Introductio Publica  
 
 The Charter of the Platan+ Institute establishes its legal status, objectives, governance structure, and ritual principles, ensuring its sovereign operation within the formological scene.
 
